@@ -13,8 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "finance-rules": { title: "Finance", idPrefix: "GR-F", json: "government-rules/finance.json" }
     };
 
-    const rulesPerPage = 20; // Define a constant for rules per page
-    let totalPages = 1;
+    const rulesPerPage = 20;
 
     const fetchRules = async (id) => {
         const config = rulesConfig[id];
@@ -29,22 +28,25 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             const data = await response.json();
 
+            // Check if the data is in the expected 'groups' format or the 'law.json' format
             if (data && Array.isArray(data)) {
-                let ruleCounter = 1; // Correctly initialize rule counter
+                let ruleCounter = 1;
                 const processedGroups = data.map(group => {
                     const newRules = (group.rules || group.content || []).map(rule => {
-                        const code = `${config.idPrefix}${ruleCounter}`;
-                        const page = Math.ceil(ruleCounter / rulesPerPage); // Use the constant
+                        // Dynamically assign code and page
+                        const code = `${config.idPrefix}-${ruleCounter}`;
+                        const page = Math.ceil(ruleCounter / rulesPerPage);
                         ruleCounter++;
                         return { ...rule, code, page };
                     });
+                    // Return a consistent structure
                     return { title: group.title, rules: newRules };
                 });
-                
-                // Calculate total pages based on the final rule count
-                const allRulesCount = ruleCounter - 1; // The final value of ruleCounter is 1 more than the count
-                totalPages = Math.ceil(allRulesCount / rulesPerPage);
-                
+
+                // Calculate total pages based on the total number of rules
+                const totalRules = ruleCounter - 1;
+                totalPages = Math.ceil(totalRules / rulesPerPage);
+
                 return processedGroups;
             } else {
                 console.error("Fetched data is not an array:", data);
@@ -56,6 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
     
+
     // Get all necessary DOM elements
     const mainSelection = document.getElementById('main-selection');
     const serverRulesSelection = document.getElementById('server-rules-selection');
@@ -72,8 +75,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let currentCategoryId = '';
     let currentPage = 1;
+    let totalPages = 1;
     let currentCategoryData = null;
-    let currentMainCategory = ''; // Added
+    let currentMainCategory = '';
 
     // Function to generate and display rule items for the current page
     function renderRulesForPage(groupsData) {
@@ -83,26 +87,16 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        let rulesToRender = [];
-        groupsData.forEach(group => {
-            if (group.rules && Array.isArray(group.rules)) {
-                rulesToRender = rulesToRender.concat(group.rules.filter(rule => rule.page === currentPage));
-            }
-        });
+        let allRules = groupsData.flatMap(group => group.rules || []);
+        let rulesToRender = allRules.filter(rule => rule.page === currentPage);
         
-        if (rulesToRender.length === 0 && currentPage === 1) { // Handle case with no rules
-            dynamicRulesContent.innerHTML = `<p class="error-message">No rules found for this category.</p>`;
+        if (rulesToRender.length === 0) {
+            dynamicRulesContent.innerHTML = `<p class="error-message">No rules found for this page.</p>`;
             updatePaginationButtons();
             return;
         }
-        
-        if (rulesToRender.length === 0) { // Handle empty page
-             dynamicRulesContent.innerHTML = `<p class="error-message">No rules found for this page.</p>`;
-             updatePaginationButtons();
-             return;
-        }
 
-        // Create and append a header for the category (using the first group's title for simplicity, or you can adjust)
+        // Create and append a header for the category
         const header = document.createElement('div');
         header.innerHTML = `<h2 class="rules-header">${groupsData[0].title} - Page ${currentPage} of ${totalPages}</h2>`;
         dynamicRulesContent.appendChild(header);
@@ -187,7 +181,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     subCategoryBoxes.forEach(box => {
-        box.addEventListener('click', async () => { // Added async
+        box.addEventListener('click', async () => {
             const targetId = box.dataset.target;
             const category = box.dataset.category;
             
@@ -198,26 +192,28 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             currentCategoryId = targetId;
-            currentMainCategory = category; // Store the main category
-            controlsContainer.classList.add('hidden'); // Hide controls while loading
-            rulesPageView.classList.add('hidden'); // Hide rules view while loading
-            dynamicRulesContent.innerHTML = '<p class="loading">Loading rules...</p>'; // Show loading message
+            currentMainCategory = category;
+            controlsContainer.classList.add('hidden');
+            rulesPageView.classList.add('hidden');
+            dynamicRulesContent.innerHTML = '<p class="loading">Loading rules...</p>';
 
-            const fetchedData = await fetchRules(targetId); // Fetch data
+            const fetchedData = await fetchRules(targetId);
 
-            if (fetchedData && Array.isArray(fetchedData)) { // Check if fetchedData is an array
-                currentCategoryData = fetchedData; // Store the array of groups
+            if (fetchedData && Array.isArray(fetchedData) && fetchedData.flatMap(g => g.rules).length > 0) {
+                currentCategoryData = fetchedData;
                 currentPage = 1;
-                renderRulesForPage(currentCategoryData); // Pass the array of groups
+                renderRulesForPage(currentCategoryData);
                 controlsContainer.classList.remove('hidden');
                 rulesPageView.classList.remove('hidden');
             } else {
-                dynamicRulesContent.innerHTML = `<p class="error-message">Failed to load rules for this category. The JSON file might be missing, have an incorrect structure (expected an array of rule groups), or contain no rules.</p>`;
+                dynamicRulesContent.innerHTML = `<p class="error-message">Failed to load rules for this category. The JSON file might be missing or empty.</p>`;
                 rulesPageView.classList.remove('hidden');
                 controlsContainer.classList.remove('hidden');
+                paginationButtonsContainerTop.innerHTML = '';
+                paginationButtonsContainerBottom.innerHTML = '';
             }
-            localSearchBox.value = ''; // Clear search box on new category selection
-            window.scrollTo({ top: 0, behavior: 'smooth' }); // Scroll to top
+            localSearchBox.value = '';
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         });
     });
 
@@ -225,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
     backButtons.forEach(button => {
         button.addEventListener('click', () => {
             const target = button.dataset.target;
-            localSearchBox.value = ''; // Clear search box on back button
+            localSearchBox.value = '';
             if (target === 'main-selection') {
                 serverRulesSelection.classList.add('hidden');
                 govtRulesSelection.classList.add('hidden');
@@ -250,39 +246,35 @@ document.addEventListener('DOMContentLoaded', () => {
     // Handle search functionality
     function performLocalSearch() {
         const query = localSearchBox.value.toLowerCase().trim();
-        if (query === '') {
-            // Go back to the main category view if search is empty
-            rulesPageView.classList.add('hidden');
-            serverRulesSelection.classList.add('hidden');
-            govtRulesSelection.classList.add('hidden');
-            mainSelection.classList.remove('hidden');
-            controlsContainer.classList.add('hidden');
+        if (query === '' || !currentCategoryData) {
+            dynamicRulesContent.innerHTML = `<p class="error-message">Please enter a search query.</p>`;
+            paginationButtonsContainerTop.innerHTML = '';
+            paginationButtonsContainerBottom.innerHTML = '';
             return;
         }
 
-        // Filter rules based on the search query across all groups in the current category
         const searchResults = currentCategoryData.flatMap(group =>
             (group.rules || []).filter(rule =>
                 rule.shortDescription.toLowerCase().includes(query) ||
                 rule.longDescription.toLowerCase().includes(query) ||
-                (rule.code && rule.code.toLowerCase().includes(query)) // Add a check for the code
+                (rule.code && rule.code.toLowerCase().includes(query))
             )
         );
         
-        // Display results and hide all category selections
         serverRulesSelection.classList.add('hidden');
         govtRulesSelection.classList.add('hidden');
         mainSelection.classList.add('hidden');
         rulesPageView.classList.remove('hidden');
         controlsContainer.classList.remove('hidden');
-
         dynamicRulesContent.innerHTML = '';
+        paginationButtonsContainerTop.innerHTML = '';
+        paginationButtonsContainerBottom.innerHTML = '';
+
         if (searchResults.length === 0) {
             dynamicRulesContent.innerHTML = `<p class="error-message">No rules found for "${query}".</p>`;
             return;
         }
 
-        // Display search results
         searchResults.forEach(rule => {
             const ruleItem = document.createElement('div');
             ruleItem.classList.add('rule-item', 'transition-all', 'duration-300', 'transform', 'hover:scale-101');
@@ -303,14 +295,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         <p>${rule.longDescription}</p>
                     </div>
                 `;
-            // Add accordion-like click event
             ruleItem.addEventListener('click', () => {
                 ruleItem.classList.toggle('active');
             });
             dynamicRulesContent.appendChild(ruleItem);
         });
-        paginationButtonsContainerTop.innerHTML = ''; // Hide pagination for search results
-        paginationButtonsContainerBottom.innerHTML = ''; // Hide pagination for search results
     }
 
     localSearchButton.addEventListener('click', performLocalSearch);
