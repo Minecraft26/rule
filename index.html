@@ -1,1 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Server Rules</title>
+    <!-- Use Tailwind CSS for a modern, responsive design -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Use the Inter font as requested -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background: radial-gradient(circle at top left, #e0f2f7, #c1e0ed, #a4d0e0);
+            color: #2c3e50;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            overflow-x: hidden;
+        }
+        .container {
+            background-color: rgba(255, 255, 255, 0.98);
+            padding: 40px;
+            border-radius: 25px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 1000px;
+            animation: fadeIn 1s ease-in-out;
+            backdrop-filter: blur(5px);
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .header h1 {
+            font-size: 3.2em;
+            color: #2c3e50;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.15);
+            font-weight: 800;
+        }
+        .rules-selection-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 28px;
+            transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+        }
+        .rules-box {
+            padding: 35px;
+            border-radius: 18px;
+            color: white;
+            font-size: 1.7em;
+            font-weight: 700;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, background-position 0.5s ease;
+            position: relative;
+            overflow: hidden;
+            background-size: 250% 250%;
+            animation: gradient-animation 15s ease infinite alternate;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+        .rules-box:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 25px 50px rgba(0,0,0,0.3);
+        }
+        .rules-box::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(255,255,255,0.2);
+            z-index: 1;
+            transform: scale(0);
+            border-radius: 18px;
+            transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
+        }
+        .rules-box:hover::before {
+            transform: scale(1);
+        }
+        .rules-box span {
+            position: relative;
+            z-index: 2;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+        }
+        /* Tier 1 Main Buttons */
+        .rules-box.server-rules-main { background-image: linear-gradient(135deg, #27ae60, #229954); }
+        .rules-box.govt-rules-main { background-image: linear-gradient(135deg, #e67e22, #d35400); }
+        /* Tier 2 Sub-category Buttons */
+        .rules-box.necessary { background-image: linear-gradient(135deg, #e74c3c, #c0392b); }
+        .rules-box.optional { background-image: linear-gradient(135deg, #3498db, #2980b9); }
+        .rules-box.law-like { background-image: linear-gradient(135deg, #f1c40f, #f39c12); }
+        .rules-box.rights-duties { background-image: linear-gradient(135deg, #1abc9c, #16a085); }
+        .rules-box.economy { background-image: linear-gradient(135deg, #34495e, #2c3e50); }
+        .rules-box.jobs { background-image: linear-gradient(135deg, #d2b48c, #a0522d); }
+        .rules-box.judiciary { background-image: linear-gradient(135deg, #2c3e50, #1a242f); }
+        .rules-box.govt-leader { background-image: linear-gradient(135deg, #c0392b, #e74c3c); }
+        .rules-box.lawyer { background-image: linear-gradient(135deg, #2ecc71, #27ae60); }
+        .rules-box.police { background-image: linear-gradient(135deg, #7f8c8d, #34495e); }
+        .rules-box.finance-rule { background-image: linear-gradient(135deg, #f1c40f, #f39c12); }
+        @keyframes gradient-animation {
+            0% { background-position: 0% 50%; }
+            100% { background-position: 100% 50%; }
+        }
+        .back-button {
+            background-color: #7f8c8d;
+            color: white;
+            border: none;
+            padding: 15px 28px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 1.15em;
+            margin-bottom: 30px;
+            transition: background-color 0.3s ease-in-out, transform 0.2s, box-shadow 0.3s;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+        }
+        .back-button:hover {
+            background-color: #6c7a89;
+            transform: translateY(-3px) scale(1.01);
+            box-shadow: 0 12px 25px rgba(0,0,0,0.2);
+        }
+        .rules-section-page {
+            background-color: #fdfefe;
+            padding: 35px;
+            border-radius: 20px;
+            box-shadow: 0 12px 35px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            border: 1px solid #e0e0e0;
+        }
+        .rules-header h2 {
+            font-size: 2.4em;
+            color: #34495e;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #ecf0f1;
+            font-weight: 700;
+        }
+        .rule-item {
+            font-weight: 600;
+            color: #333;
+            background-color: #ffffff;
+            margin-bottom: 18px;
+            padding: 20px 28px;
+            border-radius: 12px;
+            transition: transform 0.2s ease-out, box-shadow 0.2s ease-out, background-color 0.2s ease-out;
+            cursor: pointer;
+            border: 1px solid #e8e8e8;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            overflow: hidden;
+        }
+        .rule-item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: 600;
+        }
+        .rule-item .rule-description {
+            display: none;
+            margin-top: 15px;
+            padding-top: 12px;
+            border-top: 1px dashed #d0d0d0;
+            color: #555;
+            line-height: 1.7;
+            font-weight: 400;
+        }
+        .rule-item.active .rule-description {
+            display: block;
+        }
+        .rule-item .arrow-container {
+            display: flex;
+            align-items: center;
+            transition: transform 0.3s ease;
+        }
+        .rule-item.active .arrow-container {
+            transform: rotate(90deg);
+        }
+        .rule-item .arrow-container svg {
+            margin-left: 10px;
+        }
+        .hidden { display: none !important; }
+        .search-container {
+            display: flex;
+            margin-bottom: 25px;
+        }
+        .search-input {
+            flex-grow: 1;
+            padding: 12px 18px;
+            border-radius: 10px;
+            border: 2px solid #e0e0e0;
+            font-size: 1em;
+            outline: none;
+            transition: border-color 0.3s ease;
+        }
+        .search-input:focus {
+            border-color: #3498db;
+        }
+        .search-button {
+            padding: 12px 25px;
+            background-color: #3498db;
+            color: white;
+            border-radius: 10px;
+            margin-left: 10px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s;
+        }
+        .search-button:hover {
+            background-color: #2980b9;
+            transform: translateY(-2px);
+        }
+        .loading {
+            text-align: center;
+            padding: 20px;
+            font-size: 1.2em;
+            color: #888;
+        }
+        .error-message {
+            color: #e74c3c;
+            text-align: center;
+            padding: 20px;
+            font-size: 1.2em;
+            font-weight: 500;
+        }
+        .pagination-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+        .page-button {
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s, color 0.2s;
+        }
+        .page-button.active {
+            background-color: #3498db;
+            color: white;
+        }
+        .page-button.inactive {
+            background-color: #e0e0e0;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Main Header -->
+        <div class="header text-center mb-12 pb-8 border-b-2 border-gray-200">
+            <h1>Minecraft Server Rules <span class="text-yellow-500">⚠️</span></h1>
+        </div>
+        
+        <!-- Search and Page Controls -->
+        <div id="controls-container" class="hidden">
+            <div class="search-container">
+                <input type="text" id="local-search-box" class="search-input" placeholder="Search rules...">
+                <button id="local-search-button" class="search-button">Search</button>
+            </div>
+        </div>
 
+        <!-- Tier 1: Main Categories -->
+        <div id="main-selection" class="rules-selection-container mb-12">
+            <div class="rules-box server-rules-main" data-target="server-rules"><span>Server Rules</span></div>
+            <div class="rules-box govt-rules-main" data-target="govt-rules"><span>Government Rules</span></div>
+        </div>
+
+        <!-- Tier 2: Server Rules Sub-Categories -->
+        <div id="server-rules-selection" class="rules-selection-container hidden">
+            <button class="back-button flex items-center justify-center" data-target="main-selection">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                </svg>
+                Back to Main
+            </button>
+            <div class="rules-box necessary" data-target="necessary-rules" data-category="Server Rules"><span>1. Necessary Rules</span></div>
+            <div class="rules-box optional" data-target="optional-rules" data-category="Server Rules"><span>2. Optional Rules</span></div>
+            <div class="rules-box law-like" data-target="law-like-rules" data-category="Server Rules"><span>3. Law-Like Rules</span></div>
+            <div class="rules-box rights-duties" data-target="rights-duties-rules" data-category="Server Rules"><span>4. Rights and Duties</span></div>
+            <div class="rules-box economy" data-target="economy-rules" data-category="Server Rules"><span>5. Economy and Business Rules</span></div>
+            <div class="rules-box jobs" data-target="jobs-rules" data-category="Server Rules"><span>6. Jobs System</span></div>
+        </div>
+
+        <!-- Tier 2: Government Rules Sub-Categories -->
+        <div id="govt-rules-selection" class="rules-selection-container hidden">
+            <button class="back-button flex items-center justify-center" data-target="main-selection">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                </svg>
+                Back to Main
+            </button>
+            <div class="rules-box judiciary" data-target="judiciary-rules" data-category="Government Rules"><span>1. Judiciary</span></div>
+            <div class="rules-box govt-leader" data-target="govt-leader-rules" data-category="Government Rules"><span>2. Government Leader</span></div>
+            <div class="rules-box lawyer" data-target="lawyer-rules" data-category="Government Rules"><span>3. Lawyer</span></div>
+            <div class="rules-box police" data-target="police-rules" data-category="Government Rules"><span>4. Police</span></div>
+            <div class="rules-box finance-rule" data-target="finance-rules" data-category="Government Rules"><span>5. Finance</span></div>
+        </div>
+
+        <!-- Rule Details Page -->
+        <div id="rules-page-view" class="rules-section-page hidden">
+            <!-- Back button for this view -->
+            <button class="back-button flex items-center justify-center" data-target="back-to-sub-menu">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                </svg>
+                Back to Categories
+            </button>
+
+            <!-- Top Page navigation buttons -->
+            <div id="pagination-buttons-top" class="pagination-buttons mb-4"></div>
+
+            <!-- Rules will be dynamically populated here -->
+            <div id="dynamic-rules-content"></div>
+
+            <!-- Bottom Page navigation buttons -->
+            <div id="pagination-buttons-bottom" class="pagination-buttons"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
