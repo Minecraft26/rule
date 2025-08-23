@@ -13,6 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
         "finance-rules": { title: "Finance", idPrefix: "GR-F", json: "government-rules/finance.json" }
     };
 
+    const rulesPerPage = 20; // Define a constant for rules per page
+    let totalPages = 1;
+
     const fetchRules = async (id) => {
         const config = rulesConfig[id];
         if (!config) {
@@ -26,20 +29,23 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             const data = await response.json();
 
-            // Check if the data is in the expected 'groups' format or the 'law.json' format
             if (data && Array.isArray(data)) {
-                let ruleCounter = 1;
-                return data.map(group => {
+                let ruleCounter = 1; // Correctly initialize rule counter
+                const processedGroups = data.map(group => {
                     const newRules = (group.rules || group.content || []).map(rule => {
-                        // Dynamically assign code and page, handling the different structures
                         const code = `${config.idPrefix}${ruleCounter}`;
+                        const page = Math.ceil(ruleCounter / rulesPerPage); // Use the constant
                         ruleCounter++;
-                        const page = Math.ceil(ruleCounter / 20); // Example logic for pagination
                         return { ...rule, code, page };
                     });
-                    // Return a consistent structure
                     return { title: group.title, rules: newRules };
                 });
+                
+                // Calculate total pages based on the final rule count
+                const allRulesCount = ruleCounter - 1; // The final value of ruleCounter is 1 more than the count
+                totalPages = Math.ceil(allRulesCount / rulesPerPage);
+                
+                return processedGroups;
             } else {
                 console.error("Fetched data is not an array:", data);
                 return null;
@@ -50,7 +56,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
     
-
     // Get all necessary DOM elements
     const mainSelection = document.getElementById('main-selection');
     const serverRulesSelection = document.getElementById('server-rules-selection');
@@ -67,12 +72,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let currentCategoryId = '';
     let currentPage = 1;
-    let totalPages = 1;
     let currentCategoryData = null;
     let currentMainCategory = ''; // Added
 
     // Function to generate and display rule items for the current page
-    function renderRulesForPage(groupsData) { // Changed parameter name to groupsData
+    function renderRulesForPage(groupsData) {
         dynamicRulesContent.innerHTML = '';
         if (!groupsData || !Array.isArray(groupsData)) {
             dynamicRulesContent.innerHTML = `<p class="error-message">Invalid rule data for this category (expected an array of groups).</p>`;
@@ -86,14 +90,21 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
         
-        if (rulesToRender.length === 0) {
-            dynamicRulesContent.innerHTML = `<p class="error-message">No rules found for this page.</p>`;
+        if (rulesToRender.length === 0 && currentPage === 1) { // Handle case with no rules
+            dynamicRulesContent.innerHTML = `<p class="error-message">No rules found for this category.</p>`;
+            updatePaginationButtons();
             return;
+        }
+        
+        if (rulesToRender.length === 0) { // Handle empty page
+             dynamicRulesContent.innerHTML = `<p class="error-message">No rules found for this page.</p>`;
+             updatePaginationButtons();
+             return;
         }
 
         // Create and append a header for the category (using the first group's title for simplicity, or you can adjust)
         const header = document.createElement('div');
-        header.innerHTML = `<h2 class="rules-header">Page ${currentPage} of ${totalPages} - ${groupsData[0].title}</h2>`; // Using first group's title
+        header.innerHTML = `<h2 class="rules-header">${groupsData[0].title} - Page ${currentPage} of ${totalPages}</h2>`;
         dynamicRulesContent.appendChild(header);
 
         // Create and append each rule item
@@ -196,10 +207,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (fetchedData && Array.isArray(fetchedData)) { // Check if fetchedData is an array
                 currentCategoryData = fetchedData; // Store the array of groups
-                // Calculate totalPages based on all rules across all groups
-                const allRules = fetchedData.flatMap(group => group.rules || []);
-                const pageNumbers = new Set(allRules.map(rule => rule.page));
-                totalPages = pageNumbers.size;
                 currentPage = 1;
                 renderRulesForPage(currentCategoryData); // Pass the array of groups
                 controlsContainer.classList.remove('hidden');
