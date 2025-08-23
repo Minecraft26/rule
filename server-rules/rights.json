@@ -1,0 +1,1002 @@
+[
+  {
+    "title": "Rights",
+    "rules": [
+      {
+        "code": "A-001",
+        "page": 1,
+        "shortDescription": "Right to play freely without harassment.",
+        "longDescription": "This fundamental right ensures that every player can enjoy the game in a safe and positive environment, free from any form of targeted harassment, bullying, or intimidation from other players. It is the cornerstone of a healthy community."
+      },
+      {
+        "code": "A-002",
+        "page": 1,
+        "shortDescription": "Right to respect from all players.",
+        "longDescription": "Every player is entitled to be treated with respect by all other members of the community, including players and staff. This fosters a positive atmosphere where everyone feels valued."
+      },
+      {
+        "code": "A-003",
+        "page": 1,
+        "shortDescription": "Right to equality regardless of rank, wealth, or role.",
+        "longDescription": "All players shall be treated as equals under the server's rules and systems, irrespective of their in-game rank, wealth, or assigned role. This prevents discrimination and ensures fairness."
+      },
+      {
+        "code": "A-004",
+        "page": 1,
+        "shortDescription": "Right to a safe in-game environment.",
+        "longDescription": "The server must provide a secure environment, protected from hackers, cheaters, and technical exploits that could harm a player's experience or progress. Player safety is a top priority."
+      },
+      {
+        "code": "A-005",
+        "page": 1,
+        "shortDescription": "Right to freedom of speech in chat (within respectful limits).",
+        "longDescription": "Players have the right to express their opinions and ideas freely in chat, provided they do so respectfully and without violating rules against hate speech, toxicity, or harassment."
+      },
+      {
+        "code": "A-006",
+        "page": 1,
+        "shortDescription": "Right to personal dignity and fair treatment.",
+        "longDescription": "Every player has the right to be treated with dignity. This means they should not be subjected to degrading language, unfair accusations, or biased treatment from staff or other players."
+      },
+      {
+        "code": "A-007",
+        "page": 1,
+        "shortDescription": "Right to privacy of personal data (username, stats, etc.).",
+        "longDescription": "Players have a right to privacy concerning their personal data, including but not limited to their real-life information, account details, and in-game statistics. This data should not be shared without consent."
+      },
+      {
+        "code": "A-008",
+        "page": 1,
+        "shortDescription": "Right to fair conflict resolution.",
+        "longDescription": "In the event of a dispute with another player, every individual has the right to a fair and impartial conflict resolution process, typically mediated by server staff."
+      },
+      {
+        "code": "A-009",
+        "page": 1,
+        "shortDescription": "Right to enjoy events and features equally.",
+        "longDescription": "All players have the right to access and participate in server-wide events, minigames, and other features without unfair restrictions or advantages being granted to others."
+      },
+      {
+        "code": "A-010",
+        "page": 1,
+        "shortDescription": "Right to safety from scams or fraud.",
+        "longDescription": "Players have the right to engage in in-game activities, such as trading, without the fear of being scammed or defrauded. The server should have systems in place to prevent and punish such actions."
+      },
+      {
+        "code": "A-011",
+        "page": 1,
+        "shortDescription": "Right to trade freely with other players.",
+        "longDescription": "Players are entitled to engage in free and open trade with other members of the community, allowing for a dynamic and player-driven economy without undue restrictions."
+      },
+      {
+        "code": "A-012",
+        "page": 1,
+        "shortDescription": "Right to own shops and sell items.",
+        "longDescription": "Every player has the right to establish their own shop or business to sell items and services, contributing to the server's marketplace and their own in-game wealth."
+      },
+      {
+        "code": "A-013",
+        "page": 1,
+        "shortDescription": "Right to fair pricing in the economy system.",
+        "longDescription": "The server economy should be structured to ensure fair pricing. Players have the right to trade in a market that is not artificially inflated or controlled by a select few."
+      },
+      {
+        "code": "A-014",
+        "page": 1,
+        "shortDescription": "Right to protection from market manipulation.",
+        "longDescription": "Players have the right to be protected from unfair economic practices, such as price fixing or monopolies, that are designed to manipulate the market for personal gain."
+      },
+      {
+        "code": "A-015",
+        "page": 1,
+        "shortDescription": "Right to equal access to economy-based jobs.",
+        "longDescription": "All players should have an equal opportunity to access and participate in any available server jobs, allowing them a fair chance to earn in-game currency."
+      },
+      {
+        "code": "A-016",
+        "page": 1,
+        "shortDescription": "Right to start and grow a business.",
+        "longDescription": "Players have the right to not only start a business but also to grow it without facing unfair obstacles or policies designed to stifle competition or growth."
+      },
+      {
+        "code": "A-017",
+        "page": 1,
+        "shortDescription": "Right to secure in-game currency in personal accounts.",
+        "longDescription": "Players are entitled to have their in-game currency and balances kept secure. Their accounts should be protected from unauthorized withdrawals or glitches that could result in financial loss."
+      },
+      {
+        "code": "A-018",
+        "page": 1,
+        "shortDescription": "Right to challenge unfair economic policies.",
+        "longDescription": "If a player believes an economic policy is unfair or detrimental to the community, they have the right to voice their concerns and challenge that policy through appropriate channels."
+      },
+      {
+        "code": "A-019",
+        "page": 1,
+        "shortDescription": "Right to transparency in server taxes.",
+        "longDescription": "Any server-wide taxes or economic fees should be transparent. Players have the right to know how much they are being taxed and where that revenue is being used."
+      },
+      {
+        "code": "A-020",
+        "page": 1,
+        "shortDescription": "Right to keep fair profits from work or trade.",
+        "longDescription": "Players have the right to keep the profits they earn from their hard work, shops, or trades, after any fair and transparent taxes have been applied."
+      }
+    ]
+  },
+  {
+    "title": "Duties",
+    "rules": [
+      {
+        "code": "B-001",
+        "page": 2,
+        "shortDescription": "Respect All Players – Treat every player with kindness, avoid harassment, and maintain a safe community.",
+        "longDescription": "It is the foremost duty of every player to treat others with respect and kindness. This includes refraining from harassment, bullying, and toxic behavior to ensure the server remains a safe and welcoming place for everyone."
+      },
+      {
+        "code": "B-002",
+        "page": 2,
+        "shortDescription": "Follow Server Rules – Abide by all the written and unwritten rules that maintain order in the server.",
+        "longDescription": "Players have a duty to read, understand, and follow all server rules. This is essential for maintaining order, fairness, and a stable gameplay environment for the entire community."
+      },
+      {
+        "code": "B-003",
+        "page": 2,
+        "shortDescription": "Report Bugs & Exploits – Inform staff of glitches instead of abusing them for personal gain.",
+        "longDescription": "If a player discovers a bug, glitch, or exploit, it is their duty to report it to the staff immediately. Abusing such exploits for personal gain is a serious offense against the community."
+      },
+      {
+        "code": "B-004",
+        "page": 2,
+        "shortDescription": "Assist New Players – Help newcomers understand commands, gameplay, and the server economy.",
+        "longDescription": "Experienced players have a duty to assist newcomers. This includes answering questions, explaining server features, and helping new players integrate into the community, which strengthens the server as a whole."
+      },
+      {
+        "code": "B-005",
+        "page": 2,
+        "shortDescription": "Promote Fair Play – Avoid cheating, hacking, or using unfair modifications.",
+        "longDescription": "Every player has a duty to uphold the principles of fair play. This means refraining from using hacked clients, x-ray mods, or any other modification that provides an unfair advantage."
+      },
+      {
+        "code": "B-006",
+        "page": 2,
+        "shortDescription": "Respect Player Builds – Never grief, destroy, or steal from another player’s property.",
+        "longDescription": "It is a player's duty to respect the property and creations of others. This means never griefing, stealing from, or destroying another player's build, whether it is claimed or not."
+      },
+      {
+        "code": "B-007",
+        "page": 2,
+        "shortDescription": "Participate in Community Events – Engage in community activities to strengthen bonds.",
+        "longDescription": "To foster a strong community, players have a duty to participate in server-wide events and activities when possible. Engagement helps build relationships and a more vibrant community."
+      },
+      {
+        "code": "B-008",
+        "page": 2,
+        "shortDescription": "Maintain Politeness in Chat – Avoid spamming, swearing excessively, or spreading toxicity.",
+        "longDescription": "Players have a duty to communicate politely in public chat channels. This includes avoiding spam, excessive profanity, and any form of toxic messaging that disrupts the chat for others."
+      },
+      {
+        "code": "B-009",
+        "page": 2,
+        "shortDescription": "Resolve Conflicts Peacefully – Settle disputes via moderators or discussions, not violence.",
+        "longDescription": "When a conflict arises, it is a player's duty to seek a peaceful resolution. This should be done through respectful discussion or by involving a staff member, rather than resorting to in-game violence or harassment."
+      },
+      {
+        "code": "B-010",
+        "page": 2,
+        "shortDescription": "Be Honest in Trades – Avoid scamming, and keep all trades transparent and fair.",
+        "longDescription": "Honesty in all economic transactions is a player's duty. This means avoiding scams, misrepresenting items, and ensuring that all trades are conducted in a fair and transparent manner."
+      },
+      {
+        "code": "B-011",
+        "page": 2,
+        "shortDescription": "Pay Taxes Fairly – Contribute your fair share to the in-game economy by paying taxes or fees.",
+        "longDescription": "It is a player's duty to contribute to the server's economy by paying any applicable taxes or fees honestly and on time. This ensures that public services and projects can be funded for the benefit of all."
+      },
+      {
+        "code": "B-012",
+        "page": 2,
+        "shortDescription": "Avoid Inflation – Do not artificially manipulate shop prices or item supplies.",
+        "longDescription": "Players have a duty to act responsibly within the economy and avoid actions that could cause inflation, such as flooding the market with items or engaging in unfair price manipulation."
+      },
+      {
+        "code": "B-013",
+        "page": 2,
+        "shortDescription": "Support Marketplace Growth – Buy, sell, and trade responsibly to keep the economy balanced.",
+        "longDescription": "It is the duty of every player to participate in the marketplace responsibly. This includes buying and selling at fair prices to support a stable and balanced economy for everyone."
+      },
+      {
+        "code": "B-014",
+        "page": 2,
+        "shortDescription": "Keep Records of Transactions – For large trades, maintain logs or screenshots to ensure fairness.",
+        "longDescription": "For significant trades or business deals, players have a duty to keep records (such as screenshots or written agreements) to prevent disputes and provide evidence in case of a disagreement."
+      },
+      {
+        "code": "B-015",
+        "page": 2,
+        "shortDescription": "Work Responsibly in Jobs – Perform assigned PicoJobs tasks honestly without shortcuts.",
+        "longDescription": "When participating in a job system, it is a player's duty to perform their work honestly and without exploiting shortcuts or bugs. This ensures the job system remains fair for all participants."
+      },
+      {
+        "code": "B-016",
+        "page": 2,
+        "shortDescription": "Respect Business Competition – Compete fairly without sabotaging other players’ shops.",
+        "longDescription": "Players have a duty to engage in fair business competition. This means refraining from sabotaging another player's shop, harassing their customers, or other unfair tactics."
+      },
+      {
+        "code": "B-017",
+        "page": 2,
+        "shortDescription": "Contribute to Public Funds – Donate to government projects when possible.",
+        "longDescription": "Players have a civic duty to contribute to public funds or community projects when they are able. These donations help fund infrastructure and events that benefit the entire server."
+      },
+      {
+        "code": "B-018",
+        "page": 2,
+        "shortDescription": "Avoid Hoarding Resources – Don’t monopolize rare items; allow fair access to all.",
+        "longDescription": "It is a player's duty to avoid hoarding rare or essential resources. Monopolizing items can harm the economy and prevent other players from progressing, so resources should be shared or traded fairly."
+      },
+      {
+        "code": "B-019",
+        "page": 2,
+        "shortDescription": "Respect Tax Policies – Follow server-set tax rates without complaints or exploitation.",
+        "longDescription": "Players have a duty to respect and follow the server's established tax policies. Attempting to evade taxes through exploits or loopholes is a violation of this duty."
+      },
+      {
+        "code": "B-020",
+        "page": 2,
+        "shortDescription": "Report Illegal Trade – Inform moderators if you see black-market trades or scams.",
+        "longDescription": "If a player witnesses illegal trading, scamming, or other fraudulent economic activity, it is their duty to report it to the staff to protect the integrity of the server economy."
+      }
+    ]
+  },
+  {
+    "title": "Rights",
+    "rules": [
+      {
+        "code": "C-001",
+        "page": 3,
+        "shortDescription": "Right to vote in government elections.",
+        "longDescription": "Every player has the democratic right to cast a vote in server-wide government elections, allowing them to have a say in who leads and represents the community."
+      },
+      {
+        "code": "C-002",
+        "page": 3,
+        "shortDescription": "Right to stand for election in government roles.",
+        "longDescription": "Any eligible player has the right to nominate themselves and stand for election in government positions, such as mayor or judge, ensuring leadership is open to all."
+      },
+      {
+        "code": "C-003",
+        "page": 3,
+        "shortDescription": "Right to question government leaders.",
+        "longDescription": "Players have the right to hold their elected leaders accountable by asking questions about their decisions, policies, and actions in a respectful manner."
+      },
+      {
+        "code": "C-004",
+        "page": 3,
+        "shortDescription": "Right to a fair trial if accused.",
+        "longDescription": "If a player is accused of breaking a major rule, they have the right to a fair and impartial trial where evidence can be presented and their case can be heard."
+      },
+      {
+        "code": "C-005",
+        "page": 3,
+        "shortDescription": "Right to defend oneself in court.",
+        "longDescription": "During a trial or dispute resolution, a player has the right to present their side of the story, provide evidence, and defend themselves against any accusations made."
+      },
+      {
+        "code": "C-006",
+        "page": 3,
+        "shortDescription": "Right to legal representation (lawyer role).",
+        "longDescription": "In servers with a formal justice system, players have the right to be represented by another player in a lawyer role, who can argue their case on their behalf."
+      },
+      {
+        "code": "C-007",
+        "page": 3,
+        "shortDescription": "Right to appeal against punishments.",
+        "longDescription": "If a player believes a punishment they received was unfair, they have the right to appeal the decision through the server's official appeal process."
+      },
+      {
+        "code": "C-008",
+        "page": 3,
+        "shortDescription": "Right to protection against unfair bans or jails.",
+        "longDescription": "Players are entitled to be protected from being banned or jailed without sufficient evidence or a fair process. Punishments must be justified and align with server rules."
+      },
+      {
+        "code": "C-009",
+        "page": 3,
+        "shortDescription": "Right to see server laws in writing.",
+        "longDescription": "All players have the right to access a clear, written record of all server laws and major policies, ensuring that the rules are transparent and known to everyone."
+      },
+      {
+        "code": "C-010",
+        "page": 3,
+        "shortDescription": "Right to suggest new laws or policies.",
+        "longDescription": "Players have the right to propose new laws, rules, or policies that they believe would improve the server, contributing to its governance and development."
+      },
+      {
+        "code": "C-011",
+        "page": 3,
+        "shortDescription": "Right to join or create player groups.",
+        "longDescription": "Players have the social right to form or join groups, guilds, or factions with other players, allowing them to collaborate and build smaller communities within the server."
+      },
+      {
+        "code": "C-012",
+        "page": 3,
+        "shortDescription": "Right to organize community events.",
+        "longDescription": "Any player has the right to organize their own community events, such as parties, build contests, or minigames, fostering a vibrant and player-driven social environment."
+      },
+      {
+        "code": "C-013",
+        "page": 3,
+        "shortDescription": "Right to participate in server-wide festivals.",
+        "longDescription": "All players have an equal right to participate in and enjoy any official server-wide festivals or celebrations, regardless of their rank or status."
+      },
+      {
+        "code": "C-014",
+        "page": 3,
+        "shortDescription": "Right to play mini-games fairly.",
+        "longDescription": "When participating in minigames, players have the right to a fair experience, free from cheaters, exploiters, or unbalanced teams that would ruin the fun."
+      },
+      {
+        "code": "C-015",
+        "page": 3,
+        "shortDescription": "Right to report bullying or abuse.",
+        "longDescription": "Every player has the right to report instances of bullying, abuse, or harassment to the staff and to have those reports taken seriously and investigated."
+      },
+      {
+        "code": "C-016",
+        "page": 3,
+        "shortDescription": "Right to friendship and mutual respect.",
+        "longDescription": "Players have the right to form friendships and expect mutual respect from those they interact with, creating a positive and supportive social network."
+      },
+      {
+        "code": "C-017",
+        "page": 3,
+        "shortDescription": "Right to access public spaces (parks, arenas, etc.).",
+        "longDescription": "All players have the right to access and use any designated public spaces, such as parks, arenas, or community centers, without being unfairly blocked or restricted."
+      },
+      {
+        "code": "C-018",
+        "page": 3,
+        "shortDescription": "Right to share creative builds.",
+        "longDescription": "Players have the right to share their creative builds with the community, whether by showcasing them, submitting them for contests, or allowing others to visit."
+      },
+      {
+        "code": "C-019",
+        "page": 3,
+        "shortDescription": "Right to recognition for contributions.",
+        "longDescription": "Players who make significant positive contributions to the community have the right to be recognized for their efforts, whether through titles, rewards, or public acknowledgment."
+      },
+      {
+        "code": "C-020",
+        "page": 3,
+        "shortDescription": "Right to equal voice in public discussions.",
+        "longDescription": "In public discussions or town meetings, every player has the right to have their voice heard and their opinions considered equally, regardless of their position."
+      }
+    ]
+  },
+  {
+    "title": "Duties",
+    "rules": [
+      {
+        "code": "D-001",
+        "page": 4,
+        "shortDescription": "Obey Government Decisions – Respect the laws and verdicts of elected leaders.",
+        "longDescription": "It is the duty of every citizen to respect and obey the laws, policies, and official verdicts made by the server's elected government or leadership body."
+      },
+      {
+        "code": "D-002",
+        "page": 4,
+        "shortDescription": "Serve if Elected – If chosen as judge, police, or leader, perform your duty responsibly.",
+        "longDescription": "A player who is elected to a position of power has a duty to serve the community responsibly, ethically, and to the best of their ability."
+      },
+      {
+        "code": "D-003",
+        "page": 4,
+        "shortDescription": "Respect Elections – Accept results of leadership votes without cheating.",
+        "longDescription": "All players have a duty to respect the democratic process by accepting the results of a fair election, without attempting to cheat, complain, or undermine the outcome."
+      },
+      {
+        "code": "D-004",
+        "page": 4,
+        "shortDescription": "Protect Citizens’ Rights – Leaders must defend rights equally, not favor friends.",
+        "longDescription": "Those in leadership positions have a solemn duty to protect the rights of all players equally and without favoritism, ensuring justice for everyone, not just their friends."
+      },
+      {
+        "code": "D-005",
+        "page": 4,
+        "shortDescription": "Provide Justice as Judge – Judges must remain fair and unbiased in rulings.",
+        "longDescription": "A player serving as a judge has a duty to remain impartial and unbiased in all their rulings, basing their decisions on evidence and server law, not personal feelings."
+      },
+      {
+        "code": "D-006",
+        "page": 4,
+        "shortDescription": "Maintain Order as Police – Police must enforce laws without abusing power.",
+        "longDescription": "A player in a police or law enforcement role has a duty to maintain order and enforce laws without abusing their power or engaging in harassment."
+      },
+      {
+        "code": "D-007",
+        "page": 4,
+        "shortDescription": "Lead with Integrity as Government Head – Government leaders must serve the people, not themselves.",
+        "longDescription": "The head of government has a duty to lead with integrity, always acting in the best interest of the community rather than for personal gain or power."
+      },
+      {
+        "code": "D-008",
+        "page": 4,
+        "shortDescription": "Participate in Government Meetings – Players must attend when summoned for public discussions.",
+        "longDescription": "Players have a duty to participate in official government meetings or public discussions when summoned, as active participation is key to a healthy civic environment."
+      },
+      {
+        "code": "D-009",
+        "page": 4,
+        "shortDescription": "Respect Public Resources – Use government-owned land and resources responsibly.",
+        "longDescription": "It is the duty of all players to use public or government-owned resources, such as community farms or mines, in a responsible and sustainable manner."
+      },
+      {
+        "code": "D-010",
+        "page": 4,
+        "shortDescription": "Avoid Corruption – No leader should accept bribes or manipulate laws for benefit.",
+        "longDescription": "Any player in a leadership role has a strict duty to avoid all forms of corruption, including accepting bribes, embezzling funds, or manipulating laws for personal benefit."
+      },
+      {
+        "code": "D-011",
+        "page": 4,
+        "shortDescription": "Preserve Nature – Avoid unnecessary destruction of forests, rivers, and landscapes.",
+        "longDescription": "Every player has a duty to act as a steward of the environment by avoiding unnecessary destruction of the natural landscape, thereby preserving its beauty for all."
+      },
+      {
+        "code": "D-012",
+        "page": 4,
+        "shortDescription": "Replant After Mining or Cutting Trees – Always restore what you take from nature.",
+        "longDescription": "It is a player's duty to replant saplings after cutting down trees and to fill in creeper holes or strip mines. This ensures that the world remains beautiful and resources remain available."
+      },
+      {
+        "code": "D-013",
+        "page": 4,
+        "shortDescription": "Avoid Pollution – Do not create unnecessary lava floods, TNT messes, or water pollution.",
+        "longDescription": "Players have a duty to avoid polluting the environment with unsightly or dangerous materials, such as creating large lava casts or leaving behind messes from TNT."
+      },
+      {
+        "code": "D-014",
+        "page": 4,
+        "shortDescription": "Maintain Public Areas – Keep towns, roads, and community areas clean.",
+        "longDescription": "It is the duty of all players to help maintain the cleanliness and order of public areas, ensuring they remain pleasant and functional for everyone."
+      },
+      {
+        "code": "D-015",
+        "page": 4,
+        "shortDescription": "Protect Wildlife – Avoid killing mobs unless for survival or economy.",
+        "longDescription": "Players have a duty to protect the server's wildlife by avoiding the unnecessary or wasteful killing of passive mobs, respecting the balance of the ecosystem."
+      },
+      {
+        "code": "D-016",
+        "page": 4,
+        "shortDescription": "Conserve Rare Resources – Do not waste rare ores or unique materials.",
+        "longDescription": "It is a player's duty to conserve rare resources and use them wisely, rather than wasting them, to ensure their availability for important projects and for other players."
+      },
+      {
+        "code": "D-017",
+        "page": 4,
+        "shortDescription": "Build Responsibly – Avoid giant builds that ruin server landscapes.",
+        "longDescription": "Players have a duty to build in a way that is responsible and respectful of the surrounding landscape, avoiding unnecessarily large or unsightly structures that detract from the world's beauty."
+      },
+      {
+        "code": "D-018",
+        "page": 4,
+        "shortDescription": "Avoid Over-Farming – Don’t build laggy farms that damage server performance.",
+        "longDescription": "It is a player's duty to avoid building massive, lag-inducing farms that can negatively impact server performance for everyone. Farms should be efficient and reasonably sized."
+      },
+      {
+        "code": "D-019",
+        "page": 4,
+        "shortDescription": "Participate in Clean-Up Drives – Join community projects to fix griefed areas.",
+        "longDescription": "Players have a civic duty to participate in community clean-up events to help repair griefed areas or restore natural landscapes, contributing to a better environment for all."
+      },
+      {
+        "code": "D-020",
+        "page": 4,
+        "shortDescription": "Support Eco-Friendly Builds – Create farms, houses, and systems that respect balance.",
+        "longDescription": "It is a player's duty to support and create builds that are environmentally friendly, meaning they are sustainable, aesthetically pleasing, and do not harm server performance."
+      }
+    ]
+  },
+  {
+    "title": "Rights",
+    "rules": [
+      {
+        "code": "E-001",
+        "page": 5,
+        "shortDescription": "Right to own land or plots.",
+        "longDescription": "Every player has the fundamental right to own their own piece of land or plot within the server, providing them with a personal space to build and live."
+      },
+      {
+        "code": "E-002",
+        "page": 5,
+        "shortDescription": "Right to build freely on owned property.",
+        "longDescription": "On their own claimed property, a player has the right to build whatever they wish, allowing for full creative expression within the bounds of server-wide rules."
+      },
+      {
+        "code": "E-003",
+        "page": 5,
+        "shortDescription": "Right to protect land with claims.",
+        "longDescription": "Players are entitled to use server-provided claiming tools to protect their land and property from griefing, theft, or unauthorized changes by other players."
+      },
+      {
+        "code": "E-004",
+        "page": 5,
+        "shortDescription": "Right to sell or rent property legally.",
+        "longDescription": "A property owner has the right to legally sell or rent out their land or buildings to other players, participating in the server's real estate market."
+      },
+      {
+        "code": "E-005",
+        "page": 5,
+        "shortDescription": "Right to inherit property in-game.",
+        "longDescription": "Players have the right to inherit property from another player who has quit the server or willingly transferred ownership, ensuring valuable builds are not lost."
+      },
+      {
+        "code": "E-006",
+        "page": 5,
+        "shortDescription": "Right to secure property from griefing.",
+        "longDescription": "Every player has the right to have their property secured from griefing. This means the server should have effective measures to prevent and punish property damage."
+      },
+      {
+        "code": "E-007",
+        "page": 5,
+        "shortDescription": "Right to decorate and design without restrictions.",
+        "longDescription": "Within their own property, players have the right to decorate and design their builds as they see fit, without facing restrictions on their creative style."
+      },
+      {
+        "code": "E-008",
+        "page": 5,
+        "shortDescription": "Right to access utilities (roads, portals).",
+        "longDescription": "Property owners have the right to access public utilities, such as roads, railways, and portals, without being intentionally blocked by other players' builds."
+      },
+      {
+        "code": "E-009",
+        "page": 5,
+        "shortDescription": "Right to sell buildings for profit.",
+        "longDescription": "Players who build structures have the right to sell them for a profit, rewarding their time and creative effort in the server's economy."
+      },
+      {
+        "code": "E-010",
+        "page": 5,
+        "shortDescription": "Right to transfer ownership safely.",
+        "longDescription": "Players have the right to a safe and secure method for transferring property ownership to another player, free from the risk of scams or technical errors."
+      },
+      {
+        "code": "E-011",
+        "page": 5,
+        "shortDescription": "Right to be safe from hackers.",
+        "longDescription": "Every player has the right to play on a server that is secure from hackers who could compromise their account, steal their items, or disrupt their gameplay."
+      },
+      {
+        "code": "E-012",
+        "page": 5,
+        "shortDescription": "Right to server protection systems (anti-grief).",
+        "longDescription": "Players are entitled to the protection offered by server-side plugins and systems, such as anti-grief and anti-cheat measures, that ensure a fair and safe environment."
+      },
+      {
+        "code": "E-013",
+        "page": 5,
+        "shortDescription": "Right to complain about unsafe areas.",
+        "longDescription": "If a player identifies an area of the map that is unsafe due to glitches or exploits, they have the right to report it to staff and have the issue addressed."
+      },
+      {
+        "code": "E-014",
+        "page": 5,
+        "shortDescription": "Right to ban hackers or cheaters (via reporting).",
+        "longDescription": "Players have the right to have their reports about hackers and cheaters taken seriously, leading to fair investigation and the removal of guilty parties from the server."
+      },
+      {
+        "code": "E-015",
+        "page": 5,
+        "shortDescription": "Right to request rollback of griefed land.",
+        "longDescription": "If a player's property is griefed, they have the right to request a rollback or restoration of the damaged area, assuming the server has the technical capability to do so."
+      },
+      {
+        "code": "E-016",
+        "page": 5,
+        "shortDescription": "Right to safe travel in public roads/railways.",
+        "longDescription": "Players have the right to travel on public roads and railways without being trapped, attacked, or otherwise harassed. These routes should be safe for all to use."
+      },
+      {
+        "code": "E-017",
+        "page": 5,
+        "shortDescription": "Right to moderation in case of abuse.",
+        "longDescription": "In cases of verbal abuse, harassment, or other rule-breaking behavior, players have the right to prompt and effective intervention from server moderators."
+      },
+      {
+        "code": "E-018",
+        "page": 5,
+        "shortDescription": "Right to play without threats.",
+        "longDescription": "Every player has the right to enjoy the game without receiving real-life threats or severe intimidation from other players. This is a zero-tolerance issue."
+      },
+      {
+        "code": "E-019",
+        "page": 5,
+        "shortDescription": "Right to escape unsafe zones.",
+        "longDescription": "Players have the right to be able to escape from designated spawn areas or other supposedly safe zones without being camped or trapped by other players."
+      },
+      {
+        "code": "E-020",
+        "page": 5,
+        "shortDescription": "Right to protection against spamming.",
+        "longDescription": "Players have the right to a chat environment that is free from excessive spamming, which can disrupt communication and ruin the gameplay experience."
+      }
+    ]
+  },
+  {
+    "title": "Duties",
+    "rules": [
+      {
+        "code": "F-001",
+        "page": 6,
+        "shortDescription": "Vote in Community Decisions – Participate actively when votes are held.",
+        "longDescription": "It is the civic duty of every player to participate in community votes. Active participation ensures that decisions reflect the will of the community as a whole."
+      },
+      {
+        "code": "F-002",
+        "page": 6,
+        "shortDescription": "Pay Fines Promptly – If penalized, pay without delay or argument.",
+        "longDescription": "If a player is penalized with a fine for breaking a rule, it is their duty to pay it promptly and without argument, respecting the server's justice system."
+      },
+      {
+        "code": "F-003",
+        "page": 6,
+        "shortDescription": "Respect Public Property – Do not destroy roads, railways, or shared areas.",
+        "longDescription": "Players have a duty to respect and protect public property, such as roads, community farms, and public buildings. These resources are for everyone to use."
+      },
+      {
+        "code": "F-004",
+        "page": 6,
+        "shortDescription": "Protect New Settlements – Ensure new villages and towns grow safely.",
+        "longDescription": "Experienced players have a duty to help protect new settlements or towns, ensuring they can grow and thrive without being destroyed by monsters or griefers."
+      },
+      {
+        "code": "F-005",
+        "page": 6,
+        "shortDescription": "Help During Emergencies – Assist players in disasters like fires or grief attacks.",
+        "longDescription": "In the event of a server emergency, such as a large-scale grief attack or a technical issue, players have a duty to assist others and cooperate with staff."
+      },
+      {
+        "code": "F-006",
+        "page": 6,
+        "shortDescription": "Defend the Server in Wars – Stand by your faction or town when under threat.",
+        "longDescription": "In servers with faction-based gameplay, players have a duty to defend their town or faction when it is under a legitimate threat, showing loyalty to their community."
+      },
+      {
+        "code": "F-007",
+        "page": 6,
+        "shortDescription": "Volunteer for Jobs – Offer your skills in construction, law, or defense when needed.",
+        "longDescription": "Players have a civic duty to volunteer their skills for the good of the community, whether it be in construction, defense, or another area where help is needed."
+      },
+      {
+        "code": "F-008",
+        "page": 6,
+        "shortDescription": "Participate in Court Trials – Provide testimony truthfully if called as a witness.",
+        "longDescription": "If a player is called as a witness in a trial, it is their duty to provide testimony truthfully and to the best of their knowledge, ensuring justice can be served."
+      },
+      {
+        "code": "F-009",
+        "page": 6,
+        "shortDescription": "Follow War & Peace Agreements – Respect treaties and ceasefires set by leaders.",
+        "longDescription": "It is the duty of all players to respect and abide by any official treaties, alliances, or ceasefire agreements made by their faction or government leaders."
+      },
+      {
+        "code": "F-010",
+        "page": 6,
+        "shortDescription": "Avoid Civil Disobedience – Follow laws and only seek peaceful change.",
+        "longDescription": "Players have a duty to follow server laws and seek change through peaceful, approved channels rather than engaging in civil disobedience that causes chaos."
+      },
+      {
+        "code": "F-011",
+        "page": 6,
+        "shortDescription": "Practice Honesty – Avoid lies that may harm others.",
+        "longDescription": "It is the moral duty of every player to be honest in their interactions and to avoid spreading lies or misinformation that could harm another player or the community."
+      },
+      {
+        "code": "F-012",
+        "page": 6,
+        "shortDescription": "Be Loyal to Community – Support your server as a home, not just a place to exploit.",
+        "longDescription": "Players have an ethical duty to be loyal to their server community, treating it as a home and working to improve it, rather than simply exploiting it for personal gain."
+      },
+      {
+        "code": "F-013",
+        "page": 6,
+        "shortDescription": "Forgive Mistakes – Allow others to learn from their errors instead of holding grudges.",
+        "longDescription": "It is a player's moral duty to be forgiving of others' mistakes, allowing them the chance to learn and grow rather than holding grudges that create a toxic environment."
+      },
+      {
+        "code": "F-014",
+        "page": 6,
+        "shortDescription": "Share Knowledge – Teach others skills you have mastered.",
+        "longDescription": "Players have an ethical duty to share their knowledge and skills with others, helping to raise the collective skill level of the community and fostering a collaborative spirit."
+      },
+      {
+        "code": "F-015",
+        "page": 6,
+        "shortDescription": "Help Struggling Players – Provide basic gear or food when someone is struggling.",
+        "longDescription": "It is a moral duty to help other players who are struggling, whether by providing them with food, basic tools, or helpful advice. A supportive community is a strong community."
+      },
+      {
+        "code": "F-016",
+        "page": 6,
+        "shortDescription": "Avoid Toxicity – Never encourage division or hostility among groups.",
+        "longDescription": "Every player has a duty to avoid toxic behavior and to never encourage division, drama, or hostility between different players or groups within the community."
+      },
+      {
+        "code": "F-017",
+        "page": 6,
+        "shortDescription": "Celebrate Achievements of Others – Congratulate instead of being jealous.",
+        "longDescription": "It is a player's moral duty to celebrate the achievements of others rather than being jealous. A supportive and positive attitude towards others' success benefits everyone."
+      },
+      {
+        "code": "F-018",
+        "page": 6,
+        "shortDescription": "Avoid Greed – Never put wealth above community well-being.",
+        "longDescription": "Players have an ethical duty to avoid excessive greed and to never prioritize their own personal wealth over the health and well-being of the community."
+      },
+      {
+        "code": "F-019",
+        "page": 6,
+        "shortDescription": "Encourage Creativity – Motivate others to build, design, and innovate.",
+        "longDescription": "It is a player's duty to encourage creativity and innovation in others. A community that values new ideas and creative expression is a more interesting and vibrant place to play."
+      },
+      {
+        "code": "F-020",
+        "page": 6,
+        "shortDescription": "Act with Courage – Speak up against unfairness even if unpopular.",
+        "longDescription": "Players have a moral duty to act with courage and speak up against unfairness or wrongdoing, even if it is an unpopular stance to take. This helps maintain a just community."
+      }
+    ]
+  },
+  {
+    "title": "Rights",
+    "rules": [
+      {
+        "code": "G-001",
+        "page": 7,
+        "shortDescription": "Right to choose any available job.",
+        "longDescription": "Players have the right to choose any job that is available to them, without being forced into a specific role or being unfairly excluded from opportunities."
+      },
+      {
+        "code": "G-002",
+        "page": 7,
+        "shortDescription": "Right to be paid fairly for jobs.",
+        "longDescription": "When a player completes a job, they have the right to be paid the agreed-upon amount fairly and promptly, ensuring their work is properly compensated."
+      },
+      {
+        "code": "G-003",
+        "page": 7,
+        "shortDescription": "Right to change jobs without punishment.",
+        "longDescription": "Players have the right to change their job or profession without facing punishment or unfair restrictions, allowing for freedom and flexibility in their career path."
+      },
+      {
+        "code": "G-004",
+        "page": 7,
+        "shortDescription": "Right to see job contracts clearly.",
+        "longDescription": "Before accepting a job, a player has the right to see a clear contract or set of instructions outlining the tasks, payment, and any other relevant terms."
+      },
+      {
+        "code": "G-005",
+        "page": 7,
+        "shortDescription": "Right to fair promotions and rewards.",
+        "longDescription": "In job systems with progression, players have the right to be considered for promotions and rewards based on merit and hard work, not favoritism."
+      },
+      {
+        "code": "G-006",
+        "page": 7,
+        "shortDescription": "Right to strike against unfair work.",
+        "longDescription": "If working conditions or pay are egregiously unfair, players have the collective right to organize and strike in a peaceful manner to negotiate for better terms."
+      },
+      {
+        "code": "G-007",
+        "page": 7,
+        "shortDescription": "Right to safe working environments.",
+        "longDescription": "Players have the right to a safe environment when performing their jobs, free from unnecessary dangers or traps that could lead to loss of items or progress."
+      },
+      {
+        "code": "G-008",
+        "page": 7,
+        "shortDescription": "Right to equal work opportunities.",
+        "longDescription": "All players have the right to equal opportunities in the job market, regardless of their rank, wealth, or connections. Job openings should be accessible to all."
+      },
+      {
+        "code": "G-009",
+        "page": 7,
+        "shortDescription": "Right to request leave from jobs.",
+        "longDescription": "Players have the right to request temporary leave from their job duties for valid reasons without the fear of being fired or punished unfairly."
+      },
+      {
+        "code": "G-010",
+        "page": 7,
+        "shortDescription": "Right to earn recognition for good work.",
+        "longDescription": "Players who perform their jobs exceptionally well have the right to earn recognition, whether through bonuses, promotions, or public acknowledgment of their contributions."
+      },
+      {
+        "code": "G-011",
+        "page": 7,
+        "shortDescription": "Right to access server updates fairly.",
+        "longDescription": "All players have the right to access and benefit from server updates and new features fairly. Updates should not be restricted to a select group of players."
+      },
+      {
+        "code": "G-012",
+        "page": 7,
+        "shortDescription": "Right to stable server uptime.",
+        "longDescription": "Players have the right to a server that is stable and maintains a reasonable uptime, allowing them to play without constant interruptions from crashes or restarts."
+      },
+      {
+        "code": "G-013",
+        "page": 7,
+        "shortDescription": "Right to know about major changes.",
+        "longDescription": "Players are entitled to be informed about major changes to the server, such as new rules, plugins, or world resets, before they are implemented."
+      },
+      {
+        "code": "G-014",
+        "page": 7,
+        "shortDescription": "Right to suggest features.",
+        "longDescription": "Every player has the right to suggest new features, plugins, or ideas for the server and to have those suggestions be considered by the staff team."
+      },
+      {
+        "code": "G-015",
+        "page": 7,
+        "shortDescription": "Right to custom skins/capes (if supported).",
+        "longDescription": "If the server supports them, players have the right to use custom skins and capes to personalize their appearance, as long as they are appropriate."
+      },
+      {
+        "code": "G-016",
+        "page": 7,
+        "shortDescription": "Right to join with Bedrock or Java equally.",
+        "longDescription": "On cross-play servers, players have the right to an equal gameplay experience, regardless of whether they are connecting from the Java or Bedrock edition of the game."
+      },
+      {
+        "code": "G-017",
+        "page": 7,
+        "shortDescription": "Right to enjoy lag-free environments.",
+        "longDescription": "Players have the right to a reasonably lag-free gameplay environment. The server staff should make efforts to optimize performance and minimize latency."
+      },
+      {
+        "code": "G-018",
+        "page": 7,
+        "shortDescription": "Right to technical support from staff.",
+        "longDescription": "If a player encounters a technical issue, such as a bug or a glitch, they have the right to receive technical support and assistance from the staff team."
+      },
+      {
+        "code": "G-019",
+        "page": 7,
+        "shortDescription": "Right to backup of player progress.",
+        "longDescription": "Players have the right to have their progress, such as inventory and builds, protected by regular server backups to prevent catastrophic data loss."
+      },
+      {
+        "code": "G-020",
+        "page": 7,
+        "shortDescription": "Right to safe plugin-based systems.",
+        "longDescription": "Players have the right to interact with server plugins and systems that are safe and secure, without the risk of them causing data loss or other technical issues."
+      }
+    ]
+  },
+  {
+    "title": "Duties",
+    "rules": [
+      {
+        "code": "H-001",
+        "page": 8,
+        "shortDescription": "Promote Server Growth – Invite friends and spread positivity.",
+        "longDescription": "Players have an advanced duty to help the server grow by inviting friends, spreading positive word-of-mouth, and contributing to a welcoming atmosphere for new members."
+      },
+      {
+        "code": "H-002",
+        "page": 8,
+        "shortDescription": "Donate to Support Server – Contribute financially if possible.",
+        "longDescription": "For players who are able, it is a valuable duty to consider donating to support the server's financial costs, ensuring its long-term survival and improvement."
+      },
+      {
+        "code": "H-003",
+        "page": 8,
+        "shortDescription": "Help Improve Plugins – Suggest new ideas for development.",
+        "longDescription": "Players have a duty to help improve the server by providing constructive feedback and suggesting new ideas for plugin development and features."
+      },
+      {
+        "code": "H-004",
+        "page": 8,
+        "shortDescription": "Participate in Testing Events – Help staff test updates before release.",
+        "longDescription": "It is a player's duty to participate in testing events for new updates when possible. This helps staff identify and fix bugs before the update is released to everyone."
+      },
+      {
+        "code": "H-005",
+        "page": 8,
+        "shortDescription": "Promote Fair PvP – Fight without toxic behavior.",
+        "longDescription": "Players engaged in PvP have a duty to promote a fair and honorable combat environment, free from toxic behavior like spawn camping or excessive taunting."
+      },
+      {
+        "code": "H-006",
+        "page": 8,
+        "shortDescription": "Assist Staff – Support moderators when they need evidence.",
+        "longDescription": "It is a player's duty to assist the staff team by providing evidence, such as screenshots or videos, when reporting a rule-breaker. This helps ensure fair and swift justice."
+      },
+      {
+        "code": "H-007",
+        "page": 8,
+        "shortDescription": "Keep Logs of Issues – Document bugs and report them.",
+        "longDescription": "Players have a duty to keep logs or detailed descriptions of any bugs or technical issues they encounter and to report them thoroughly to the staff."
+      },
+      {
+        "code": "H-008",
+        "page": 8,
+        "shortDescription": "Encourage Diversity – Welcome all players regardless of background.",
+        "longDescription": "It is the duty of every player to encourage diversity and to welcome all members of the community, regardless of their background, age, or skill level."
+      },
+      {
+        "code": "H-009",
+        "page": 8,
+        "shortDescription": "Respect Cultural Differences – Avoid offensive jokes or remarks.",
+        "longDescription": "Players have a duty to respect cultural differences and to avoid making offensive jokes or remarks that could make other players feel unwelcome or uncomfortable."
+      },
+      {
+        "code": "H-010",
+        "page": 8,
+        "shortDescription": "Maintain Balance of Power – Do not allow one faction to dominate unfairly.",
+        "longDescription": "In faction-based servers, players have a duty to help maintain a balance of power and to not allow one group to dominate the server to the point where it is no longer fun for others."
+      },
+      {
+        "code": "H-011",
+        "page": 8,
+        "shortDescription": "Defend Rights of All Players – Protect rights just like your own.",
+        "longDescription": "It is the final and most important duty of every player to defend the rights of all other players as if they were their own, ensuring the community remains fair and just for everyone."
+      },
+      {
+        "code": "H-012",
+        "page": 8,
+        "shortDescription": "Avoid Dictatorship Tendencies – Even leaders must respect freedom.",
+        "longDescription": "Even those in leadership positions have a duty to avoid dictatorial tendencies and to respect the freedom and rights of all players."
+      },
+      {
+        "code": "H-013",
+        "page": 8,
+        "shortDescription": "Respect Private Land – Never trespass without permission.",
+        "longDescription": "It is a player's duty to respect private land and to never trespass on another player's claimed property without their explicit permission."
+      },
+      {
+        "code": "H-014",
+        "page": 8,
+        "shortDescription": "Support the Server’s Lore/Theme – Play within the world’s roleplay context.",
+        "longDescription": "Players have a duty to support the server's established lore or theme by participating in roleplay and making decisions that are consistent with the world's story."
+      },
+      {
+        "code": "H-015",
+        "page": 8,
+        "shortDescription": "Encourage Fair Governance – Hold leaders accountable.",
+        "longDescription": "It is the duty of all players to encourage fair governance by holding their elected leaders accountable for their actions and decisions."
+      },
+      {
+        "code": "H-016",
+        "page": 8,
+        "shortDescription": "Actively Participate in Community – Don’t just play silently—contribute.",
+        "longDescription": "Players have a duty to be active participants in the community, not just silent players. This means contributing to discussions, events, and the overall life of the server."
+      },
+      {
+        "code": "H-017",
+        "page": 8,
+        "shortDescription": "Maintain Peace Whenever Possible – Avoid wars unless absolutely necessary.",
+        "longDescription": "It is a player's duty to help maintain peace and to avoid instigating wars or large-scale conflicts unless they are absolutely necessary and justified."
+      },
+      {
+        "code": "H-018",
+        "page": 8,
+        "shortDescription": "Provide Feedback to Improve Server – Suggest improvements respectfully.",
+        "longDescription": "Players have a duty to provide constructive feedback to the staff team to help improve the server, always doing so in a respectful and helpful manner."
+      },
+      {
+        "code": "H-019",
+        "page": 8,
+        "shortDescription": "Be a Role Model for Others – Set an example of good behavior.",
+        "longDescription": "Every player has a duty to be a role model for others by setting a positive example of good behavior, sportsmanship, and community spirit."
+      },
+      {
+        "code": "H-020",
+        "page": 8,
+        "shortDescription": "Remember Duty Above Privilege – Rights come with duties—balance both fairly.",
+        "longDescription": "It is the final duty of all players to remember that their rights come with corresponding duties. A healthy community is one where both are respected and balanced fairly."
+      }
+    ]
+  }
+]

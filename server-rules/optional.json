@@ -1,0 +1,1287 @@
+[
+  {
+    "title": "Creative Building Projects",
+    "rules": [
+      {
+        "code": "A-01",
+        "shortDescription": "Use unique block palettes.",
+        "longDescription": "Go beyond standard oak and cobblestone. Experiment with mixing uncommon blocks like terracotta, concrete, and prismarine to create visually stunning and unique builds that stand out. A creative palette can define the entire theme of your base or town.",
+        "page": 1
+      },
+      {
+        "code": "A-02",
+        "shortDescription": "Add hidden rooms.",
+        "longDescription": "Incorporate secret passages and hidden rooms into your builds. Use sticky pistons with hidden levers or other clever mechanisms to create concealed areas for treasures, workshops, or just for fun. It adds a layer of mystery and discovery for visitors.",
+        "page": 1
+      },
+      {
+        "code": "A-03",
+        "shortDescription": "Decorate interiors.",
+        "longDescription": "Don't leave the inside of your houses empty. Add furniture, decorations, and functional stations. Use stairs for chairs, banners for curtains, and item frames for displays to make your interiors feel lived-in and complete.",
+        "page": 1
+      },
+      {
+        "code": "A-04",
+        "shortDescription": "Community themes.",
+        "longDescription": "When building in a town or near other players, try to match your build style with the surrounding structures. A consistent theme, whether it's medieval, modern, or fantasy, makes the entire community look more cohesive and planned.",
+        "page": 1
+      },
+      {
+        "code": "A-05",
+        "shortDescription": "Build landmarks.",
+        "longDescription": "Create large, impressive landmarks like statues, clock towers, or lighthouses. These not only look great but also serve as important navigational aids for players trying to find their way around the world or your town.",
+        "page": 1
+      },
+      {
+        "code": "A-06",
+        "shortDescription": "Use natural terrain.",
+        "longDescription": "Instead of flattening large areas, integrate your builds into the natural landscape. Build houses into the side of mountains, create bases in underwater caves, or wrap your structures around rivers. This creates more organic and interesting designs.",
+        "page": 1
+      },
+      {
+        "code": "A-07",
+        "shortDescription": "Seasonal decorations.",
+        "longDescription": "Update your base or town with festive themes for different seasons or holidays. Use pumpkins for Halloween, wool and snow for winter, or colorful flowers for spring to keep your area feeling fresh and timely.",
+        "page": 1
+      },
+      {
+        "code": "A-08",
+        "shortDescription": "Build bridges.",
+        "longDescription": "Connect different areas of your land or separate villages with creatively designed bridges. Instead of a simple plank bridge, try building suspension bridges, covered bridges, or arched stone bridges to add architectural flair.",
+        "page": 1
+      },
+      {
+        "code": "A-09",
+        "shortDescription": "Underground towns.",
+        "longDescription": "Create hidden communities beneath the surface. A secret underground town can be a fun community project and a safe haven from surface-level threats. Use glowstone or other light sources to make it feel bright and welcoming.",
+        "page": 1
+      },
+      {
+        "code": "A-10",
+        "shortDescription": "Roof gardens.",
+        "longDescription": "Add a touch of nature to your builds by creating gardens on the rooftops of houses and other structures. This is a great way to add color and life to a dense city or a compact base, and it can also be a functional space for farming.",
+        "page": 1
+      },
+      {
+        "code": "A-11",
+        "shortDescription": "Add fountains.",
+        "longDescription": "Enhance your towns and gardens with creative water fountains. Use materials like quartz, prismarine, or stone bricks, and consider adding lights to make them sparkle at night. Fountains can serve as beautiful central gathering points.",
+        "page": 1
+      },
+      {
+        "code": "A-12",
+        "shortDescription": "Use banners.",
+        "longDescription": "Create custom flags, symbols, and decorations using the loom to make intricate banner patterns. You can use banners to represent your town, guild, or personal base, adding a layer of identity and customization to your builds.",
+        "page": 1
+      },
+      {
+        "code": "A-13",
+        "shortDescription": "Build docks.",
+        "longDescription": "If your base is near water, build fishing piers, boat harbors, and docks. This adds a realistic and functional element to your waterfront areas, providing a place to store boats and a scenic spot for fishing.",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "title": "Town & City Planning",
+    "rules": [
+      {
+        "code": "A-14",
+        "shortDescription": "Themed districts.",
+        "longDescription": "Organize your town into themed districts. Create a bustling market district for shops, a quiet residential district for houses, and a rural district for farms. This makes your city feel more organized and realistic.",
+        "page": 1
+      },
+      {
+        "code": "A-15",
+        "shortDescription": "Pixel art.",
+        "longDescription": "Create large-scale pixel art of characters from Minecraft or other games. This can be a fun, creative outlet and can serve as a unique landmark for your town or base. Use colored wool or concrete for the best results.",
+        "page": 1
+      },
+      {
+        "code": "A-16",
+        "shortDescription": "Build parks.",
+        "longDescription": "Set aside space in your towns for public parks. Add trees, benches, flower gardens, and pathways to create a peaceful green space for players to relax and socialize. Parks make a city feel more vibrant and less crowded.",
+        "page": 1
+      },
+      {
+        "code": "A-17",
+        "shortDescription": "Villager homes.",
+        "longDescription": "When creating a village, design unique and cozy houses for your villagers. Instead of simple boxes, give them well-decorated homes that match the overall theme of your town. Happy villagers make for a lively community.",
+        "page": 1
+      },
+      {
+        "code": "A-18",
+        "shortDescription": "Glass floors.",
+        "longDescription": "Use glass floors in your builds to create stunning views of underground areas. You can build a glass floor over a lush cave, a mob spawner, or another part of your base to create a unique and impressive visual effect.",
+        "page": 1
+      },
+      {
+        "code": "A-19",
+        "shortDescription": "Symmetry builds.",
+        "longDescription": "Challenge yourself by creating builds with perfect symmetry. While asymmetrical builds can feel more organic, a perfectly balanced and symmetrical structure can be incredibly satisfying and visually impressive, showcasing your attention to detail.",
+        "page": 1
+      },
+      {
+        "code": "A-20",
+        "shortDescription": "Use redstone in designs.",
+        "longDescription": "Incorporate redstone into your architectural designs. Create automatic doors, hidden staircases, or retractable bridges to make your builds more interactive and dynamic. This adds a layer of technical sophistication to your creations.",
+        "page": 1
+      },
+      {
+        "code": "A-21",
+        "shortDescription": "Build fountains with lights.",
+        "longDescription": "Take your fountain designs to the next level by adding light sources. Place sea lanterns, glowstone, or shroomlights underneath the water to make it sparkle and glow, creating a beautiful centerpiece for your town, especially at night.",
+        "page": 1
+      },
+      {
+        "code": "A-22",
+        "shortDescription": "City walls.",
+        "longDescription": "Protect your towns and cities with impressive, styled walls. Instead of a simple cobblestone wall, design something with depth, texture, and defensive features like towers and battlements. A great wall can be a landmark in itself.",
+        "page": 1
+      },
+      {
+        "code": "A-23",
+        "shortDescription": "Add pathways.",
+        "longDescription": "Create decorated pathways to connect different parts of your base or town. Use a mix of materials like stone bricks, gravel, and path blocks, and line the paths with fences, lanterns, or flowers to guide players and improve aesthetics.",
+        "page": 1
+      },
+      {
+        "code": "A-24",
+        "shortDescription": "Use lanterns.",
+        "longDescription": "Instead of placing torches everywhere, use lanterns to light up your towns. Hang them from fences, place them on top of posts, or incorporate them into your building designs for a more sophisticated and atmospheric lighting solution.",
+        "page": 1
+      },
+      {
+        "code": "A-25",
+        "shortDescription": "Sky bases.",
+        "longDescription": "Take to the skies by building high up on floating islands or constructing your own sky base. A base in the clouds offers safety from mobs, incredible views, and a unique building challenge. Connect floating islands with bridges to create a sky-high community.",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "title": "Basic Survival Etiquette",
+    "rules": [
+      {
+        "code": "B-01",
+        "shortDescription": "Share food.",
+        "longDescription": "If you see a player who is starving, offer them some of your food. Helping others in need is a cornerstone of a strong community. A simple act of kindness like sharing a piece of bread can make a huge difference to a new player.",
+        "page": 2
+      },
+      {
+        "code": "B-02",
+        "shortDescription": "Torch placement.",
+        "longDescription": "When you are exploring caves, be sure to place torches to light up the area. This not only helps you see but also prevents hostile mobs from spawning. A well-lit cave system is a safer cave system for everyone who comes after you.",
+        "page": 2
+      },
+      {
+        "code": "B-03",
+        "shortDescription": "Community farms.",
+        "longDescription": "Consider creating community farms that are open to all players. This ensures that everyone, especially new players, has access to a reliable food source. Remember to replant any crops you harvest to keep the farm sustainable.",
+        "page": 2
+      },
+      {
+        "code": "B-04",
+        "shortDescription": "Help in raids.",
+        "longDescription": "If you see a village raid in progress, join in to help defend the villagers. Raids can be tough for a single player to handle, and your assistance can help save the village and its inhabitants. Teamwork makes the dream work.",
+        "page": 2
+      },
+      {
+        "code": "B-05",
+        "shortDescription": "Protect animals.",
+        "longDescription": "Avoid unnecessary killing of passive mobs, especially those in other players' farms or pens. Animals are a valuable resource, and killing them without reason is wasteful and can be frustrating for their owners.",
+        "page": 2
+      },
+      {
+        "code": "B-06",
+        "shortDescription": "Avoid griefing.",
+        "longDescription": "Even if an area isn't claimed, refrain from damaging or destroying other players' builds. Respect the time and effort that others have put into their creations. A good rule of thumb is: if you didn't build it, don't break it.",
+        "page": 2
+      },
+      {
+        "code": "B-07",
+        "shortDescription": "Resource caves.",
+        "longDescription": "When you finish exploring a cave, consider leaving some resources behind for the next player. You can also leave torches to show that the area has been explored, which helps others navigate the cave system more efficiently.",
+        "page": 2
+      },
+      {
+        "code": "B-08",
+        "shortDescription": "Rest before night.",
+        "longDescription": "Coordinate with other players to use beds and skip the night. This helps prevent phantom spawns and makes the world safer for everyone. If you see others calling for a sleep, try to find a bed quickly.",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "title": "Cooperative Survival",
+    "rules": [
+      {
+        "code": "B-09",
+        "shortDescription": "Emergency shelters.",
+        "longDescription": "Build small, simple huts or shelters in wild, untamed areas. These can serve as safe spots for you or other traveling players who get caught outside at night. A simple shelter with a bed and a chest can be a lifesaver.",
+        "page": 2
+      },
+      {
+        "code": "B-10",
+        "shortDescription": "Spare tools.",
+        "longDescription": "Craft extra tools and leave them in public chests or offer them to teammates. A player whose tools have broken mid-adventure will be very grateful for a spare pickaxe or sword. It's a small gesture that promotes teamwork.",
+        "page": 2
+      },
+      {
+        "code": "B-11",
+        "shortDescription": "Use shields.",
+        "longDescription": "In group combat situations, carry and use a shield to protect not only yourself but also your teammates. A player with a shield can draw enemy fire while others attack, making group fights against powerful mobs much more manageable.",
+        "page": 2
+      },
+      {
+        "code": "B-12",
+        "shortDescription": "Share rare loot.",
+        "longDescription": "When you find rare loot like diamonds, ancient debris, or enchanted books during a group expedition, divide the findings equally among the team members. Fairly sharing valuable resources builds trust and encourages future collaboration.",
+        "page": 2
+      },
+      {
+        "code": "B-13",
+        "shortDescription": "Avoid hogging resources.",
+        "longDescription": "When you find a vein of ore, especially a rare one, consider leaving some behind for other players to find. Mining out every single diamond in a cave system can be discouraging for others. Sharing resources helps everyone progress.",
+        "page": 2
+      },
+      {
+        "code": "B-14",
+        "shortDescription": "Build safehouses.",
+        "longDescription": "Establish small, well-stocked safehouses along major travel routes. These can provide a safe place for traveling players to rest, restock on supplies, and repair their gear. It's a great way to support the entire server community.",
+        "page": 2
+      },
+      {
+        "code": "B-15",
+        "shortDescription": "Tree etiquette.",
+        "longDescription": "Practice good forestry by always replanting trees after you cut them down. This ensures that forests remain a renewable resource for all players. It's also courteous to fully chop down a tree, leaving no floating treetops behind.",
+        "page": 2
+      },
+      {
+        "code": "B-16",
+        "shortDescription": "Public chests.",
+        "longDescription": "Set up public chests in spawn areas or towns and fill them with basic gear for newcomers. Starter tools, food, and simple armor can make a huge difference for a player just joining the server. It's a great way to welcome new members.",
+        "page": 2
+      },
+      {
+        "code": "B-17",
+        "shortDescription": "Team survival challenges.",
+        "longDescription": "Organize or join team-based survival challenges. Working together with a group to survive in a harsh environment or achieve a common goal can be a fun and rewarding experience that builds strong bonds between players.",
+        "page": 2
+      },
+      {
+        "code": "B-18",
+        "shortDescription": "Repair armor.",
+        "longDescription": "Don't just throw away your damaged armor. Use an anvil to repair it, especially if it's enchanted. This is more resource-efficient and ensures you are always prepared for a fight. You can also help teammates by repairing their gear if you have the resources.",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "title": "Advanced Survival Techniques",
+    "rules": [
+      {
+        "code": "B-19",
+        "shortDescription": "Food diversity.",
+        "longDescription": "Don't just rely on one type of food. Cook different meals to take advantage of varying saturation levels and potential buffs from suspicious stew or other special foods. A diverse diet can be more effective for long adventures.",
+        "page": 2
+      },
+      {
+        "code": "B-20",
+        "shortDescription": "Cave mapping.",
+        "longDescription": "Create maps to chart the cave systems you explore. This can help you and other players navigate complex underground networks and keep track of which areas have already been explored. It's a great tool for organized mining expeditions.",
+        "page": 2
+      },
+      {
+        "code": "B-21",
+        "shortDescription": "Avoid lava griefing.",
+        "longDescription": "Be extremely careful with lava buckets. Do not dump lava near other players' bases or in areas where it could cause accidental damage. Lava can be a powerful tool, but it's also incredibly destructive, so use it responsibly.",
+        "page": 2
+      },
+      {
+        "code": "B-22",
+        "shortDescription": "Safe mining.",
+        "longDescription": "Follow safe strip-mining practices to avoid accidents. A common method is to dig a 1x2 tunnel at a specific Y-level, ensuring you don't dig straight down or up, which could lead to falling into lava or a deep cave.",
+        "page": 2
+      },
+      {
+        "code": "B-23",
+        "shortDescription": "No stealing.",
+        "longDescription": "Respect other players' personal chests and property. Even if a chest is unlocked, you should not take items that do not belong to you. Trust is essential for a healthy community, and stealing is the quickest way to break it.",
+        "page": 2
+      },
+      {
+        "code": "B-24",
+        "shortDescription": "Community hunts.",
+        "longDescription": "Organize group hunts to take on powerful bosses like the Wither or the Ender Dragon. Fighting these bosses as a team is not only safer and more effective, but it's also a much more epic and memorable experience.",
+        "page": 2
+      },
+      {
+        "code": "B-25",
+        "shortDescription": "Beacon sharing.",
+        "longDescription": "If you have a beacon, consider setting it up in a public area so that other players in your town can also benefit from its powerful buffs. Sharing the benefits of a beacon is a great way to support your entire community.",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "title": "Fair Trade & Economy",
+    "rules": [
+      {
+        "code": "C-01",
+        "shortDescription": "Trade fairly.",
+        "longDescription": "When setting up shops or trading with other players, keep your prices balanced and fair. A healthy economy relies on trust and reasonable pricing. Overpricing essential goods can make it difficult for new players to get started.",
+        "page": 3
+      },
+      {
+        "code": "C-02",
+        "shortDescription": "Donate extras.",
+        "longDescription": "If you have surplus items that you don't need, consider donating them to new players or a community chest. Your extra cobblestone or iron could be exactly what a new player needs to get their base started.",
+        "page": 3
+      },
+      {
+        "code": "C-03",
+        "shortDescription": "Market stalls.",
+        "longDescription": "Build creative and attractive market stalls for your shops. A well-designed marketplace can become a central hub for the server's economy and a great place for players to interact and trade.",
+        "page": 3
+      },
+      {
+        "code": "C-04",
+        "shortDescription": "Keep written signs.",
+        "longDescription": "Clearly label your shops and chests with written signs. This helps players understand what you are selling and for what price. Clear communication is key to a smooth and efficient trading experience.",
+        "page": 3
+      },
+      {
+        "code": "C-05",
+        "shortDescription": "Auction events.",
+        "longDescription": "Host weekly auction events where players can bid on rare and valuable items. Auctions are a fun and exciting way to sell unique goods and can become a popular server-wide event.",
+        "page": 3
+      },
+      {
+        "code": "C-06",
+        "shortDescription": "Daily wages.",
+        "longDescription": "If you hire other players for jobs, make sure to reward them with fair daily or weekly wages. This creates a more immersive roleplaying experience and provides a steady income for players who participate in the job system.",
+        "page": 3
+      },
+      {
+        "code": "C-07",
+        "shortDescription": "Fair pricing.",
+        "longDescription": "Avoid selling goods at extremely high, predatory prices. While supply and demand are important, intentionally creating monopolies or charging outrageous amounts for basic necessities is harmful to the overall economy.",
+        "page": 3
+      },
+      {
+        "code": "C-08",
+        "shortDescription": "Community bank.",
+        "longDescription": "Establish a community bank where players can store their wealth and potentially earn interest. This can be a fun roleplaying feature and a way to collectively fund large-scale community projects.",
+        "page": 3
+      },
+      {
+        "code": "C-09",
+        "shortDescription": "Trading outposts.",
+        "longDescription": "Build trading outposts in remote locations to facilitate trade between distant bases. These can serve as neutral meeting points for players to exchange goods without having to travel all the way to the main market.",
+        "page": 3
+      },
+      {
+        "code": "C-10",
+        "shortDescription": "Use diamonds sparingly.",
+        "longDescription": "To maintain their value, consider using a different item as the primary currency and save diamonds for high-end trades. When diamonds are too common, they lose their status as a rare and valuable item.",
+        "page": 3
+      },
+      {
+        "code": "C-11",
+        "shortDescription": "Balanced economy.",
+        "longDescription": "Do not exploit economic glitches or loopholes to generate wealth. A balanced economy is crucial for the long-term health of the server. Abusing exploits can lead to hyperinflation and ruin the economy for everyone.",
+        "page": 3
+      },
+      {
+        "code": "C-12",
+        "shortDescription": "Give discounts.",
+        "longDescription": "Offer loyalty discounts or special deals to repeat customers. This is a great way to build a loyal customer base for your shop and encourage players to trade with you again in the future.",
+        "page": 3
+      },
+      {
+        "code": "C-13",
+        "shortDescription": "Barter system.",
+        "longDescription": "Encourage a barter system where players can exchange items and services directly without using a currency. This can be a fun and interactive way to trade, especially in the early stages of a server.",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "title": "Advanced Economics",
+    "rules": [
+      {
+        "code": "C-14",
+        "shortDescription": "Seasonal shops.",
+        "longDescription": "Open special seasonal shops that sell unique items related to holidays or server events. This adds a fun, festive element to the economy and gives players a reason to look forward to different times of the year.",
+        "page": 3
+      },
+      {
+        "code": "C-15",
+        "shortDescription": "Keep shop logs.",
+        "longDescription": "Keep a written book or a chest with logs of your shop's transactions. This can help you keep track of your sales, manage your stock, and adds a layer of professionalism and roleplay to your business.",
+        "page": 3
+      },
+      {
+        "code": "C-16",
+        "shortDescription": "Player-run stores.",
+        "longDescription": "Encourage and support local, player-run businesses. A diverse market with many different shops is more interesting and resilient than a market dominated by a few large stores. Shop local!",
+        "page": 3
+      },
+      {
+        "code": "C-17",
+        "shortDescription": "Don't monopolize.",
+        "longDescription": "Allow other players to sell the same goods as you. Attempting to create a monopoly by driving competitors out of business is considered poor sportsmanship and is harmful to the server's economy. Healthy competition is good for everyone.",
+        "page": 3
+      },
+      {
+        "code": "C-18",
+        "shortDescription": "Guild trading.",
+        "longDescription": "Form trading guilds or alliances with other players to pool resources and trade as a group. This can be a powerful way to control a sector of the market and fund large-scale projects through teamwork.",
+        "page": 3
+      },
+      {
+        "code": "C-19",
+        "shortDescription": "Invest in builds.",
+        "longDescription": "Use your profits to invest in community projects or commission other players to create impressive builds. Reinvesting your wealth back into the server helps improve the environment for everyone.",
+        "page": 3
+      },
+      {
+        "code": "C-20",
+        "shortDescription": "Avoid scams.",
+        "longDescription": "Be honest and transparent in all your business dealings. Scamming other players by misrepresenting items, using deceptive shop designs, or failing to deliver on a deal is a serious offense that will result in severe punishment.",
+        "page": 3
+      },
+      {
+        "code": "C-21",
+        "shortDescription": "Starter kits.",
+        "longDescription": "Sell cheap, pre-packaged starter kits for new players. A kit with basic tools, food, and armor can be a great way to help newcomers get on their feet, and it's a good way for you to make a small, consistent profit.",
+        "page": 3
+      },
+      {
+        "code": "C-22",
+        "shortDescription": "Rent land.",
+        "longDescription": "If you own a large plot of land in a prime location, consider leasing out smaller plots to other players for their shops or houses. This can provide you with a steady passive income and create a vibrant, player-driven community.",
+        "page": 3
+      },
+      {
+        "code": "C-23",
+        "shortDescription": "Use signs for offers.",
+        "longDescription": "Advertise your deals and special offers with clearly visible signs. A well-placed sign can draw customers to your shop and inform them of sales they might have otherwise missed. Good advertising is key to a successful business.",
+        "page": 3
+      },
+      {
+        "code": "C-24",
+        "shortDescription": "Job contracts.",
+        "longDescription": "For large-scale jobs or services, use a written book to create a formal contract. This should outline the scope of the work, the payment terms, and the deadline. A contract helps prevent disputes and ensures both parties are clear on the agreement.",
+        "page": 3
+      },
+      {
+        "code": "C-25",
+        "shortDescription": "Economic growth.",
+        "longDescription": "Actively support and participate in the server's economy. By buying from other players' shops, hiring them for jobs, and contributing to community projects, you help create a prosperous and shared economy for everyone.",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "title": "Roleplaying Professions",
+    "rules": [
+      {
+        "code": "D-01",
+        "shortDescription": "Take jobs.",
+        "longDescription": "Immerse yourself in the community by taking on a job. You could become a farmer, a miner, a builder, or a town guard. Having a profession adds a fun layer of roleplay and can be a great way to contribute to your town.",
+        "page": 4
+      },
+      {
+        "code": "D-02",
+        "shortDescription": "Hire workers.",
+        "longDescription": "If you have a large project, consider hiring other players to help you. Paying for services is a great way to stimulate the economy and can help you complete your projects much faster than working alone.",
+        "page": 4
+      },
+      {
+        "code": "D-03",
+        "shortDescription": "Guilds.",
+        "longDescription": "Join or create a guild with other players who share similar interests. You could form a miners' guild, a builders' guild, or an adventurers' guild. Guilds can have unique roles, headquarters, and objectives.",
+        "page": 4
+      },
+      {
+        "code": "D-04",
+        "shortDescription": "Roleplay towns.",
+        "longDescription": "Participate in or create a roleplaying town where players take on the roles of villagers, leaders, guards, and more. This creates a deeply immersive and collaborative gameplay experience.",
+        "page": 4
+      },
+      {
+        "code": "D-05",
+        "shortDescription": "Law system.",
+        "longDescription": "For advanced roleplay, establish a town law system with judges and trials to handle in-game disputes. This can be a fun way to resolve conflicts and add a layer of civic roleplay to your community.",
+        "page": 4
+      },
+      {
+        "code": "D-06",
+        "shortDescription": "Guards.",
+        "longDescription": "Take on the role of a town guard to protect your community from mobs and other threats. This is a vital roleplay job that helps keep your town safe and adds to the immersive atmosphere.",
+        "page": 4
+      },
+      {
+        "code": "D-07",
+        "shortDescription": "Farmers.",
+        "longDescription": "Become a farmer and supply your town with a steady stream of food. You can specialize in different crops or animals and sell your goods at the local market. It's a peaceful and essential profession.",
+        "page": 4
+      },
+      {
+        "code": "D-08",
+        "shortDescription": "Blacksmiths.",
+        "longDescription": "Set up a blacksmith shop and repair tools and armor for other players. A skilled blacksmith is a valuable asset to any adventuring party or town, ensuring everyone has well-maintained gear.",
+        "page": 4
+      },
+      {
+        "code": "D-09",
+        "shortDescription": "Merchants.",
+        "longDescription": "Become a traveling merchant who journeys between towns to buy and sell goods. This is a great role for players who love to explore and trade, bringing rare items from distant lands to the main market.",
+        "page": 4
+      },
+      {
+        "code": "D-10",
+        "shortDescription": "Adventurers.",
+        "longDescription": "Take on the role of an adventurer who explores dangerous dungeons and brings back valuable loot. Adventurers are the pioneers of the server, charting unknown territories and facing down powerful foes.",
+        "page": 4
+      },
+      {
+        "code": "D-11",
+        "shortDescription": "Fishermen.",
+        "longDescription": "Become a fisherman and supply your town with a variety of fish. You can also find rare treasures while fishing, making it a potentially lucrative and relaxing profession.",
+        "page": 4
+      },
+      {
+        "code": "D-12",
+        "shortDescription": "Hunters.",
+        "longDescription": "Take on the role of a hunter who provides meat, leather, and other animal products. A skilled hunter is essential for keeping a town well-fed and supplied with materials for crafting.",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "title": "Advanced Roleplaying Roles",
+    "rules": [
+      {
+        "code": "D-13",
+        "shortDescription": "Builders.",
+        "longDescription": "Become a master builder who is hired by other players to create stunning structures. This is a great role for creative players who want to leave their mark on the server by designing beautiful houses, castles, and towns.",
+        "page": 4
+      },
+      {
+        "code": "D-14",
+        "shortDescription": "Explorers.",
+        "longDescription": "Take on the role of an explorer who maps unknown lands and discovers new territories. Explorers are vital for expanding the known world and finding rare biomes and structures.",
+        "page": 4
+      },
+      {
+        "code": "D-15",
+        "shortDescription": "Alchemists.",
+        "longDescription": "Set up an alchemy lab and brew a wide variety of potions for trade. A skilled alchemist can supply adventurers with powerful buffs and healing potions, making them an indispensable part of any community.",
+        "page": 4
+      },
+      {
+        "code": "D-16",
+        "shortDescription": "Healers.",
+        "longDescription": "Take on the role of a community healer who uses potions and other means to help players in need. This is a supportive role that is perfect for players who want to help others and foster a sense of community.",
+        "page": 4
+      },
+      {
+        "code": "D-17",
+        "shortDescription": "Town leaders.",
+        "longDescription": "Become a mayor or town leader and take on the responsibility of organizing your community. This includes setting local rules, planning community projects, and ensuring the town runs smoothly.",
+        "page": 4
+      },
+      {
+        "code": "D-18",
+        "shortDescription": "Judges.",
+        "longDescription": "In a town with a law system, take on the role of a judge to preside over disputes and decide on fair punishments. This is a challenging but rewarding role for players who are fair-minded and level-headed.",
+        "page": 4
+      },
+      {
+        "code": "D-19",
+        "shortDescription": "Librarians.",
+        "longDescription": "Create a public library and collect enchanted books, written stories, and helpful guides for the community. A librarian is a keeper of knowledge and a valuable resource for all players.",
+        "page": 4
+      },
+      {
+        "code": "D-20",
+        "shortDescription": "Carpenters.",
+        "longDescription": "Specialize as a carpenter who crafts intricate wood structures, furniture, and other decorative items. This is a great role for players who love detailed building and want to add a touch of craftsmanship to the server.",
+        "page": 4
+      },
+      {
+        "code": "D-21",
+        "shortDescription": "Guardsmen.",
+        "longDescription": "Join an official order of guardsmen who patrol towns and dungeons, protecting the innocent and upholding the law. This is a more formal version of the town guard role, often with a uniform and a command structure.",
+        "page": 4
+      },
+      {
+        "code": "D-22",
+        "shortDescription": "Farm helpers.",
+        "longDescription": "Work together with other players on large-scale harvesting and farming projects. This is a great way to foster teamwork and ensure that the community has an abundance of food and resources.",
+        "page": 4
+      },
+      {
+        "code": "D-23",
+        "shortDescription": "Delivery roles.",
+        "longDescription": "Take on the role of a courier or delivery person who transports goods safely between towns and players. This is a vital role for a server with a sprawling world and multiple settlements.",
+        "page": 4
+      },
+      {
+        "code": "D-24",
+        "shortDescription": "Actors.",
+        "longDescription": "Host fun roleplay stories and events where players can take on the roles of different characters. This could be a play, a mystery to solve, or a historical reenactment. It's a great way to foster creativity and community.",
+        "page": 4
+      },
+      {
+        "code": "D-25",
+        "shortDescription": "Bankers.",
+        "longDescription": "In a town with a bank, take on the role of a banker who tracks the economy, manages loans, and safeguards the community's wealth. This is a role for trustworthy players who are good with numbers.",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "title": "Community Engagement",
+    "rules": [
+      {
+        "code": "E-01",
+        "shortDescription": "Respect players.",
+        "longDescription": "Treat everyone you interact with kindly and with respect. A positive and friendly attitude is contagious and helps create a welcoming environment for all players, new and old.",
+        "page": 5
+      },
+      {
+        "code": "E-02",
+        "shortDescription": "Chat clean.",
+        "longDescription": "Keep the public chat channels clean and free of offensive or inappropriate language. This helps maintain a family-friendly atmosphere where all players can feel comfortable.",
+        "page": 5
+      },
+      {
+        "code": "E-03",
+        "shortDescription": "Help newcomers.",
+        "longDescription": "If you see a new player who seems lost or confused, take the time to help them out. Teach them the basics of the server, answer their questions, and make them feel welcome. A little help can go a long way.",
+        "page": 5
+      },
+      {
+        "code": "E-04",
+        "shortDescription": "Group projects.",
+        "longDescription": "Participate in or organize group projects, such as building a town hall, a public farm, or a nether hub. Working together on a large-scale project is a great way to build a sense of community.",
+        "page": 5
+      },
+      {
+        "code": "E-05",
+        "shortDescription": "Voting.",
+        "longDescription": "Let players have a say in server events and decisions through voting. This gives everyone a sense of ownership and ensures that the community's voice is heard.",
+        "page": 5
+      },
+      {
+        "code": "E-06",
+        "shortDescription": "Share resources.",
+        "longDescription": "Be generous with your resources and donate extra items to community chests or directly to players in need. A community that shares is a community that thrives.",
+        "page": 5
+      },
+      {
+        "code": "E-07",
+        "shortDescription": "Community gardens.",
+        "longDescription": "Start a community garden where players can plant and harvest crops together. This is a simple but effective way to foster collaboration and ensure everyone has access to food.",
+        "page": 5
+      },
+      {
+        "code": "E-08",
+        "shortDescription": "Town meetings.",
+        "longDescription": "Hold regular town meetings where players can gather to plan new builds, discuss community issues, and make decisions together. This is a great way to keep everyone involved and informed.",
+        "page": 5
+      },
+      {
+        "code": "E-09",
+        "shortDescription": "Fair rules.",
+        "longDescription": "Work together as a community to establish fair and equal rules for your town or settlement. When everyone has a say in the rules, they are more likely to be respected.",
+        "page": 5
+      },
+      {
+        "code": "E-10",
+        "shortDescription": "Protect builds.",
+        "longDescription": "Look out for your fellow players' creations and help protect them from griefers or mob damage. A community that protects each other's work is a strong community.",
+        "page": 5
+      },
+      {
+        "code": "E-11",
+        "shortDescription": "Repair griefing.",
+        "longDescription": "If you see that a player's build has been griefed, offer to help them repair the damage. Turning a negative situation into a positive act of collaboration can strengthen community bonds.",
+        "page": 5
+      },
+      {
+        "code": "E-12",
+        "shortDescription": "Festivals.",
+        "longDescription": "Host seasonal festivals and events to celebrate holidays or server milestones. Festivals are a great way to bring the community together for fun and games.",
+        "page": 5
+      },
+      {
+        "code": "E-13",
+        "shortDescription": "Public notice boards.",
+        "longDescription": "Set up public notice boards where players can announce news, advertise shops, or post messages for the community. This is a great way to keep everyone informed about what's happening on the server.",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "title": "Community Moderation & Support",
+    "rules": [
+      {
+        "code": "E-14",
+        "shortDescription": "Friendship.",
+        "longDescription": "Make an effort to be friendly and encourage teamwork among players. A positive and supportive community is built on strong friendships and a shared sense of camaraderie.",
+        "page": 5
+      },
+      {
+        "code": "E-15",
+        "shortDescription": "Conflict solving.",
+        "longDescription": "When disputes arise between players, encourage them to talk things out and find a peaceful resolution before resorting to punishment. Good communication can solve many problems.",
+        "page": 5
+      },
+      {
+        "code": "E-16",
+        "shortDescription": "Guide tours.",
+        "longDescription": "Offer to give new players a guided tour of the server's main towns and landmarks. This is a great way to make them feel welcome and help them get acquainted with the world.",
+        "page": 5
+      },
+      {
+        "code": "E-17",
+        "shortDescription": "Respect claims.",
+        "longDescription": "Always respect other players' claimed land and stay off private property unless you have permission to enter. This is a fundamental sign of respect in a community-based server.",
+        "page": 5
+      },
+      {
+        "code": "E-18",
+        "shortDescription": "Help in mining trips.",
+        "longDescription": "Offer to join other players on mining trips and work as a team to gather resources. This can make mining safer, more efficient, and a lot more fun.",
+        "page": 5
+      },
+      {
+        "code": "E-19",
+        "shortDescription": "Celebrate builds.",
+        "longDescription": "When you see a build that you admire, take a moment to compliment the creator. Positive feedback is a great motivator and helps create a supportive and creative atmosphere.",
+        "page": 5
+      },
+      {
+        "code": "E-20",
+        "shortDescription": "Organize groups.",
+        "longDescription": "Take the initiative to organize groups and assign leaders for community projects. Good organization is key to successfully completing large-scale builds and events.",
+        "page": 5
+      },
+      {
+        "code": "E-21",
+        "shortDescription": "Community voting.",
+        "longDescription": "When making decisions that affect the whole community, use a fair voting system to ensure that everyone's opinion is considered. This promotes a sense of democracy and fairness.",
+        "page": 5
+      },
+      {
+        "code": "E-22",
+        "shortDescription": "Music sessions.",
+        "longDescription": "Organize community music sessions where players can get together and share their note block creations. This is a fun and creative way to bring people together.",
+        "page": 5
+      },
+      {
+        "code": "E-23",
+        "shortDescription": "Don't spam.",
+        "longDescription": "Keep the chat peaceful and avoid spamming messages, even if you are excited. A clean chat is easier to read and more pleasant for everyone.",
+        "page": 5
+      },
+      {
+        "code": "E-24",
+        "shortDescription": "Encourage creativity.",
+        "longDescription": "Support and encourage players who are trying new and creative build styles. A diverse and imaginative server is a more interesting server for everyone.",
+        "page": 5
+      },
+      {
+        "code": "E-25",
+        "shortDescription": "Community sharing.",
+        "longDescription": "Foster a culture of trust and sharing within the community. When players feel that they can rely on each other, it creates a stronger and more resilient server environment.",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "title": "Competitive Minigames",
+    "rules": [
+      {
+        "code": "F-01",
+        "shortDescription": "PvP tournaments.",
+        "longDescription": "Host fair and organized PvP tournaments to let players test their combat skills. Ensure the rules are clear and the fights are officiated to guarantee a fair competition for everyone involved.",
+        "page": 6
+      },
+      {
+        "code": "F-02",
+        "shortDescription": "Build battles.",
+        "longDescription": "Organize build battles where players compete to create the best build based on a specific theme within a time limit. This is a fun way to showcase creative talent and challenge builders.",
+        "page": 6
+      },
+      {
+        "code": "F-03",
+        "shortDescription": "Treasure hunts.",
+        "longDescription": "Create exciting treasure hunts by hiding valuable loot around the world and providing clues for players to follow. This encourages exploration and problem-solving in a fun, competitive format.",
+        "page": 6
+      },
+      {
+        "code": "F-04",
+        "shortDescription": "Racing.",
+        "longDescription": "Organize Elytra, horse, or boat races to see who is the fastest. Build dedicated race tracks and offer prizes for the winners to make the competition more exciting.",
+        "page": 6
+      },
+      {
+        "code": "F-05",
+        "shortDescription": "Parkour maps.",
+        "longDescription": "Design and build challenging parkour maps to test players' agility and jumping skills. You can create leaderboards to track the fastest times and reward the best parkour masters.",
+        "page": 6
+      },
+      {
+        "code": "F-06",
+        "shortDescription": "Capture the flag.",
+        "longDescription": "Make custom arenas for team-based Capture the Flag games. This classic PvP minigame requires teamwork, strategy, and combat skill to succeed, making it a thrilling event.",
+        "page": 6
+      },
+      {
+        "code": "F-07",
+        "shortDescription": "Team battles.",
+        "longDescription": "Organize large-scale team battles where players are divided fairly into teams to compete in combat. Ensure team balancing to make the fights fair and exciting for all participants.",
+        "page": 6
+      },
+      {
+        "code": "F-08",
+        "shortDescription": "Puzzle games.",
+        "longDescription": "Build intricate escape rooms or puzzle maps that challenge players' problem-solving abilities. These games require logic and teamwork to complete, offering a different kind of challenge from combat or building.",
+        "page": 6
+      },
+      {
+        "code": "F-09",
+        "shortDescription": "Redstone challenges.",
+        "longDescription": "Create redstone-based challenges where players have to build specific machines or solve complex redstone puzzles. This is a great way to engage the technical players on your server.",
+        "page": 6
+      },
+      {
+        "code": "F-10",
+        "shortDescription": "Fishing contest.",
+        "longDescription": "Host a fishing contest to see who can catch the most fish, the rarest treasure, or the biggest salmon. It's a relaxing and fun competition that players of all skill levels can enjoy.",
+        "page": 6
+      },
+      {
+        "code": "F-11",
+        "shortDescription": "Hide and seek.",
+        "longDescription": "Use your towns and large build areas to host games of hide and seek. This is a simple, fun, and classic game that everyone knows how to play, making it a great impromptu event.",
+        "page": 6
+      },
+      {
+        "code": "F-12",
+        "shortDescription": "Spleef.",
+        "longDescription": "Build dedicated spleef arenas where players try to break the snow or other material from under their opponents' feet to make them fall. This fast-paced game is a classic and beloved Minecraft minigame.",
+        "page": 6
+      },
+      {
+        "code": "F-13",
+        "shortDescription": "Mob battles.",
+        "longDescription": "Create arenas where players can fight against waves of hostile mobs. You can increase the difficulty with each wave and offer rewards for players who can survive the longest.",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "title": "Casual Events & Activities",
+    "rules": [
+      {
+        "code": "F-14",
+        "shortDescription": "Survival games.",
+        "longDescription": "Set up a dedicated arena for survival games or Hunger Games-style combat. Players start with no items and must scavenge for gear before fighting to be the last one standing.",
+        "page": 6
+      },
+      {
+        "code": "F-15",
+        "shortDescription": "Gladiator arenas.",
+        "longDescription": "Build a grand gladiator arena where players can fight against mobs or each other in epic combat. This is a great way to add a bit of spectacle and roleplay to your PvP events.",
+        "page": 6
+      },
+      {
+        "code": "F-16",
+        "shortDescription": "Relay races.",
+        "longDescription": "Organize team-based relay races that require players to work together to complete different legs of the race. This could involve running, boating, flying, and mining, testing a variety of skills.",
+        "page": 6
+      },
+      {
+        "code": "F-17",
+        "shortDescription": "Treasure dungeons.",
+        "longDescription": "Design and build challenging treasure dungeons filled with traps, puzzles, and powerful boss fights. These dungeons can offer a great cooperative PvE experience for groups of adventurers.",
+        "page": 6
+      },
+      {
+        "code": "F-18",
+        "shortDescription": "Maze events.",
+        "longDescription": "Create complex labyrinths and mazes for players to navigate. You can hide rewards in the center of the maze and even add mobs or traps to make it more challenging.",
+        "page": 6
+      },
+      {
+        "code": "F-19",
+        "shortDescription": "Parkour races.",
+        "longDescription": "Turn your parkour maps into a competitive event by hosting timed races. This adds a layer of pressure and excitement to the challenge, rewarding the fastest and most agile players.",
+        "page": 6
+      },
+      {
+        "code": "F-20",
+        "shortDescription": "Trivia contests.",
+        "longDescription": "Host trivia contests to test players' knowledge of Minecraft or other topics. This is a fun, non-combat event that allows players to compete with their minds.",
+        "page": 6
+      },
+      {
+        "code": "F-21",
+        "shortDescription": "Redstone race.",
+        "longDescription": "Challenge players to a redstone race where they have to build the fastest machine to complete a specific task. This is a great event for the technical-minded players on your server.",
+        "page": 6
+      },
+      {
+        "code": "F-22",
+        "shortDescription": "Boat racing.",
+        "longDescription": "Use rivers, oceans, or custom-built ice tracks to host exciting boat races. This is a fun and fast-paced event that is easy for anyone to participate in.",
+        "page": 6
+      },
+      {
+        "code": "F-23",
+        "shortDescription": "Creative themes.",
+        "longDescription": "Host weekly build events with creative themes to inspire your players. This encourages regular building activity and gives players a chance to showcase their creativity.",
+        "page": 6
+      },
+      {
+        "code": "F-24",
+        "shortDescription": "Holiday events.",
+        "longDescription": "Organize festive minigames and events to celebrate real-world holidays. This is a great way to bring the community together and get everyone in the holiday spirit.",
+        "page": 6
+      },
+      {
+        "code": "F-25",
+        "shortDescription": "Leaderboards.",
+        "longDescription": "Keep track of winners and top performers for your events with public leaderboards. This adds a competitive element and gives players recognition for their achievements.",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "title": "World Exploration",
+    "rules": [
+      {
+        "code": "F-26",
+        "shortDescription": "Map making.",
+        "longDescription": "Chart the discovered lands of your server by creating and sharing maps. A comprehensive world map is an invaluable tool for all players, helping them navigate and find new areas to explore.",
+        "page": 6
+      },
+      {
+        "code": "F-27",
+        "shortDescription": "Nether bases.",
+        "longDescription": "Build safe shelters and outposts in the Nether. A well-placed Nether base can serve as a crucial hub for travel and a safe place to rest and restock while exploring the dangerous dimension.",
+        "page": 6
+      },
+      {
+        "code": "F-28",
+        "shortDescription": "End expeditions.",
+        "longDescription": "Organize group expeditions to the End to fight the Ender Dragon and explore the outer islands. Tackling the End as a team is a classic and epic Minecraft adventure.",
+        "page": 6
+      },
+      {
+        "code": "F-29",
+        "shortDescription": "Ocean monuments.",
+        "longDescription": "Explore ocean monuments together as a group. These underwater structures are dangerous but rewarding, and tackling them with a team is much safer and more effective.",
+        "page": 6
+      },
+      {
+        "code": "F-30",
+        "shortDescription": "Strongholds.",
+        "longDescription": "When you find a stronghold, share the portal location with the community. This allows everyone to access the End and ensures that this crucial resource is not monopolized by a single player or group.",
+        "page": 6
+      },
+      {
+        "code": "F-31",
+        "shortDescription": "Village saving.",
+        "longDescription": "Make an effort to defend and improve the villages you find. Protecting villagers from mobs and raids ensures that you and other players will have access to valuable trades in the future.",
+        "page": 6
+      },
+      {
+        "code": "F-32",
+        "shortDescription": "Biome expeditions.",
+        "longDescription": "Organize expeditions to visit rare and interesting biomes. This is a great way to encourage exploration and allow players to see the full diversity of the Minecraft world.",
+        "page": 6
+      },
+      {
+        "code": "F-33",
+        "shortDescription": "Desert temples.",
+        "longDescription": "Explore desert temples carefully, being mindful of the hidden TNT trap. These structures contain valuable loot, but they can be deadly if you are not cautious.",
+        "page": 6
+      },
+      {
+        "code": "F-34",
+        "shortDescription": "Jungle temples.",
+        "longDescription": "Beware the traps when exploring jungle temples. These structures are filled with puzzles and dangers, but they also hold valuable rewards for those who can navigate them successfully.",
+        "page": 6
+      },
+      {
+        "code": "F-35",
+        "shortDescription": "Mansion raids.",
+        "longDescription": "Organize a group to raid woodland mansions. These massive structures are filled with powerful mobs and valuable loot, making them a perfect target for a well-coordinated team of adventurers.",
+        "page": 6
+      },
+      {
+        "code": "F-36",
+        "shortDescription": "Treasure maps.",
+        "longDescription": "Follow buried treasure maps to find hidden chests filled with valuable loot. This is a fun and rewarding activity that encourages exploration of the world's oceans and beaches.",
+        "page": 6
+      },
+      {
+        "code": "F-37",
+        "shortDescription": "Shipwrecks.",
+        "longDescription": "Dive safely to explore shipwrecks for loot and treasure maps. These underwater structures can be a great source of early-game resources and adventure.",
+        "page": 6
+      },
+      {
+        "code": "F-38",
+        "shortDescription": "Icebergs.",
+        "longDescription": "Explore the frozen oceans and massive icebergs. These rare and beautiful biomes can be a great place to build a unique and isolated base.",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "title": "Advanced Exploration",
+    "rules": [
+      {
+        "code": "G-01",
+        "shortDescription": "Nether highways.",
+        "longDescription": "Build safe and efficient tunnels in the Nether to create a highway system for fast travel. A well-designed Nether highway can connect distant points in the Overworld, making the world feel much more accessible.",
+        "page": 7
+      },
+      {
+        "code": "G-02",
+        "shortDescription": "Elytra trips.",
+        "longDescription": "Use your Elytra to fly across the lands and discover new territories from the sky. This is a fast and exhilarating way to explore, but be sure to bring plenty of rockets.",
+        "page": 7
+      },
+      {
+        "code": "G-03",
+        "shortDescription": "Hidden caves.",
+        "longDescription": "Mark the locations of new caves you discover so that other players can explore them as well. A shared knowledge of the world's resources benefits the entire community.",
+        "page": 7
+      },
+      {
+        "code": "G-04",
+        "shortDescription": "Dungeons.",
+        "longDescription": "Clear out mob spawners in dungeons to make the area safe and turn it into a valuable XP farm. This is a great way to turn a dangerous area into a useful resource for the community.",
+        "page": 7
+      },
+      {
+        "code": "G-05",
+        "shortDescription": "End cities.",
+        "longDescription": "When you explore End cities, be sure to share the valuable loot you find fairly with your team. These structures are rare and dangerous, and teamwork is key to conquering them.",
+        "page": 7
+      },
+      {
+        "code": "G-06",
+        "shortDescription": "Rare biomes.",
+        "longDescription": "When you find a rare biome like a mushroom island or a badlands, consider protecting it for the community to enjoy. These unique areas are a special part of the world and should be preserved.",
+        "page": 7
+      },
+      {
+        "code": "G-07",
+        "shortDescription": "Adventure guilds.",
+        "longDescription": "Form an adventure guild to travel and explore in groups. A guild can provide support, resources, and companionship on long and dangerous journeys into the unknown.",
+        "page": 7
+      },
+      {
+        "code": "G-08",
+        "shortDescription": "Travel books.",
+        "longDescription": "Share maps and travel journals in a public library. These can serve as valuable guides for other players who wish to follow in your footsteps and explore the world.",
+        "page": 7
+      },
+      {
+        "code": "G-09",
+        "shortDescription": "Safe paths.",
+        "longDescription": "Light up dangerous routes and build safe paths through treacherous areas. This helps make the world safer and more accessible for all players, especially those who are new to the server.",
+        "page": 7
+      },
+      {
+        "code": "G-10",
+        "shortDescription": "Exploration teams.",
+        "longDescription": "Form dedicated exploration teams and divide up searching tasks to cover more ground. This is an efficient way to map the world and discover its secrets.",
+        "page": 7
+      },
+      {
+        "code": "G-11",
+        "shortDescription": "Treasure storage.",
+        "longDescription": "Create a community vault or museum to store and display the rare finds and treasures you collect on your adventures. This allows everyone to appreciate the rare and unique items that have been discovered.",
+        "page": 7
+      },
+      {
+        "code": "G-12",
+        "shortDescription": "World border trips.",
+        "longDescription": "Organize expeditions to the world border to discover the limits of the world. This can be a fun and challenging journey for experienced adventurers.",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "title": "Gameplay Challenges",
+    "rules": [
+      {
+        "code": "G-13",
+        "shortDescription": "Hardcore nights.",
+        "longDescription": "Challenge yourself and your friends to survive the night without using beds. This increases the danger from mobs and adds an extra layer of difficulty to your survival experience.",
+        "page": 7
+      },
+      {
+        "code": "G-14",
+        "shortDescription": "Limited tools.",
+        "longDescription": "Try a challenge where you are only allowed to play with one type of tool (e.g., only wooden tools). This forces you to be more creative and resourceful in how you approach the game.",
+        "page": 7
+      },
+      {
+        "code": "G-15",
+        "shortDescription": "No armor runs.",
+        "longDescription": "Challenge yourself to explore and fight without wearing any armor. This makes combat much more dangerous and requires a high level of skill and caution.",
+        "page": 7
+      },
+      {
+        "code": "G-16",
+        "shortDescription": "Sky survival.",
+        "longDescription": "Try a skyblock-style challenge where you have to survive and build in the air with limited resources. This is a classic and challenging way to play the game.",
+        "page": 7
+      },
+      {
+        "code": "G-17",
+        "shortDescription": "Underwater builds.",
+        "longDescription": "Challenge yourself to live and build exclusively in an underwater environment. This requires careful planning and resource management to deal with the challenges of breathing and building underwater.",
+        "page": 7
+      },
+      {
+        "code": "G-18",
+        "shortDescription": "Random challenges.",
+        "longDescription": "Use a challenge wheel or a random generator to give yourself new and unexpected challenges. This can be a fun way to keep the game fresh and unpredictable.",
+        "page": 7
+      },
+      {
+        "code": "G-19",
+        "shortDescription": "Speed builds.",
+        "longDescription": "Challenge yourself with timed construction projects. This forces you to be efficient and decisive in your building, and it's a great way to practice your skills under pressure.",
+        "page": 7
+      },
+      {
+        "code": "G-20",
+        "shortDescription": "Food challenge.",
+        "longDescription": "Try to survive on only one type of food. This can create interesting challenges, as you'll need to secure a reliable source of your chosen food item.",
+        "page": 7
+      },
+      {
+        "code": "G-21",
+        "shortDescription": "PvP nights.",
+        "longDescription": "Organize weekly fun PvP battles where players can fight without the risk of losing their valuable gear. This is a great way to practice your combat skills in a low-stakes environment.",
+        "page": 7
+      },
+      {
+        "code": "G-22",
+        "shortDescription": "No jump challenge.",
+        "longDescription": "Try to play the game without jumping. This forces you to think creatively about how you navigate the world and overcome obstacles.",
+        "page": 7
+      },
+      {
+        "code": "G-23",
+        "shortDescription": "Hunger games.",
+        "longDescription": "Participate in a last-man-standing Hunger Games event. This is a classic and thrilling PvP challenge that tests your survival and combat skills.",
+        "page": 7
+      },
+      {
+        "code": "G-24",
+        "shortDescription": "One chunk survival.",
+        "longDescription": "Challenge yourself to survive and thrive within the confines of a single 16x16 chunk. This is a test of your resourcefulness and your ability to make the most of a limited space.",
+        "page": 7
+      },
+      {
+        "code": "G-25",
+        "shortDescription": "Fishing only.",
+        "longDescription": "Try a challenge where you can only get your loot from fishing. This is a unique and peaceful way to play the game, but it requires a lot of patience.",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "title": "Hardcore Challenges",
+    "rules": [
+      {
+        "code": "G-26",
+        "shortDescription": "Nomad life.",
+        "longDescription": "Live a nomadic lifestyle where you have to move to a new location every night. This is a challenging way to play that forces you to be constantly on the move and adaptable.",
+        "page": 7
+      },
+      {
+        "code": "G-27",
+        "shortDescription": "No crafting.",
+        "longDescription": "Try a challenge where you are not allowed to craft any items. You must rely on trading, mob drops, and chest loot to get your gear. This is an extremely difficult challenge that requires a lot of creativity.",
+        "page": 7
+      },
+      {
+        "code": "G-28",
+        "shortDescription": "Peaceful days.",
+        "longDescription": "Challenge yourself to play without killing any mobs. This forces you to find alternative ways to get resources and deal with threats, requiring a completely different playstyle.",
+        "page": 7
+      },
+      {
+        "code": "G-29",
+        "shortDescription": "Animal races.",
+        "longDescription": "Organize contests where players have to ride mobs like pigs or striders in a race. This is a fun and chaotic event that is sure to produce a lot of laughs.",
+        "page": 7
+      },
+      {
+        "code": "G-30",
+        "shortDescription": "No mining challenge.",
+        "longDescription": "Try to play the game using only surface resources. This means no digging underground for ores, forcing you to rely on villages, shipwrecks, and other surface structures for your gear.",
+        "page": 7
+      },
+      {
+        "code": "G-31",
+        "shortDescription": "Random crafting.",
+        "longDescription": "Play with a mod or a plugin that swaps all the crafting recipes. This adds a fun layer of mystery and challenge to the game, as you never know what you're going to get.",
+        "page": 7
+      },
+      {
+        "code": "G-32",
+        "shortDescription": "Skyblock.",
+        "longDescription": "Take on the ultimate small-island survival challenge with Skyblock. This classic map tests your knowledge of game mechanics and your ability to create something from almost nothing.",
+        "page": 7
+      },
+      {
+        "code": "G-33",
+        "shortDescription": "Ultra hardcore.",
+        "longDescription": "Play in Ultra Hardcore (UHC) mode, where you do not naturally regenerate health. This makes every point of damage significant and combat extremely tense. It's a true test of survival skill.",
+        "page": 7
+      },
+      {
+        "code": "G-34",
+        "shortDescription": "Boss fights.",
+        "longDescription": "Challenge yourself with custom mob battles against powerful, custom-made bosses. This is a great way to test your combat skills against new and unpredictable threats.",
+        "page": 7
+      },
+      {
+        "code": "G-35",
+        "shortDescription": "Treasure only.",
+        "longDescription": "Try a challenge where you can only collect loot from treasure chests found in dungeons, shipwrecks, and other structures. This makes exploration and discovery the primary focus of the game.",
+        "page": 7
+      },
+      {
+        "code": "G-36",
+        "shortDescription": "Time limit builds.",
+        "longDescription": "Challenge yourself to finish a build within a strict time limit. This is a great way to practice building quickly and efficiently, and it can lead to some surprisingly creative results.",
+        "page": 7
+      },
+      {
+        "code": "G-37",
+        "shortDescription": "No tools.",
+        "longDescription": "Attempt the ultimate challenge: playing the game barehanded. Without any tools, every task becomes a monumental effort, testing your patience and your knowledge of the game to its absolute limits.",
+        "page": 7
+      }
+    ]
+  }
+]

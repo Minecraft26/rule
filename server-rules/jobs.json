@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Job Enrollment, Compensation & Performance",
+    "rules": [
+      {
+        "code": "A-001",
+        "page": 1,
+        "shortDescription": "Job Eligibility: Any player may apply for a job, provided they agree to server rules and meet requirements set by the Job Council (level, experience, or approvals).",
+        "longDescription": "To ensure fairness and competence, any player can apply for a job if they meet the specific requirements established by the Job Council, such as minimum experience levels or necessary approvals."
+      },
+      {
+        "code": "A-002",
+        "page": 1,
+        "shortDescription": "Maximum Job Limit: Each player may hold up to 4 jobs at a time. Choosing jobs wisely is important because failing to maintain duties may result in removal.",
+        "longDescription": "To prevent players from being overwhelmed and to ensure all job duties are met, a player is limited to holding a maximum of four jobs simultaneously. Failure to perform in any job can lead to removal."
+      },
+      {
+        "code": "A-003",
+        "page": 1,
+        "shortDescription": "Job Switching: Players may switch jobs once every 7 in-game days to prevent constant hopping between roles.",
+        "longDescription": "To maintain stability in the workforce, players are permitted to switch their jobs only once every seven in-game days. This rule prevents role-hopping and encourages commitment."
+      },
+      {
+        "code": "A-004",
+        "page": 1,
+        "shortDescription": "Voluntary Resignation: Players may resign from a job anytime, but they will lose their salary for that week and any pending promotions.",
+        "longDescription": "A player is free to resign from a job at any time. However, doing so will result in the forfeiture of that week's salary and any potential promotions they were eligible for."
+      },
+      {
+        "code": "A-005",
+        "page": 1,
+        "shortDescription": "Forced Removal: The Job Council or admins may remove a player from a job if they are inactive, fail duties, or break server laws.",
+        "longDescription": "The Job Council and server admins reserve the right to forcibly remove a player from their job for reasons such as prolonged inactivity, failure to perform duties, or violating server laws."
+      },
+      {
+        "code": "A-006",
+        "page": 1,
+        "shortDescription": "Basic Salary: Every job provides a base salary of 20,000 coins per week regardless of type.",
+        "longDescription": "All official jobs come with a standardized base salary of 20,000 coins per week. This ensures that every worker has a stable and predictable income, regardless of their chosen profession."
+      },
+      {
+        "code": "A-007",
+        "page": 1,
+        "shortDescription": "Extra Income: Players may earn bonuses from completing specific job tasks (like farming, mining, trading). Bonuses vary by role.",
+        "longDescription": "In addition to the base salary, players can earn extra income through performance-based bonuses. These bonuses are tied to specific job tasks and vary depending on the role."
+      },
+      {
+        "code": "A-008",
+        "page": 1,
+        "shortDescription": "Salary Tax: Up to 18% tax is deducted from salaries automatically to support the server’s economy.",
+        "longDescription": "A salary tax of up to 18% is automatically deducted from each player's weekly pay. This tax revenue is used to support public services and maintain a balanced server economy."
+      },
+      {
+        "code": "A-009",
+        "page": 1,
+        "shortDescription": "Unclaimed Salary: If a player does not log in or claim their salary, it will be stored for 14 days before being forfeited.",
+        "longDescription": "Salaries that are not claimed will be held for a 14-day period. If the player does not log in to claim their pay within this timeframe, the salary will be forfeited to the server treasury."
+      },
+      {
+        "code": "A-010",
+        "page": 1,
+        "shortDescription": "Illegal Payments: No job payments may be made outside the official system (i.e., direct payments to avoid tax).",
+        "longDescription": "All job-related payments must be processed through the official server system. Any attempt to make direct payments to avoid taxation is considered an illegal economic activity."
+      },
+      {
+        "code": "A-011",
+        "page": 1,
+        "shortDescription": "Minimum Activity: Each job requires a minimum activity level per week (hours, tasks, or actions), which is tracked automatically.",
+        "longDescription": "To ensure all roles are actively filled, every job has a minimum weekly activity requirement. This is tracked automatically and is necessary to remain employed and receive a salary."
+      },
+      {
+        "code": "A-012",
+        "page": 1,
+        "shortDescription": "Neglect of Duty: Players who repeatedly ignore tasks may face demotion, suspension, or dismissal.",
+        "longDescription": "Consistent neglect of one's job duties is a serious offense. Players who repeatedly fail to perform their required tasks will face disciplinary action, which may include demotion or dismissal."
+      },
+      {
+        "code": "A-013",
+        "page": 1,
+        "shortDescription": "Job Quality Standards: Work done must meet quality standards (e.g., a builder must follow designs, a farmer must provide crops). Low-quality spam work will not count.",
+        "longDescription": "All work must meet established quality standards. Low-effort or spam work will not be counted towards activity requirements, and players must perform their duties competently."
+      },
+      {
+        "code": "A-014",
+        "page": 1,
+        "shortDescription": "Multi-Job Balance: Players with multiple jobs must balance duties. Ignoring one job because of another is grounds for removal.",
+        "longDescription": "Players holding multiple jobs are required to balance their responsibilities effectively. Prioritizing one job to the point of neglecting another is not permitted and can lead to removal from the neglected role."
+      },
+      {
+        "code": "A-015",
+        "page": 1,
+        "shortDescription": "Emergency Duties: During server events (wars, crises, famine), jobs may have temporary extra duties (e.g., miners must supply more ore).",
+        "longDescription": "In times of server-wide emergencies, players may be assigned temporary additional duties relevant to their job. This is to ensure the community can effectively respond to crises."
+      },
+      {
+        "code": "A-016",
+        "page": 1,
+        "shortDescription": "Promotion Eligibility: Players who perform consistently well may be promoted to Senior roles with higher pay.",
+        "longDescription": "Consistent high performance and dedication to a job can make a player eligible for promotion to a Senior position, which comes with increased responsibilities and a higher salary."
+      },
+      {
+        "code": "A-017",
+        "page": 1,
+        "shortDescription": "Promotion Reviews: Promotions are reviewed once every 30 in-game days by the Job Council or server admins.",
+        "longDescription": "The Job Council or server admins conduct promotion reviews every 30 in-game days to assess eligible candidates and ensure that promotions are awarded fairly and based on merit."
+      },
+      {
+        "code": "A-018",
+        "page": 1,
+        "shortDescription": "Demotions: If a promoted player becomes inactive or misuses power, they may be demoted back to their previous rank.",
+        "longDescription": "A promotion is not permanent. If a player in a Senior role becomes inactive, abuses their power, or fails to meet expectations, they can be demoted to their previous rank."
+      },
+      {
+        "code": "A-019",
+        "page": 1,
+        "shortDescription": "Prestige Roles: Some jobs (like Judge, Commander, or Mayor) may require applications, elections, or appointment by the Council.",
+        "longDescription": "High-level prestige roles are not open for general application. These positions require a formal process, such as an election or a direct appointment by the Job Council, due to their importance."
+      },
+      {
+        "code": "A-020",
+        "page": 1,
+        "shortDescription": "Role Transfers: Players may request to transfer experience from one job to another, but only with approval and documentation.",
+        "longDescription": "Players can request to transfer their experience from one job to another, but this is not guaranteed. The transfer must be approved by the Job Council and officially documented."
+      }
+    ]
+  },
+  {
+    "title": "Job Regulations, Fairness & Enforcement",
+    "rules": [
+      {
+        "code": "B-001",
+        "page": 2,
+        "shortDescription": "Conflict of Interest: Certain job combinations (like Judge + Police, or Banker + Tax Collector) are not allowed to prevent corruption.",
+        "longDescription": "To prevent corruption and abuse of power, players are not allowed to hold certain combinations of jobs that create a conflict of interest, such as holding roles in both law enforcement and the judiciary."
+      },
+      {
+        "code": "B-002",
+        "page": 2,
+        "shortDescription": "Weapon-Carrying Jobs: Jobs involving combat (Police, Guard, Soldier) may only carry government-approved weapons while on duty.",
+        "longDescription": "Players in combat-related jobs are restricted to using only government-approved weapons and gear while on duty. This ensures standardized equipment and prevents abuse of power."
+      },
+      {
+        "code": "B-003",
+        "page": 2,
+        "shortDescription": "Builder & Land Rules: Builders cannot claim land they work on unless officially permitted.",
+        "longDescription": "A player hired as a builder for a project cannot claim the land they are working on for themselves. All land ownership must be handled through official, pre-approved channels."
+      },
+      {
+        "code": "B-004",
+        "page": 2,
+        "shortDescription": "Farmer & Food Duties: Farmers must provide food at fair prices; hoarding for profit is illegal.",
+        "longDescription": "Farmers have a duty to sell their produce at fair market prices. Hoarding food to create an artificial shortage and drive up prices is an illegal economic practice."
+      },
+      {
+        "code": "B-005",
+        "page": 2,
+        "shortDescription": "Business Owners: Merchants and shopkeepers must follow economy price regulations and cannot set exploitative prices.",
+        "longDescription": "All business owners are required to adhere to the server's economic regulations, including pricing guidelines. Setting exploitative prices to take advantage of other players is forbidden."
+      },
+      {
+        "code": "B-006",
+        "page": 2,
+        "shortDescription": "Equal Opportunities: Jobs are open to all players equally, with no discrimination based on rank, friends, or favoritism.",
+        "longDescription": "The job system is built on the principle of equal opportunity. All jobs are open to every player, and hiring cannot be based on favoritism or discrimination."
+      },
+      {
+        "code": "B-007",
+        "page": 2,
+        "shortDescription": "Anti-Monopoly Rule: No single player may control more than 50% of a job-related market (e.g., farming or mining resources).",
+        "longDescription": "To ensure fair competition, no single player is allowed to monopolize a job-related market. Controlling more than 50% of a key resource market is strictly prohibited."
+      },
+      {
+        "code": "B-008",
+        "page": 2,
+        "shortDescription": "Job Limit Per Town: In towns or settlements, certain jobs (like Judge or Police Chief) may only exist once per area.",
+        "longDescription": "To maintain an organized structure, certain high-level jobs are limited to one per town or settlement. This prevents the dilution of authority and ensures clear leadership."
+      },
+      {
+        "code": "B-009",
+        "page": 2,
+        "shortDescription": "Rotation System: Rare or prestigious jobs may rotate every season to give everyone a fair chance.",
+        "longDescription": "To give more players an opportunity to hold rare or prestigious positions, these jobs may be subject to a rotation system, with new appointments made each season."
+      },
+      {
+        "code": "B-010",
+        "page": 2,
+        "shortDescription": "Temporary Substitutes: If a player is absent, a substitute may take their duties with admin approval.",
+        "longDescription": "In the event of a player's absence, a temporary substitute can be appointed to take over their duties, but this requires official approval from a server admin."
+      },
+      {
+        "code": "B-011",
+        "page": 2,
+        "shortDescription": "Job Council Authority: The Job Council regulates jobs, sets new roles, and enforces rules fairly across all players.",
+        "longDescription": "The Job Council is the governing body for all employment. It has the authority to regulate jobs, create new roles, and enforce all job-related rules in a fair and unbiased manner."
+      },
+      {
+        "code": "B-012",
+        "page": 2,
+        "shortDescription": "Job Trials: Players accused of failing their duties may face a trial with peers or admins before removal.",
+        "longDescription": "Before a player is removed from a job for failing their duties, they have the right to a trial where they can defend their case before a jury of their peers or server admins."
+      },
+      {
+        "code": "B-013",
+        "page": 2,
+        "shortDescription": "Strike System: Failing duties results in warnings called strikes. Three strikes = automatic removal.",
+        "longDescription": "A three-strike system is in place for job performance. Each failure to perform duties results in a strike. Accumulating three strikes will lead to automatic removal from the job."
+      },
+      {
+        "code": "B-014",
+        "page": 2,
+        "shortDescription": "Blacklist Rule: Players who abuse jobs (scamming, corruption, inactivity) may be blacklisted from rejoining for a set period.",
+        "longDescription": "Players who are removed from a job for abuse, such as scamming or corruption, may be blacklisted, preventing them from rejoining that job or any other for a specified period."
+      },
+      {
+        "code": "B-015",
+        "page": 2,
+        "shortDescription": "Emergency Dismissal: In extreme cases (corruption, hacking), admins may instantly dismiss a player without trial.",
+        "longDescription": "In severe cases that threaten the server's integrity, such as corruption or hacking, admins have the authority to instantly dismiss a player from their job without a trial."
+      },
+      {
+        "code": "B-016",
+        "page": 2,
+        "shortDescription": "Job Roleplay Requirement: Jobs are not just for money — they must also be roleplayed properly (e.g., police enforcing law, farmers growing crops).",
+        "longDescription": "Holding a job is not just about earning money; it also comes with a roleplaying requirement. Players are expected to actively roleplay their profession to contribute to the server's immersive experience."
+      },
+      {
+        "code": "B-017",
+        "page": 2,
+        "shortDescription": "Job Reports: Every worker must file a weekly job report (automated or written) to track duties completed.",
+        "longDescription": "To ensure accountability, every worker is required to file a weekly report detailing the duties they have completed. This can be done through an automated system or a written submission."
+      },
+      {
+        "code": "B-018",
+        "page": 2,
+        "shortDescription": "Multi-Player Businesses: Jobs that involve business (like shops, markets) may be run by teams but must share profits equally.",
+        "longDescription": "Businesses can be run by teams of players, but if they are, the profits must be shared equally among all partners. This ensures fair compensation for all involved."
+      },
+      {
+        "code": "B-019",
+        "page": 2,
+        "shortDescription": "Training Period: New players in jobs must go through a 1-week training period where they earn half salary.",
+        "longDescription": "To ensure competence, new hires must complete a one-week training period. During this time, they will learn the duties of the job while earning half of the standard salary."
+      },
+      {
+        "code": "B-020",
+        "page": 2,
+        "shortDescription": "Job Expansion: New jobs can be suggested by players, but must be approved by the Job Council to ensure balance.",
+        "longDescription": "The job system can be expanded with new roles suggested by the community. However, all new jobs must be approved by the Job Council to ensure they are balanced and beneficial to the server."
+      }
+    ]
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "title": "General Economy, Taxation & Finance, Land & Property",
+    "rules": [
+      {
+        "code": "A-001",
+        "page": 1,
+        "shortDescription": "Every transaction inside the server must be conducted only through the official in-game currency. Barter or outside trades are strictly prohibited.",
+        "longDescription": "To maintain a stable and trackable economy, all transactions must use the official server currency. Bartering items for items or using external currencies is not allowed, as it undermines the central economy."
+      },
+      {
+        "code": "A-002",
+        "page": 1,
+        "shortDescription": "All players must maintain honesty in economic dealings—fraud, scam, or misleading trades are forbidden.",
+        "longDescription": "Economic integrity is paramount. Any form of fraud, scamming, or intentionally misleading other players during trades is a serious offense and will result in severe penalties, including potential confiscation of assets."
+      },
+      {
+        "code": "A-003",
+        "page": 1,
+        "shortDescription": "No offline transaction beyond 200,000 coins is allowed. If it occurs, the court will not provide justice unless a 100% fine is paid.",
+        "longDescription": "To prevent unregulated, large-scale wealth transfers, any offline deal exceeding 200,000 coins is invalid. The court will not intervene in disputes unless the guilty party pays a fine equal to 100% of the transaction value."
+      },
+      {
+        "code": "A-004",
+        "page": 1,
+        "shortDescription": "Any economy activity that bypasses the in-game system (e.g., direct item gifting for large sums) will be considered illegal.",
+        "longDescription": "Players must use official trading systems like shops or trade commands. Bypassing these systems, for example by gifting items in exchange for an unlogged payment, is illegal and punishable."
+      },
+      {
+        "code": "A-005",
+        "page": 1,
+        "shortDescription": "Black money, hidden earnings, or illegal economic practices are strictly banned.",
+        "longDescription": "Any funds or assets acquired through illegal means (exploits, scams) are considered 'black money.' Engaging in such practices or hiding earnings from the system is strictly forbidden."
+      },
+      {
+        "code": "A-006",
+        "page": 1,
+        "shortDescription": "The maximum tax rate cannot exceed 20% under any circumstance.",
+        "longDescription": "To protect players from economic exploitation, there is a hard cap on taxation. The server government is legally prohibited from setting any general tax rate higher than 20%."
+      },
+      {
+        "code": "A-007",
+        "page": 1,
+        "shortDescription": "A fixed 12% GST (Goods & Services Tax) will apply to all trade transactions and shop sales.",
+        "longDescription": "A mandatory 12% Goods and Services Tax is automatically applied to all transactions made through official shop and trade systems. This rate is fixed and cannot be altered by the in-game government."
+      },
+      {
+        "code": "A-008",
+        "page": 1,
+        "shortDescription": "Tax collected must always be used for government services, player welfare, and infrastructure. Misuse of tax funds is punishable.",
+        "longDescription": "All tax revenue is public money. It must be used transparently for projects that benefit the community, such as public infrastructure, events, and welfare programs. Personal use by leaders is a crime."
+      },
+      {
+        "code": "A-009",
+        "page": 1,
+        "shortDescription": "All government departments are required to submit a weekly tax usage report.",
+        "longDescription": "For the sake of transparency, every government department must submit a detailed public report each week outlining how tax revenue was spent. This ensures accountability to the citizens."
+      },
+      {
+        "code": "A-010",
+        "page": 1,
+        "shortDescription": "Any attempt to evade taxes, hide profits, or manipulate accounts will lead to suspension of economic rights.",
+        "longDescription": "Tax evasion is a serious offense. Any player or business caught attempting to hide profits or manipulate their accounts to avoid taxes will face penalties, including a temporary suspension of their right to trade."
+      },
+      {
+        "code": "A-011",
+        "page": 1,
+        "shortDescription": "Every player must own at least one piece of land to be recognized as a full server member.",
+        "longDescription": "Land ownership is a core requirement for server citizenship. It provides a secure place for players to build and store items, and it is necessary for official recognition within the community."
+      },
+      {
+        "code": "A-012",
+        "page": 1,
+        "shortDescription": "Land cannot be grabbed or taken without official permission from the government authority.",
+        "longDescription": "Claiming or taking land requires official permission and registration with the government. Unauthorized land grabs are illegal and any structures on such land will be removed."
+      },
+      {
+        "code": "A-013",
+        "page": 1,
+        "shortDescription": "Farming requires a valid Farm License issued by the government.",
+        "longDescription": "To manage server performance and prevent economic imbalance, players must obtain a valid Farm License from the government before constructing any large-scale or automated farms."
+      },
+      {
+        "code": "A-014",
+        "page": 1,
+        "shortDescription": "Shops must be well-organized, legal, and inspected before opening. No illegal items may be sold.",
+        "longDescription": "All player shops must be neatly organized and are subject to an official inspection before they can open for business. The sale of any item deemed illegal by server law is strictly forbidden."
+      },
+      {
+        "code": "A-015",
+        "page": 1,
+        "shortDescription": "Property disputes will be settled only in the court under the Judge’s authority.",
+        "longDescription": "Any disputes related to land or property ownership must be resolved through the official court system. The Judge has the final authority in settling such matters."
+      }
+    ]
+  },
+  {
+    "title": "Business & Trade, Government & Economy Control, Business Crime & Punishments",
+    "rules": [
+      {
+        "code": "B-001",
+        "page": 2,
+        "shortDescription": "Any business requires prior registration with the government.",
+        "longDescription": "To operate legally, all businesses, regardless of size, must be officially registered with the server government. This ensures that all commercial activities are monitored and adhere to server laws."
+      },
+      {
+        "code": "B-002",
+        "page": 2,
+        "shortDescription": "Businesses must follow server law, government rules, and respect economic guidelines.",
+        "longDescription": "All registered businesses are required to operate in full compliance with server laws, government regulations, and established economic guidelines to ensure fair and orderly conduct."
+      },
+      {
+        "code": "B-003",
+        "page": 2,
+        "shortDescription": "Players are not allowed to hoard essential goods and create artificial shortages.",
+        "longDescription": "Market manipulation through hoarding is illegal. Players are forbidden from buying up essential goods with the intent of creating an artificial shortage to drive up prices."
+      },
+      {
+        "code": "B-004",
+        "page": 2,
+        "shortDescription": "Shops must display correct pricing, GST, and taxes in clear format.",
+        "longDescription": "For consumer protection, all shops must clearly display the final price of items, including the 12% GST and any other applicable taxes, to avoid misleading customers."
+      },
+      {
+        "code": "B-005",
+        "page": 2,
+        "shortDescription": "Fraudulent business practices will result in shop closure and 50% fine of total earnings.",
+        "longDescription": "Any business found guilty of fraudulent practices will face immediate, permanent closure and a fine equal to 50% of its total historical earnings."
+      },
+      {
+        "code": "B-006",
+        "page": 2,
+        "shortDescription": "Every government elected by the admin lasts 3 weeks.",
+        "longDescription": "When a government is put in place by an Admin, its term of office is strictly set to three weeks, after which a new election or appointment must occur."
+      },
+      {
+        "code": "B-007",
+        "page": 2,
+        "shortDescription": "Every government elected by the government leader lasts 1 week.",
+        "longDescription": "If a new government leader is chosen by the preceding leader, their term is limited to one week. This encourages more frequent democratic elections."
+      },
+      {
+        "code": "B-008",
+        "page": 2,
+        "shortDescription": "Judges are exceptions—they are not affected by term limits.",
+        "longDescription": "To ensure judicial stability and independence, the position of Judge is not subject to the term limits that apply to other government officials."
+      },
+      {
+        "code": "B-009",
+        "page": 2,
+        "shortDescription": "Every 28 days, a new government leader must be elected.",
+        "longDescription": "A mandatory election cycle of 28 days ensures a regular change in leadership, preventing any single player from holding the top government position for too long."
+      },
+      {
+        "code": "B-010",
+        "page": 2,
+        "shortDescription": "The government has the authority to suspend any government/private job except the Judge.",
+        "longDescription": "The executive branch of the government can suspend players from their jobs for valid reasons, but this authority does not extend to the independent role of the Judge."
+      },
+      {
+        "code": "B-011",
+        "page": 2,
+        "shortDescription": "The Judge has authority to suspend any player, including the leader.",
+        "longDescription": "The Judge holds the ultimate judicial power and can suspend any player found to be in violation of the law, including the acting government leader."
+      },
+      {
+        "code": "B-012",
+        "page": 2,
+        "shortDescription": "The Admin can suspend any authority or government officer at any time.",
+        "longDescription": "The server Admin retains supreme authority and can suspend any player, including government officers and the Judge, at their discretion to maintain server health."
+      },
+      {
+        "code": "B-013",
+        "page": 2,
+        "shortDescription": "Election must always be fair—vote stealing or fraud is not tolerated.",
+        "longDescription": "The democratic process must be protected. Any player caught engaging in election fraud, such as stealing votes or bribing voters, will face severe, zero-tolerance punishment."
+      },
+      {
+        "code": "B-014",
+        "page": 2,
+        "shortDescription": "Any economic decision affecting the entire server must be passed with Judge approval.",
+        "longDescription": "Major economic policies that have a server-wide impact require judicial review. Such decisions must be approved by the Judge to ensure they are lawful and fair."
+      },
+      {
+        "code": "B-015",
+        "page": 2,
+        "shortDescription": "Large-scale projects (farms, factories, shops) require government + Judge license.",
+        "longDescription": "To construct any large-scale project, a dual license is required: one from the government for regulation and one from the Judge to certify its legality."
+      },
+      {
+        "code": "B-016",
+        "page": 2,
+        "shortDescription": "No illegal work or activity (smuggling, black money, scams) is tolerated.",
+        "longDescription": "The server has a zero-tolerance policy for any form of criminal enterprise. Activities like smuggling, money laundering, or organized scams will be shut down and punished harshly."
+      },
+      {
+        "code": "B-017",
+        "page": 2,
+        "shortDescription": "Creating fake shops or selling banned items is punishable by permanent shop ban.",
+        "longDescription": "Players who create fake shops to scam others or are caught selling banned items will lose their right to own a shop permanently."
+      },
+      {
+        "code": "B-018",
+        "page": 2,
+        "shortDescription": "Any illegal trade detected will result in seizure of assets.",
+        "longDescription": "If a player is caught engaging in illegal trade, all assets and funds related to that transaction will be immediately seized by the authorities."
+      },
+      {
+        "code": "B-019",
+        "page": 2,
+        "shortDescription": "If tax is unpaid for 2 weeks, the business will be shut down.",
+        "longDescription": "Businesses that are delinquent on their tax payments for a period of two weeks will have their operations shut down by the government until the debt is paid."
+      },
+      {
+        "code": "B-020",
+        "page": 2,
+        "shortDescription": "Any fraud in government contracts will lead to 100% fine + removal of contract rights.",
+        "longDescription": "Players who commit fraud related to government contracts will be fined 100% of the contract's value and will be permanently barred from bidding on future contracts."
+      }
+    ]
+  },
+  {
+    "title": "Player Transactions, Jobs & Duties, Farming & Industry",
+    "rules": [
+      {
+        "code": "C-001",
+        "page": 3,
+        "shortDescription": "All large trades must be registered with the bank authority.",
+        "longDescription": "To ensure legality and provide a record, all large-scale trades must be officially registered with the server's banking authority, which will log the transaction details."
+      },
+      {
+        "code": "C-002",
+        "page": 3,
+        "shortDescription": "Players cannot transfer money secretly; every transfer beyond 10,000 coins must be logged.",
+        "longDescription": "To prevent unmonitored wealth transfers, any currency transfer between players exceeding 10,000 coins must be done through an official system that logs the transaction."
+      },
+      {
+        "code": "C-003",
+        "page": 3,
+        "shortDescription": "Loans between players require government permission.",
+        "longDescription": "To prevent predatory lending and disputes, any loan agreement between players must be reviewed and approved by a government authority before it is considered valid."
+      },
+      {
+        "code": "C-004",
+        "page": 3,
+        "shortDescription": "All donation systems must be transparent and reported.",
+        "longDescription": "Any system or event created to collect donations must be fully transparent. The amount collected and how it is used must be publicly reported."
+      },
+      {
+        "code": "C-005",
+        "page": 3,
+        "shortDescription": "Any attempt to bypass official transaction logs is illegal.",
+        "longDescription": "Players caught using alternative methods to transfer wealth specifically to avoid official transaction logs will be considered guilty of engaging in illegal economic activity."
+      },
+      {
+        "code": "C-006",
+        "page": 3,
+        "shortDescription": "Police must record player details before granting full server membership.",
+        "longDescription": "It is a key duty of the Police Department to handle the intake of new players, recording their details to grant them official server membership and ensure records are complete."
+      },
+      {
+        "code": "C-007",
+        "page": 3,
+        "shortDescription": "Government can suspend jobs for misconduct, with valid reason.",
+        "longDescription": "If a player engages in misconduct related to their job, the government has the authority to suspend them, but must provide a clear and valid reason for the suspension."
+      },
+      {
+        "code": "C-008",
+        "page": 3,
+        "shortDescription": "Judge’s approval is required for removal of a high-level job.",
+        "longDescription": "The removal of a player from a high-level or sensitive job requires judicial oversight. The government must obtain the Judge's approval before terminating such a position."
+      },
+      {
+        "code": "C-009",
+        "page": 3,
+        "shortDescription": "Jobs must follow server economy law and duty system.",
+        "longDescription": "All jobs, whether public or private, must operate within the bounds of the server's economic laws and the established system of duties and responsibilities."
+      },
+      {
+        "code": "C-010",
+        "page": 3,
+        "shortDescription": "Repeated negligence in job duties results in job termination.",
+        "longDescription": "Players who are repeatedly negligent in performing their job duties will face termination from their position. A consistent lack of effort or care is grounds for removal."
+      },
+      {
+        "code": "C-011",
+        "page": 3,
+        "shortDescription": "Farm owners must have a valid license, renewable every 14 days.",
+        "longDescription": "All farm licenses are valid for a period of 14 days and must be renewed. This ensures that farms are regularly checked for compliance with server rules."
+      },
+      {
+        "code": "C-012",
+        "page": 3,
+        "shortDescription": "No large-scale farm can exist without water control and government approval.",
+        "longDescription": "Large-scale farms must have efficient water control systems to prevent lag and require specific government approval to ensure they meet all regulatory standards."
+      },
+      {
+        "code": "C-013",
+        "page": 3,
+        "shortDescription": "Factories producing items must pay an extra 5% industrial tax.",
+        "longDescription": "To account for their larger impact on the economy and server, industrial-scale factories that mass-produce items are subject to an additional 5% industrial tax."
+      },
+      {
+        "code": "C-014",
+        "page": 3,
+        "shortDescription": "Environmental rules apply—farming and industries cannot harm server resources.",
+        "longDescription": "All farms and industries must adhere to environmental protection laws. They are not permitted to cause undue harm to the server's landscape or natural resources."
+      },
+      {
+        "code": "C-015",
+        "page": 3,
+        "shortDescription": "Farms producing illegal crops/items will be destroyed by government.",
+        "longDescription": "Any farm found to be producing illegal crops or items (such as banned plants or exploited goods) will be immediately and permanently destroyed by government authorities."
+      }
+    ]
+  },
+  {
+    "title": "Banking & Loans, Economy Protection, Elections & Economy Leaders",
+    "rules": [
+      {
+        "code": "D-001",
+        "page": 4,
+        "shortDescription": "Bank loans must be repaid within the agreed time.",
+        "longDescription": "When a player takes a loan from the official server bank, they are legally obligated to repay it within the agreed-upon timeframe. Failure to do so will result in penalties."
+      },
+      {
+        "code": "D-002",
+        "page": 4,
+        "shortDescription": "If a player defaults on loans, the bank can seize their property.",
+        "longDescription": "If a player defaults on their loan repayments, the bank has the legal authority to seize their property and assets to cover the outstanding debt."
+      },
+      {
+        "code": "D-003",
+        "page": 4,
+        "shortDescription": "Interest rates cannot exceed 10% per week.",
+        "longDescription": "To prevent predatory lending, the maximum interest rate that can be charged on any loan, whether from the bank or another player, is capped at 10% per week."
+      },
+      {
+        "code": "D-004",
+        "page": 4,
+        "shortDescription": "Fake loan requests are punishable by ban from all financial services.",
+        "longDescription": "Submitting fake or fraudulent loan requests is a serious offense that will result in the player being permanently banned from accessing all of the server's financial services."
+      },
+      {
+        "code": "D-005",
+        "page": 4,
+        "shortDescription": "Players must use the official server bank system for safe storage.",
+        "longDescription": "For the security of their funds, players are required to use the official server bank system. The server does not guarantee the safety of money stored outside this system."
+      },
+      {
+        "code": "D-006",
+        "page": 4,
+        "shortDescription": "Duplication glitches or exploits are considered major crimes.",
+        "longDescription": "Abusing duplication glitches or other exploits to create items or currency is one of the most serious economic crimes and will be met with the harshest penalties."
+      },
+      {
+        "code": "D-007",
+        "page": 4,
+        "shortDescription": "Anyone caught using duped money/items will face permanent suspension.",
+        "longDescription": "To protect the economy, any player caught knowingly using or possessing duplicated money or items will be permanently suspended from the server without appeal."
+      },
+      {
+        "code": "D-008",
+        "page": 4,
+        "shortDescription": "Any hacked or third-party economy software is strictly forbidden.",
+        "longDescription": "The use of any hacked client or third-party software designed to interfere with or exploit the server's economy is strictly forbidden and will result in a permanent ban."
+      },
+      {
+        "code": "D-009",
+        "page": 4,
+        "shortDescription": "No external trading using real money is allowed.",
+        "longDescription": "Trading in-game items or currency for real-world money (RMT) is strictly prohibited. All trades must be conducted in-game using in-game assets only."
+      },
+      {
+        "code": "D-010",
+        "page": 4,
+        "shortDescription": "All trades must happen inside server rules only.",
+        "longDescription": "This is a final declaration that all economic activity must adhere to the established server rules. No exceptions will be made."
+      },
+      {
+        "code": "D-011",
+        "page": 4,
+        "shortDescription": "Election campaigns must be fair and transparent.",
+        "longDescription": "All candidates running for government positions must conduct their campaigns fairly and transparently, without resorting to slander, bribery, or other illegal tactics."
+      },
+      {
+        "code": "D-012",
+        "page": 4,
+        "shortDescription": "Candidates must present economic development plans.",
+        "longDescription": "A key requirement for any candidate is to present a clear and viable economic development plan for the server, which will be scrutinized by the voters and the Judge."
+      },
+      {
+        "code": "D-013",
+        "page": 4,
+        "shortDescription": "Buying votes or bribing players is punishable by disqualification.",
+        "longDescription": "Any candidate caught attempting to buy votes or bribe players for their support will be immediately disqualified from the election and may face further punishment."
+      },
+      {
+        "code": "D-014",
+        "page": 4,
+        "shortDescription": "The leader must change every 28 days, without exceptions.",
+        "longDescription": "This law reinforces the mandatory 28-day election cycle. There are no exceptions; a new leader must be chosen to ensure the continuous rotation of power."
+      },
+      {
+        "code": "D-015",
+        "page": 4,
+        "shortDescription": "The Judge verifies election fairness before approval.",
+        "longDescription": "Before the results of an election are finalized, the Judge must verify that the entire process was conducted fairly and in accordance with server law."
+      }
+    ]
+  },
+  {
+    "title": "Special Game Rules (Economy), Long-term Stability, Additional Control Rules",
+    "rules": [
+      {
+        "code": "E-001",
+        "page": 5,
+        "shortDescription": "No player is allowed to kill the Ender Dragon without special government permission.",
+        "longDescription": "The Ender Dragon is a server-wide event boss. Killing it requires special permission from the government, ensuring it is a planned, community-inclusive event."
+      },
+      {
+        "code": "E-002",
+        "page": 5,
+        "shortDescription": "No player can kill another player more than 5 times in a row; if so, it counts as harassment.",
+        "longDescription": "To prevent player harassment, repeatedly killing the same player more than five times consecutively is forbidden and will be treated as a punishable offense."
+      },
+      {
+        "code": "E-003",
+        "page": 5,
+        "shortDescription": "All shops must have detailed, organized display signs.",
+        "longDescription": "For clarity and ease of use, all shops are required to have signs that are detailed, organized, and clearly state what is being sold and for what price."
+      },
+      {
+        "code": "E-004",
+        "page": 5,
+        "shortDescription": "No unlicensed farms allowed; farm without license → destroyed.",
+        "longDescription": "This is a strict enforcement policy. Any farm found operating without a valid, up-to-date license will be summarily destroyed by the authorities."
+      },
+      {
+        "code": "E-005",
+        "page": 5,
+        "shortDescription": "Market monopolies are forbidden.",
+        "longDescription": "To ensure fair competition, the creation of market monopolies is forbidden. No single player or group is allowed to control the entire supply of an essential resource."
+      },
+      {
+        "code": "E-006",
+        "page": 5,
+        "shortDescription": "Economy must balance between fairness and growth—no system should make only 1 group rich.",
+        "longDescription": "The core principle of the economy is balance. The system must be designed to provide opportunities for all, not to create a scenario where only one group becomes excessively wealthy."
+      },
+      {
+        "code": "E-007",
+        "page": 5,
+        "shortDescription": "Every 30 days, the Judge + Admin must review economy balance.",
+        "longDescription": "A mandatory economic review will be conducted every 30 days by the Judge and an Admin to ensure the long-term stability and fairness of the server's economy."
+      },
+      {
+        "code": "E-008",
+        "page": 5,
+        "shortDescription": "Tax changes require 2-step approval (Judge + Admin).",
+        "longDescription": "To prevent arbitrary tax changes, any modification to the tax system requires a two-step approval process, first from the Judge and then from a server Admin."
+      },
+      {
+        "code": "E-009",
+        "page": 5,
+        "shortDescription": "Inflation control is the duty of the government treasury.",
+        "longDescription": "The government's treasury department is responsible for monitoring and controlling inflation, using approved economic tools to keep the currency stable."
+      },
+      {
+        "code": "E-010",
+        "page": 5,
+        "shortDescription": "Shops selling below-cost to destroy others is illegal.",
+        "longDescription": "Predatory pricing is illegal. Shops are forbidden from selling items below their cost with the specific intent of driving their competitors out of business."
+      },
+      {
+        "code": "E-011",
+        "page": 5,
+        "shortDescription": "All trade contracts above 50k must be signed by the Judge.",
+        "longDescription": "To ensure legality and prevent disputes, any formal trade contract with a value exceeding 50,000 coins must be officially signed and notarized by the Judge."
+      },
+      {
+        "code": "E-012",
+        "page": 5,
+        "shortDescription": "Fake players/alts used for economy gain will be banned.",
+        "longDescription": "Using alternate accounts (alts) to unfairly gain an economic advantage, such as by farming resources or manipulating votes, is illegal and will result in a ban."
+      },
+      {
+        "code": "E-013",
+        "page": 5,
+        "shortDescription": "Government can freeze bank accounts if illegal trade is found.",
+        "longDescription": "If a player's bank account is linked to illegal trade or other financial crimes, the government has the authority to freeze the account pending an investigation."
+      },
+      {
+        "code": "E-014",
+        "page": 5,
+        "shortDescription": "Jail economy is restricted—no player is allowed inside jail without government permission.",
+        "longDescription": "The jail is a restricted zone with its own economy rules. No player is allowed to enter the jail area without explicit permission from the government or an Admin."
+      },
+      {
+        "code": "E-015",
+        "page": 5,
+        "shortDescription": "Criminals in jail cannot run businesses.",
+        "longDescription": "Players who are serving a jail sentence will have their business and economic rights suspended. They are not permitted to run a business while incarcerated."
+      }
+    ]
+  },
+  {
+    "title": "Final Business Guidelines, Extended Economic Rights, Closing Rules",
+    "rules": [
+      {
+        "code": "F-001",
+        "page": 6,
+        "shortDescription": "Respectful communication is mandatory in all economic dealings.",
+        "longDescription": "Professionalism is expected. Respectful and clear communication is mandatory in all business and economic dealings to prevent misunderstandings and disputes."
+      },
+      {
+        "code": "F-002",
+        "page": 6,
+        "shortDescription": "Economy disputes should be taken to court, not settled by force.",
+        "longDescription": "Economic disagreements must be resolved through the official court system. Attempting to settle disputes through threats, force, or harassment is illegal."
+      },
+      {
+        "code": "F-003",
+        "page": 6,
+        "shortDescription": "Shopkeepers must treat customers equally, without discrimination.",
+        "longDescription": "Shopkeepers have a duty to treat all customers equally and without any form of discrimination. Refusing service based on rank, wealth, or personal bias is not allowed."
+      },
+      {
+        "code": "F-004",
+        "page": 6,
+        "shortDescription": "Any shop refusing legal currency will be banned.",
+        "longDescription": "The official server currency must be accepted by all businesses. Any shop that refuses to accept legal tender will have its license revoked and will be banned from operating."
+      },
+      {
+        "code": "F-005",
+        "page": 6,
+        "shortDescription": "No hoarding of food or life-essentials.",
+        "longDescription": "To ensure the well-being of all players, the hoarding of essential items like food is forbidden. These items must be made available to the market at fair prices."
+      },
+      {
+        "code": "F-006",
+        "page": 6,
+        "shortDescription": "Players can appeal to the Judge if taxed unfairly.",
+        "longDescription": "If a player believes they have been taxed unfairly or incorrectly, they have the right to appeal the decision to the Judge for a formal review."
+      },
+      {
+        "code": "F-007",
+        "page": 6,
+        "shortDescription": "Businesses have the right to challenge suspension in court.",
+        "longDescription": "If a business is suspended by the government, the owner has the right to challenge that suspension in court and present their case to the Judge."
+      },
+      {
+        "code": "F-008",
+        "page": 6,
+        "shortDescription": "Players have the right to demand transparency in government tax usage.",
+        "longDescription": "Every citizen has the right to demand transparency and see detailed reports on how the government is using the tax revenue it has collected."
+      },
+      {
+        "code": "F-009",
+        "page": 6,
+        "shortDescription": "Leaders must maintain economic fairness for all.",
+        "longDescription": "It is a core duty of the government leadership to actively maintain a state of economic fairness, ensuring that all players have a chance to prosper."
+      },
+      {
+        "code": "F-010",
+        "page": 6,
+        "shortDescription": "Admin holds final decision in economy disputes.",
+        "longDescription": "While the Judge handles most disputes, the server Admin holds the ultimate and final authority in any economic dispute, especially those of a severe or server-wide nature."
+      },
+      {
+        "code": "F-011",
+        "page": 6,
+        "shortDescription": "Every player must contribute to a healthy server economy.",
+        "longDescription": "It is the closing duty of every player to be a positive force in the economy. By trading fairly and acting responsibly, everyone contributes to a healthy economic environment."
+      },
+      {
+        "code": "F-012",
+        "page": 6,
+        "shortDescription": "Businesses should promote fair competition.",
+        "longDescription": "All businesses should engage in and promote fair competition. A healthy market with many competing shops is better for the consumer and the economy as a whole."
+      },
+      {
+        "code": "F-013",
+        "page": 6,
+        "shortDescription": "Players cannot misuse economic loopholes.",
+        "longDescription": "Players are forbidden from misusing any unforeseen loopholes in the economic system for personal gain. Such actions are considered exploits and are punishable."
+      },
+      {
+        "code": "F-014",
+        "page": 6,
+        "shortDescription": "All government economic rules apply equally to leaders and normal citizens.",
+        "longDescription": "No one is above the law. All economic rules and regulations apply equally to government leaders and regular citizens alike, without exception."
+      },
+      {
+        "code": "F-015",
+        "page": 6,
+        "shortDescription": "Shops and farms found illegal will be demolished immediately.",
+        "longDescription": "This is a final warning. Any shop or farm that is found to be operating illegally will be demolished immediately and without prior warning."
+      },
+      {
+        "code": "F-016",
+        "page": 6,
+        "shortDescription": "Economy must ensure survival of new players (low tax for beginners).",
+        "longDescription": "The economy must be structured to ensure the survival and growth of new players. This may include a lower tax bracket or other forms of assistance for beginners."
+      },
+      {
+        "code": "F-017",
+        "page": 6,
+        "shortDescription": "Rich players must pay fair tax without complaint.",
+        "longDescription": "Wealthier players have a duty to pay their fair share of taxes without complaint, contributing to the public good that allows the economy to thrive."
+      },
+      {
+        "code": "F-018",
+        "page": 6,
+        "shortDescription": "Admin has full authority in economic emergencies.",
+        "longDescription": "In the event of a severe economic emergency, such as hyperinflation or a major exploit, the server Admin has full authority to intervene and take necessary measures."
+      },
+      {
+        "code": "F-019",
+        "page": 6,
+        "shortDescription": "No rule can be changed without admin & judge approval.",
+        "longDescription": "The economic laws are stable and cannot be changed on a whim. Any modification to these rules requires a formal approval process involving both an Admin and the Judge."
+      },
+      {
+        "code": "F-020",
+        "page": 6,
+        "shortDescription": "The economy must remain transparent, fair, and enjoyable for all players.",
+        "longDescription": "The ultimate goal of all these rules is to create and maintain an economy that is transparent in its dealings, fair in its opportunities, and enjoyable for all players to participate in."
+      }
+    ]
+  }
+]

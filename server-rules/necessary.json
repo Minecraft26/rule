@@ -1,0 +1,537 @@
+[
+  {
+    "title": "Respect & Player Behavior",
+    "rules": [
+      {
+        "code": "A-01",
+        "shortDescription": "Respect all players.",
+        "longDescription": "All players deserve to be treated with kindness and respect. This includes refraining from any form of harassment, bullying, racism, sexism, or hate speech. Creating a positive and welcoming environment for everyone is our top priority. Violation of this rule will result in strict penalties, as we are committed to maintaining a safe and inclusive community.",
+        "page": 1
+      },
+      {
+        "code": "A-02",
+        "shortDescription": "Treat staff respectfully.",
+        "longDescription": "Our staff members are volunteers who dedicate their time to keeping the server running smoothly. It is crucial to follow their instructions and treat them with respect. Publicly arguing with a staff member's decision is not permitted. If you have a concern, please use the appropriate channels to submit a report or appeal privately. Disrespect towards staff undermines their ability to help the community.",
+        "page": 1
+      },
+      {
+        "code": "A-03",
+        "shortDescription": "No toxic behavior.",
+        "longDescription": "Toxic behavior, such as instigating drama, creating a hostile atmosphere, or intentionally making others feel uncomfortable, is strictly forbidden. We expect all players to interact in a friendly and fair manner. This rule is in place to ensure that the server remains a fun and enjoyable place for everyone. Keep your interactions positive and constructive.",
+        "page": 1
+      },
+      {
+        "code": "A-04",
+        "shortDescription": "Avoid political or religious debates.",
+        "longDescription": "To maintain a neutral and peaceful environment, please avoid engaging in political or religious debates that can lead to arguments and division among players. These topics are often sensitive and can create a negative atmosphere. Our server is a place for gaming and fun, not for contentious real-world discussions.",
+        "page": 1
+      },
+      {
+        "code": "A-05",
+        "shortDescription": "No stalking or harassment.",
+        "longDescription": "Do not repeatedly follow or teleport to other players against their wishes. Respect other players' personal space and privacy. If a player asks you to leave them alone, you must comply. Persistent, unwanted attention is a form of harassment and will not be tolerated.",
+        "page": 1
+      },
+      {
+        "code": "A-06",
+        "shortDescription": "No swearing directed at others.",
+        "longDescription": "While general, mild swearing may be permissible depending on server context, directing profane or offensive language at other players or staff members is strictly prohibited. This is a form of verbal abuse and contributes to a toxic environment. Keep your language civil and respectful when interacting with others.",
+        "page": 1
+      },
+      {
+        "code": "A-07",
+        "shortDescription": "No mocking others.",
+        "longDescription": "Do not mock or belittle other players based on their in-game skills, building style, or any other personal attribute. Everyone has their own way of enjoying the game, and all playstyles should be respected. Constructive criticism is different from mockery; always be kind and supportive.",
+        "page": 1
+      },
+      {
+        "code": "A-08",
+        "shortDescription": "Use common sense.",
+        "longDescription": "Not every possible rule can be listed. We expect players to use their best judgment. If an action seems like it might be wrong, disruptive, or against the spirit of the rules, you should not do it. The 'common sense' rule allows staff to address unforeseen issues to maintain a fair and enjoyable server environment.",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "title": "Chat & Communication",
+    "rules": [
+      {
+        "code": "A-09",
+        "shortDescription": "Keep chat clean.",
+        "longDescription": "To ensure that chat is readable and pleasant for all players, please avoid spamming, flooding with repetitive messages, and using excessive capital letters. This helps maintain a clear line of communication for everyone. Repeatedly violating this rule can disrupt the experience for others and may lead to a temporary mute.",
+        "page": 1
+      },
+      {
+        "code": "A-10",
+        "shortDescription": "No advertising.",
+        "longDescription": "Promoting other servers, websites, or personal social media channels in public chat is not allowed. This is to prevent our community from being solicited and to keep the focus on our server. If you wish to share something with a friend, please do so in a private message. Unauthorized advertising will be met with immediate sanctions.",
+        "page": 1
+      },
+      {
+        "code": "A-11",
+        "shortDescription": "English only in main chat.",
+        "longDescription": "To ensure effective communication and moderation, we require that English be the primary language used in the main public chat channels. Players are welcome to communicate in other languages in private messages or designated non-English channels if they are available. This policy helps our staff team moderate effectively and ensures everyone can understand public announcements.",
+        "page": 1
+      },
+      {
+        "code": "A-12",
+        "shortDescription": "Use correct chat channels.",
+        "longDescription": "Please use the designated chat channels for their intended purpose. For example, use the trade channel for buying and selling, the help channel for asking questions, and the general channel for casual conversation. Using the correct channels helps keep the chat organized and ensures your messages reach the right audience.",
+        "page": 1
+      },
+      {
+        "code": "A-13",
+        "shortDescription": "No excessive symbols or gibberish.",
+        "longDescription": "Avoid filling the chat with excessive symbols, unicode characters, or random, nonsensical text (gibberish). This clutters the chat window and makes it difficult for others to communicate. The goal is to maintain a clean and readable chat for the benefit of the entire community.",
+        "page": 1
+      },
+      {
+        "code": "A-14",
+        "shortDescription": "No bypassing chat filters.",
+        "longDescription": "Attempting to bypass the server's chat filter to use prohibited words is a serious offense. This includes replacing letters with numbers or symbols to convey offensive messages. The chat filter is in place to maintain a family-friendly environment, and any effort to circumvent it will result in punishment.",
+        "page": 1
+      },
+      {
+        "code": "A-15",
+        "shortDescription": "Don't spread false information.",
+        "longDescription": "Do not spread false information, rumors, or misinformation about the server, its staff, or other players. This can cause unnecessary drama and confusion. If you have a concern or question, please direct it to a staff member to get accurate information. Spreading lies is a form of disruption and will be treated as such.",
+        "page": 1
+      },
+      {
+        "code": "A-16",
+        "shortDescription": "No begging.",
+        "longDescription": "Please do not beg for ranks, items, money, or staff positions in chat. The server economy and progression systems are designed to be fair for everyone. Begging is disruptive and unfair to other players who work for their items and status. If you need help, ask for advice, not handouts.",
+        "page": 1
+      },
+      {
+        "code": "A-17",
+        "shortDescription": "No flamebaiting.",
+        "longDescription": "Do not deliberately post provocative or inflammatory messages in chat with the intent of starting arguments or provoking fights (flamebaiting). This is a form of toxic behavior that disrupts the community. Engage in conversations respectfully and avoid trying to stir up trouble.",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "title": "Cheating & Fair Play",
+    "rules": [
+      {
+        "code": "A-18",
+        "shortDescription": "No hacked clients or unfair mods.",
+        "longDescription": "The use of hacked clients, x-ray resource packs, fly hacks, kill-aura, or any other modification that provides an unfair advantage is strictly prohibited. We are committed to maintaining a level playing field for all players. Anyone caught using such cheats will face a permanent ban without appeal. This is essential for preserving the integrity of our gameplay experience.",
+        "page": 1
+      },
+      {
+        "code": "A-19",
+        "shortDescription": "No macros or auto-clickers.",
+        "longDescription": "Using macros, scripts, or auto-clickers to automate actions and gain an unfair advantage is not allowed. This includes tools for automated farming, fighting, or any other gameplay mechanic. Such practices undermine the effort of legitimate players. We expect all actions to be performed manually by the player to ensure fair competition.",
+        "page": 1
+      },
+      {
+        "code": "A-20",
+        "shortDescription": "No abusing glitches or bugs.",
+        "longDescription": "Exploiting server bugs, glitches, or unintended mechanics for personal gain is strictly forbidden. If you discover a bug, you must report it to the staff team immediately through the proper channels. Abusing exploits can unbalance the economy and gameplay, and those found guilty will face severe consequences, including the removal of any ill-gotten gains.",
+        "page": 1
+      },
+      {
+        "code": "A-21",
+        "shortDescription": "No external programs.",
+        "longDescription": "Using external programs or applications to control your Minecraft account or interact with the game in an automated way is forbidden. Your account should only be controlled by you, the player. This rule is in place to prevent cheating and ensure that all players are on a level playing field.",
+        "page": 1
+      },
+      {
+        "code": "A-22",
+        "shortDescription": "No AFK farming.",
+        "longDescription": "Unless a specific area or server rule explicitly permits it, AFK (Away From Keyboard) farming is not allowed. This includes building contraptions that allow you to accumulate resources or kill mobs while you are not actively playing. This rule ensures that resources are gathered fairly and prevents players from gaining an advantage without being present.",
+        "page": 1
+      },
+      {
+        "code": "A-23",
+        "shortDescription": "No using multiple accounts unfairly.",
+        "longDescription": "Using alternate (alt) accounts to gain an unfair advantage is prohibited. This includes using alt accounts to boost your stats, bypass server limits, vote multiple times, or spy on other players. While you may own multiple accounts, they cannot be used to give your main account an edge over others.",
+        "page": 1
+      },
+      {
+        "code": "A-24",
+        "shortDescription": "No unfair resource packs.",
+        "longDescription": "Using resource packs that provide a clear, unfair advantage in gameplay is not allowed. This primarily includes 'x-ray' or 'cave-finder' packs, but can also include packs that make players or other entities highly visible in PvP situations. Optifine and aesthetic packs are generally allowed, but anything that gives you an edge is not.",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "title": "Griefing, Theft & Protection",
+    "rules": [
+      {
+        "code": "B-01",
+        "shortDescription": "No griefing other players’ builds.",
+        "longDescription": "You must not damage, destroy, or deface other players' builds, regardless of whether the area is claimed or not. This includes breaking blocks, placing unwanted blocks (like dirt or lava), or otherwise altering a build without permission. Respect the time and effort other players put into their creations.",
+        "page": 2
+      },
+      {
+        "code": "B-02",
+        "shortDescription": "No stealing from any area.",
+        "longDescription": "Stealing items from other players' chests, farms, or item frames is strictly forbidden. This applies to both claimed and unclaimed areas. If it doesn't belong to you, do not take it. Theft undermines trust within the community and ruins the game for the victim.",
+        "page": 2
+      },
+      {
+        "code": "B-03",
+        "shortDescription": "Respect claim boundaries.",
+        "longDescription": "Always respect the claim boundaries and protected areas of other players. Do not build on or alter terrain within someone else's claim without their explicit permission. Claims are in place to protect players' hard work, and they must be honored by all.",
+        "page": 2
+      },
+      {
+        "code": "B-04",
+        "shortDescription": "No building on others' claims.",
+        "longDescription": "You may not build anything inside another player's claimed land without their explicit consent and permission. This is a direct violation of their protected space. Always ask for permission before collaborating on a build or adding to someone else's area.",
+        "page": 2
+      },
+      {
+        "code": "B-05",
+        "shortDescription": "No bypassing claim protections.",
+        "longDescription": "Attempting to bypass claim protections using glitches, exploits, or any other means is a serious offense. This includes using pistons to push blocks into a claim or finding ways to interact with blocks that should be protected. Any such exploit will be treated as a form of griefing.",
+        "page": 2
+      },
+      {
+        "code": "B-06",
+        "shortDescription": "Do not alter nearby terrain.",
+        "longDescription": "Avoid making significant alterations to the terrain immediately surrounding another player's build or claim without their permission. This includes creating large pits, leveling mountains, or changing the landscape in a way that negatively impacts their build's aesthetic or accessibility. Be a good neighbor.",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "title": "Building Rules",
+    "rules": [
+      {
+        "code": "B-07",
+        "shortDescription": "No inappropriate builds.",
+        "longDescription": "Constructing builds that are inappropriate, sexual, hateful, or political in nature is strictly forbidden. This is to ensure the server remains a family-friendly and neutral environment for all players. Staff members reserve the right to remove any build deemed offensive or disruptive without warning. Please use your creativity responsibly.",
+        "page": 2
+      },
+      {
+        "code": "B-08",
+        "shortDescription": "Follow plot and height limits.",
+        "longDescription": "In designated plot worlds or creative areas, you must adhere to the specified plot size and height limits. Building outside your assigned boundaries or exceeding the world's height limit can interfere with other players' plots and server performance. Check the local rules for the area you are building in.",
+        "page": 2
+      },
+      {
+        "code": "B-09",
+        "shortDescription": "Avoid hoarding land.",
+        "longDescription": "Claim only the land that you reasonably need for your building projects. Creating excessively large, empty claims or making many small claims just to reserve territory (land hoarding) is not permitted. This ensures that there is enough space for all players to build and expand.",
+        "page": 2
+      },
+      {
+        "code": "B-10",
+        "shortDescription": "No blocking public areas.",
+        "longDescription": "Do not construct builds that block or impede access to public roads, community portals, spawn areas, or other important server landmarks. Public infrastructure must remain open and accessible to all players at all times. Staff may remove any build found to be causing an obstruction.",
+        "page": 2
+      },
+      {
+        "code": "B-11",
+        "shortDescription": "Keep builds safe.",
+        "longDescription": "Do not create harmful traps or builds that can kill or injure unsuspecting players in public or non-PvP areas. This includes pitfalls, lava traps, or any contraption designed to cause harm. Builds should be safe for all players to explore and interact with.",
+        "page": 2
+      },
+      {
+        "code": "B-12",
+        "shortDescription": "Avoid laggy redstone contraptions.",
+        "longDescription": "Be mindful of server performance when building complex redstone contraptions. Avoid creating large-scale farms or machines with rapid-fire clocks or excessive pistons that can cause significant server lag. If your build is found to be causing performance issues, staff may ask you to modify or remove it.",
+        "page": 2
+      },
+      {
+        "code": "B-13",
+        "shortDescription": "Do not build directly next to others.",
+        "longDescription": "Without their permission, do not build extremely close to another player's established build or claim. Give your fellow players a respectful amount of space to allow for future expansion. Building right on the edge of someone's territory can be seen as intrusive and may lead to disputes.",
+        "page": 2
+      },
+      {
+        "code": "B-14",
+        "shortDescription": "Avoid grief-style builds.",
+        "longDescription": "Do not create builds that are intentionally ugly or disruptive, such as giant walls of cobblestone, lava casts, or random spamming of blocks. Even if not directly damaging another's property, these types of builds are a form of visual griefing and detract from the server's aesthetic.",
+        "page": 2
+      },
+      {
+        "code": "B-15",
+        "shortDescription": "Do not place excessive light sources.",
+        "longDescription": "Placing an excessive number of light sources (like torches or sea lanterns) in a small area can cause significant client-side and server-side lag. Light your builds adequately, but avoid spamming light sources unnecessarily. This helps ensure a smooth gameplay experience for everyone.",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "title": "PvP & Combat",
+    "rules": [
+      {
+        "code": "B-16",
+        "shortDescription": "No combat logging.",
+        "longDescription": "Combat logging, which is logging out of the server to avoid being killed by another player in a PvP encounter, is strictly forbidden. This is an unfair tactic that denies the attacking player a legitimate kill. If you are engaged in combat, you must see it through. Violators may have their inventory cleared or face other penalties.",
+        "page": 2
+      },
+      {
+        "code": "B-17",
+        "shortDescription": "No spawn killing.",
+        "longDescription": "Repeatedly killing players in designated spawn areas or right outside of them (spawn camping) is not allowed. Spawn points should be safe zones where players can start without immediately being attacked. Give players a chance to move out of the spawn area before engaging them in combat.",
+        "page": 2
+      },
+      {
+        "code": "B-18",
+        "shortDescription": "Follow PvP zone rules.",
+        "longDescription": "You must adhere to the specific rules of designated PvP zones, such as arenas or safe zones. If an area is marked as a safe zone, PvP is not permitted under any circumstances. In arenas, you must follow the rules of the specific game or event. Ignoring these boundaries will result in punishment.",
+        "page": 2
+      },
+      {
+        "code": "B-19",
+        "shortDescription": "No unfair trapping in PvP.",
+        "longDescription": "While some trapping may be a part of PvP, creating inescapable traps designed to kill players without a fair chance to fight back is not allowed. This includes things like obsidian boxes or deep pits that a player cannot escape from. PvP should be about skill, not about exploiting mechanics to trap others unfairly.",
+        "page": 2
+      },
+      {
+        "code": "B-20",
+        "shortDescription": "No using knockback unfairly.",
+        "longDescription": "Using knockback enchantments or items to push players into dangerous areas like the void or lava pools outside of designated PvP zones is considered a form of griefing. This tactic should only be used as part of legitimate combat within an appropriate PvP area, not as a way to kill players who are not prepared for a fight.",
+        "page": 2
+      },
+      {
+        "code": "B-21",
+        "shortDescription": "No teaming in solo PvP.",
+        "longDescription": "In PvP modes or events that are designated as 'solo' or 'free-for-all', teaming up with other players to gain an advantage is not allowed. This ruins the fairness of the competition for everyone else. Alliances are only permitted in team-based game modes.",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "title": "Item & Resource Management",
+    "rules": [
+      {
+        "code": "C-01",
+        "shortDescription": "No creating excessive item entities.",
+        "longDescription": "Dropping a large number of items on the ground can create excessive entities, which causes significant server lag. Make sure to store your items in chests or other containers. If you need to dispose of items, use a proper disposal method like lava or a cactus, rather than leaving them to despawn.",
+        "page": 3
+      },
+      {
+        "code": "C-02",
+        "shortDescription": "No overloading hopper systems.",
+        "longDescription": "While hopper systems are useful, extremely large or inefficiently designed hopper networks can cause a great deal of server lag. Avoid creating unnecessarily long hopper chains or clocks that run 24/7. Build smart, compact systems and use water streams or other alternatives where possible to reduce the load on the server.",
+        "page": 3
+      },
+      {
+        "code": "C-03",
+        "shortDescription": "Avoid mass breeding mobs.",
+        "longDescription": "Do not breed an excessive number of mobs in a small, confined area. Large concentrations of entities can lead to severe server and client-side lag. Adhere to any server-specific mob limits and be reasonable with the size of your animal farms to ensure a smooth experience for everyone online.",
+        "page": 3
+      },
+      {
+        "code": "C-04",
+        "shortDescription": "No placing large amounts of water/lava.",
+        "longDescription": "Placing massive quantities of flowing water or lava, especially for griefing purposes or without a clear building purpose, is prohibited. Large fluid flows require significant server resources to process and can cause lag. Use fluids responsibly and remove them when they are no longer needed.",
+        "page": 3
+      },
+      {
+        "code": "C-05",
+        "shortDescription": "No redstone lag machines.",
+        "longDescription": "Constructing redstone devices or infinite loops with the sole purpose of causing server lag is a serious offense. This includes rapid-fire piston machines, massive flying machines, or any contraption designed to overload the server's processing. Such actions will result in immediate and severe punishment.",
+        "page": 3
+      },
+      {
+        "code": "C-06",
+        "shortDescription": "Do not hoard server-limited resources.",
+        "longDescription": "If the server has items or resources that are intentionally limited in quantity (such as rare event items or special blocks), do not attempt to hoard them unfairly. These resources are meant to be shared and enjoyed by the community. Give other players a fair chance to obtain them.",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "title": "Account & Security",
+    "rules": [
+      {
+        "code": "C-07",
+        "shortDescription": "Keep your password secure.",
+        "longDescription": "You are responsible for the security of your own Minecraft account. Do not share your password or account details with anyone. Staff will never ask for your password. If your account is compromised and used to break rules, you will be held responsible for the actions taken on your account.",
+        "page": 3
+      },
+      {
+        "code": "C-08",
+        "shortDescription": "No impersonating others.",
+        "longDescription": "Do not impersonate other players or staff members. This includes using similar usernames, nicknames, or skins with the intent to deceive others. Impersonation can cause confusion and drama, and it is a serious offense that will result in punishment.",
+        "page": 3
+      },
+      {
+        "code": "C-09",
+        "shortDescription": "No inappropriate names, skins, or capes.",
+        "longDescription": "Your username, skin, and cape must be appropriate for a family-friendly audience. Do not use names, skins, or capes that are offensive, sexual, hateful, or otherwise violate server rules. If your name or cosmetics are deemed inappropriate, staff may ask you to change them.",
+        "page": 3
+      },
+      {
+        "code": "C-10",
+        "shortDescription": "Staff may request you change your skin/name.",
+        "longDescription": "If a staff member determines that your username or skin is inappropriate or too similar to another player's, they may request that you change it. You are expected to comply with this request. Failure to do so may result in a temporary ban until the change is made.",
+        "page": 3
+      },
+      {
+        "code": "C-11",
+        "shortDescription": "No evading punishments.",
+        "longDescription": "Do not use alternate accounts (alts) to evade mutes, bans, or any other form of punishment. If you have been punished on one account, that punishment applies to you as a player, not just the account. Ban evasion will typically result in a permanent ban on all associated accounts.",
+        "page": 3
+      },
+      {
+        "code": "C-12",
+        "shortDescription": "Do not use VPN/proxy to bypass bans.",
+        "longDescription": "Using a VPN or proxy service to bypass a ban without explicit permission from the staff team is not allowed. This is another form of ban evasion. If you wish to appeal a ban, you must do so through the proper channels, not by trying to circumvent the system.",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "title": "Events & Special Rules",
+    "rules": [
+      {
+        "code": "C-13",
+        "shortDescription": "Follow event-specific rules.",
+        "longDescription": "When you participate in a server event or minigame, you must follow the specific rules announced for that event. These rules may be different from the standard server rules. Pay attention to the instructions given by the event host to ensure a fair and fun experience for everyone involved.",
+        "page": 3
+      },
+      {
+        "code": "C-14",
+        "shortDescription": "No disrupting official events.",
+        "longDescription": "Do not intentionally disrupt official server events or minigames. This includes trolling participants, spamming the chat during an event, or interfering with the event's mechanics. Let other players enjoy the event without interruption. Disruptive behavior may get you disqualified or banned from future events.",
+        "page": 3
+      },
+      {
+        "code": "C-15",
+        "shortDescription": "Respect the event hosts.",
+        "longDescription": "Event hosts and staff members are there to ensure the event runs smoothly. You must respect their instructions and decisions during the event. Arguing with or disrespecting an event host can ruin the atmosphere and may result in your removal from the event.",
+        "page": 3
+      },
+      {
+        "code": "C-16",
+        "shortDescription": "Avoid AFK-ing in event areas.",
+        "longDescription": "Do not go AFK (Away From Keyboard) in an active event area, as this can take up a player slot and block other, active participants from joining. If you need to step away, please leave the event area first. This is a matter of courtesy to other players who want to participate.",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "title": "General Conduct",
+    "rules": [
+      {
+        "code": "C-17",
+        "shortDescription": "Report rule-breakers properly.",
+        "longDescription": "If you witness someone breaking the rules, or if you discover a bug or exploit, please report it through the proper channels (such as a support ticket or a forum post). Do not try to handle the situation yourself or make public accusations in chat. Proper reporting helps staff address issues efficiently.",
+        "page": 3
+      },
+      {
+        "code": "C-18",
+        "shortDescription": "Respect that staff decisions are final.",
+        "longDescription": "While you have the right to appeal a punishment through the correct process, the final decision made by the staff team is to be respected. Continuously arguing about a punishment in public chat after a decision has been made is not productive and may lead to further sanctions.",
+        "page": 3
+      },
+      {
+        "code": "C-19",
+        "shortDescription": "Do not question punishments in public.",
+        "longDescription": "Do not question or argue about punishments (yours or someone else's) in public chat. This creates unnecessary drama. If you disagree with a punishment, submit a private appeal. Public discussion on the matter is not the appropriate venue and will not be tolerated.",
+        "page": 3
+      },
+      {
+        "code": "C-20",
+        "shortDescription": "Keep the server enjoyable for everyone.",
+        "longDescription": "The ultimate goal of these rules is to ensure that the server is a fun, fair, and welcoming place for all players. Always think about how your actions affect others. By playing fair, being kind, and contributing positively to the community, you help make the server a better place for everyone.",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "title": "Extra Specialized Rules",
+    "rules": [
+      {
+        "code": "D-01",
+        "shortDescription": "No real-life trading.",
+        "longDescription": "Trading in-game items, currency, or services for real-world money or other real-life goods is strictly prohibited unless the server has an official, approved platform for it (like a server store). Unauthorized real-money trading (RMT) can lead to scams and is not allowed.",
+        "page": 4
+      },
+      {
+        "code": "D-02",
+        "shortDescription": "No unapproved gambling.",
+        "longDescription": "Do not organize or participate in games of chance involving real or in-game currency unless it is through a server-approved and regulated system. Unofficial player-run casinos or gambling games can be scams and are not permitted.",
+        "page": 4
+      },
+      {
+        "code": "D-03",
+        "shortDescription": "No unapproved mod use.",
+        "longDescription": "Before using any game modification, make sure it is on the server's list of approved mods. If you are unsure whether a mod is allowed, ask a staff member first. Using a questionable mod without getting approval could be treated as cheating.",
+        "page": 4
+      },
+      {
+        "code": "D-04",
+        "shortDescription": "No glitching through blocks.",
+        "longDescription": "Do not use glitches or exploits to pass through solid blocks. This includes using ender pearls to clip through walls, using pistons to push yourself into protected areas, or any other method of bypassing intended game mechanics. This is considered a form of cheating.",
+        "page": 4
+      },
+      {
+        "code": "D-05",
+        "shortDescription": "Do not farm AFK players.",
+        "longDescription": "Do not repeatedly kill or otherwise farm AFK (Away From Keyboard) players for items, experience, or stats. While killing an AFK player once in a PvP zone might be acceptable, repeatedly doing so is a form of harassment and is not sportsmanlike.",
+        "page": 4
+      },
+      {
+        "code": "D-06",
+        "shortDescription": "Do not leave floating trees.",
+        "longDescription": "When you cut down a tree, make sure to remove all the logs. Leaving floating treetops is unsightly and detracts from the natural beauty of the world. Be a responsible lumberjack and clean up after yourself.",
+        "page": 4
+      },
+      {
+        "code": "D-07",
+        "shortDescription": "No claim blocking.",
+        "longDescription": "Do not place claims with the sole intention of preventing another player from expanding their own territory. This is a form of griefing and is not permitted. Claims should be for your own builds, not to inconvenience others.",
+        "page": 4
+      },
+      {
+        "code": "D-08",
+        "shortDescription": "Respect biome protections.",
+        "longDescription": "If the server has designated certain rare or scenic biomes as protected areas, you must not destroy or significantly alter them. This is to preserve the natural beauty of the world for all players to enjoy. Check for any specific rules regarding biome preservation.",
+        "page": 4
+      },
+      {
+        "code": "D-09",
+        "shortDescription": "No uncontrolled fire spread.",
+        "longDescription": "Be extremely careful with fire. Do not start fires that can spread uncontrollably and destroy the landscape or other players' builds. If you use fire, make sure it is contained. You are responsible for any damage caused by fires you start.",
+        "page": 4
+      },
+      {
+        "code": "D-10",
+        "shortDescription": "No excessive TNT usage.",
+        "longDescription": "Do not use excessive amounts of TNT outside of designated areas (like a mining world or PvP arena). Large TNT explosions can cause significant server lag and destroy the landscape. Use it responsibly and only where permitted.",
+        "page": 4
+      },
+      {
+        "code": "D-11",
+        "shortDescription": "No sound spam.",
+        "longDescription": "Do not create contraptions that spam sounds, such as looping jukeboxes, note blocks, or command block sounds, with the intention of annoying other players. This is a form of harassment and can be very disruptive.",
+        "page": 4
+      },
+      {
+        "code": "D-12",
+        "shortDescription": "Respect world borders.",
+        "longDescription": "Do not attempt to bypass or glitch past the world border. The border is there for a reason, often to manage server resources and ensure a playable area. Attempting to get outside the border is an exploit and is not allowed.",
+        "page": 4
+      },
+      {
+        "code": "D-13",
+        "shortDescription": "No using invisibility to troll.",
+        "longDescription": "Do not use invisibility potions or effects just to troll, harass, or annoy other players. While invisibility has legitimate uses, using it to follow players unseen, steal items, or otherwise cause trouble is not one of them.",
+        "page": 4
+      },
+      {
+        "code": "D-14",
+        "shortDescription": "Do not block AFK players.",
+        "longDescription": "Do not trap or encase AFK players with blocks. This is a form of harassment and can be very frustrating for the player when they return. Leave AFK players alone.",
+        "page": 4
+      },
+      {
+        "code": "D-15",
+        "shortDescription": "No unauthorized mob transport.",
+        "longDescription": "Do not transport mobs from restricted areas (like a boss arena or a special dungeon) to other parts of the world. This can unbalance the game and bring dangerous mobs into areas where they are not supposed to be. Only transport mobs that you have legitimately acquired in the main world.",
+        "page": 4
+      }
+    ]
+  }
+]
