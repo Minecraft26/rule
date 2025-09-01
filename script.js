@@ -1,19 +1,17 @@
 document.addEventListener('DOMContentLoaded', () => {
     const rulesConfig = {
-        "necessary-rules": { title: "Necessary Rules", idPrefix: "SR-N", json: "server-rules/necessary.json" },
-        "optional-rules": { title: "Optional Rules", idPrefix: "SR-O", json: "server-rules/optional.json" },
-        "law-like-rules": { title: "Law-Like Rules", idPrefix: "SR-L", json: "server-rules/law.json" },
-        "rights-duties-rules": { title: "Rights & Duties", idPrefix: "SR-RD", json: "server-rules/rights-duties.json" },
-        "economy-rules": { title: "Economy", idPrefix: "SR-E", json: "server-rules/economy.json" },
-        "jobs-rules": { title: "Jobs", idPrefix: "SR-J", json: "server-rules/jobs.json" },
-        "judiciary-rules": { title: "Judiciary", idPrefix: "GR-JU", json: "government-rules/judiciary.json" },
-        "govt-leader-rules": { title: "Government Leader", idPrefix: "GR-GL", json: "government-rules/govt-leader.json" },
-        "lawyer-rules": { title: "Lawyer", idPrefix: "GR-LA", json: "government-rules/lawyer.json" },
-        "police-rules": { title: "Police", idPrefix: "GR-P", json: "government-rules/police.json" },
-        "finance-rules": { title: "Finance", idPrefix: "GR-F", json: "government-rules/finance.json" }
+        "necessary-rules": { title: "Necessary Rules", idPrefix: "SR-", json: "necessary.json" },
+        "optional-rules": { title: "Optional Rules", idPrefix: "SR-", json: "optional.json" },
+        "law-like-rules": { title: "Law-Like Rules", idPrefix: "SR-", json: "law.json" },
+        "rights-duties-rules": { title: "Rights & Duties", idPrefix: "SR-", json: "rights-duties.json" },
+        "economy-rules": { title: "Economy", idPrefix: "SR-", json: "economy.json" },
+        "jobs-rules": { title: "Jobs", idPrefix: "SR-", json: "jobs.json" },
+        "judiciary-rules": { title: "Judiciary", idPrefix: "GR-", json: "judiciary.json" },
+        "govt-leader-rules": { title: "Government Leader", idPrefix: "GR-", json: "govt-leader.json" },
+        "lawyer-rules": { title: "Lawyer", idPrefix: "GR-", json: "lawyer.json" },
+        "police-rules": { title: "Police", idPrefix: "GR-", json: "police.json" },
+        "finance-rules": { title: "Finance", idPrefix: "GR-", json: "finance.json" }
     };
-
-    const rulesPerPage = 20;
 
     const fetchRules = async (id) => {
         const config = rulesConfig[id];
@@ -28,24 +26,21 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             const data = await response.json();
 
-            // Check if the data is in the expected 'groups' format or the 'law.json' format
             if (data && Array.isArray(data)) {
-                let ruleCounter = 1;
+                let maxPage = 0;
                 const processedGroups = data.map(group => {
                     const newRules = (group.rules || group.content || []).map(rule => {
-                        // Dynamically assign code and page
-                        const code = `${config.idPrefix}-${ruleCounter}`;
-                        const page = Math.ceil(ruleCounter / rulesPerPage);
-                        ruleCounter++;
-                        return { ...rule, code, page };
+                        const finalCode = `${config.idPrefix}${rule.code}`; // Prepend idPrefix to code from JSON
+                        const finalPage = rule.page; // Use existing page from JSON
+                        if (finalPage > maxPage) {
+                            maxPage = finalPage;
+                        }
+                        return { ...rule, code: finalCode, page: finalPage };
                     });
-                    // Return a consistent structure
                     return { title: group.title, rules: newRules };
                 });
 
-                // Calculate total pages based on the total number of rules
-                const totalRules = ruleCounter - 1;
-                totalPages = Math.ceil(totalRules / rulesPerPage);
+                totalPages = maxPage; // Total pages is the highest page number found in the JSON
 
                 return processedGroups;
             } else {
