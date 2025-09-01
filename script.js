@@ -1,16 +1,16 @@
 document.addEventListener('DOMContentLoaded', () => {
     const rulesConfig = {
-        "necessary-rules": { title: "Necessary Rules", idPrefix: "SR-", json: "necessary.json" },
-        "optional-rules": { title: "Optional Rules", idPrefix: "SR-", json: "optional.json" },
-        "law-like-rules": { title: "Law-Like Rules", idPrefix: "SR-", json: "law.json" },
-        "rights-duties-rules": { title: "Rights & Duties", idPrefix: "SR-", json: "rights-duties.json" },
-        "economy-rules": { title: "Economy", idPrefix: "SR-", json: "economy.json" },
-        "jobs-rules": { title: "Jobs", idPrefix: "SR-", json: "jobs.json" },
-        "judiciary-rules": { title: "Judiciary", idPrefix: "GR-", json: "judiciary.json" },
-        "govt-leader-rules": { title: "Government Leader", idPrefix: "GR-", json: "govt-leader.json" },
-        "lawyer-rules": { title: "Lawyer", idPrefix: "GR-", json: "lawyer.json" },
-        "police-rules": { title: "Police", idPrefix: "GR-", json: "police.json" },
-        "finance-rules": { title: "Finance", idPrefix: "GR-", json: "finance.json" }
+        "necessary-rules": { title: "Necessary Rules", idPrefix: "SR-", json: "server-rules/necessary.json" },
+        "optional-rules": { title: "Optional Rules", idPrefix: "SR-", json: "server-rules/optional.json" },
+        "law-like-rules": { title: "Law-Like Rules", idPrefix: "SR-", json: "server-rules/law.json" },
+        "rights-duties-rules": { title: "Rights & Duties", idPrefix: "SR-", json: "server-rules/rights-duties.json" },
+        "economy-rules": { title: "Economy", idPrefix: "SR-", json: "server-rules/economy.json" },
+        "jobs-rules": { title: "Jobs", idPrefix: "SR-", json: "server-rules/jobs.json" },
+        "judiciary-rules": { title: "Judiciary", idPrefix: "GR-", json: "government-rules/judiciary.json" },
+        "govt-leader-rules": { title: "Government Leader", idPrefix: "GR-", json: "government-rules/govt-leader.json" },
+        "lawyer-rules": { title: "Lawyer", idPrefix: "GR-", json: "government-rules/lawyer.json" },
+        "police-rules": { title: "Police", idPrefix: "GR-", json: "government-rules/police.json" },
+        "finance-rules": { title: "Finance", idPrefix: "GR-", json: "government-rules/finance.json" }
     };
 
     const fetchRules = async (id) => {
