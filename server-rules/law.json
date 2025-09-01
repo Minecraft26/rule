@@ -1,626 +1,626 @@
 [
   {
-    "title": "Section A – Player Rights (1–20)",
+    "title": "Section A \u2013 Player Rights (1\u201320)",
     "rules": [
       {
         "code": "A-001",
         "page": 1,
         "shortDescription": "Every player has the right to fair treatment without discrimination.",
-        "longDescription": "This law guarantees that all players will be treated equally by staff and the server's systems, regardless of their age, gender, nationality, or in-game status. Discrimination of any kind is strictly prohibited and will be met with severe penalties."
+        "longDescription": "This law guarantees that all players will be treated equally by staff and the server's systems, regardless of their age, gender, nationality, or in-game status. Discrimination of any kind is strictly prohibited and will be met with severe penalties. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "A-002",
         "page": 1,
         "shortDescription": "All players must be respected regardless of rank, job, or government position.",
-        "longDescription": "Respect is mandatory. No player, whether they are a newcomer or a government leader, is exempt from the basic expectation of treating others with courtesy. Disrespectful behavior can lead to official warnings or punishment."
+        "longDescription": "Respect is mandatory. No player, whether they are a newcomer or a government leader, is exempt from the basic expectation of treating others with courtesy. Disrespectful behavior can lead to official warnings or punishment. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "A-003",
         "page": 1,
         "shortDescription": "Freedom of speech is allowed, but not abusive or offensive.",
-        "longDescription": "Players are free to express their opinions, but this right does not extend to hate speech, harassment, extreme toxicity, or other forms of abusive language. The line will be drawn where speech becomes harmful to the community."
+        "longDescription": "Players are free to express their opinions, but this right does not extend to hate speech, harassment, extreme toxicity, or other forms of abusive language. The line will be drawn where speech becomes harmful to the community. Punishment: 7 days jail or permanent suspension for repeated offenses."
       },
       {
         "code": "A-004",
         "page": 1,
         "shortDescription": "Players have the right to own land (mandatory land ownership).",
-        "longDescription": "Land ownership is a fundamental right and requirement. To build and store items securely, every player must own a plot of land, which serves as their primary base of operations."
+        "longDescription": "Land ownership is a fundamental right and requirement. To build and store items securely, every player must own a plot of land, which serves as their primary base of operations. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "A-005",
         "page": 1,
         "shortDescription": "Every player must have their land registered with the government.",
-        "longDescription": "To ensure order and prevent disputes, all owned land must be officially registered with the server government. Unregistered lands are not protected and may be subject to reclamation."
+        "longDescription": "To ensure order and prevent disputes, all owned land must be officially registered with the server government. Unregistered lands are not protected and may be subject to reclamation. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "A-006",
         "page": 1,
         "shortDescription": "Players may build farms only with a farm license issued by the government.",
-        "longDescription": "To manage server performance and economic balance, the construction of any automated or large-scale farm requires an official farm license. This license ensures the farm complies with server regulations."
+        "longDescription": "To manage server performance and economic balance, the construction of any automated or large-scale farm requires an official farm license. This license ensures the farm complies with server regulations. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "A-007",
         "page": 1,
         "shortDescription": "No player shall be forced to work without pay.",
-        "longDescription": "In-game labor must be compensated. No player can be forced or coerced into performing a job or task for another player or entity without receiving fair, agreed-upon payment."
+        "longDescription": "In-game labor must be compensated. No player can be forced or coerced into performing a job or task for another player or entity without receiving fair, agreed-upon payment. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "A-008",
         "page": 1,
         "shortDescription": "Every player can run for government positions unless banned.",
-        "longDescription": "All players in good standing have the democratic right to run for government positions during election periods. Only players with active bans are disqualified from participating."
+        "longDescription": "All players in good standing have the democratic right to run for government positions during election periods. Only players with active bans are disqualified from participating. Punishment: Permanent suspension from elections and government roles."
       },
       {
         "code": "A-009",
         "page": 1,
         "shortDescription": "Elections must be conducted fairly; no vote stealing is allowed.",
-        "longDescription": "The integrity of the election process is paramount. Any attempts at vote manipulation, stealing votes, or coercing voters are illegal and will result in severe punishment, including potential disqualification."
+        "longDescription": "The integrity of the election process is paramount. Any attempts at vote manipulation, stealing votes, or coercing voters are illegal and will result in severe punishment, including potential disqualification. Punishment: Permanent suspension from elections and government roles."
       },
       {
         "code": "A-010",
         "page": 1,
         "shortDescription": "All server members must have proper details filled by the Police Department before joining officially.",
-        "longDescription": "For security and record-keeping, every new member must complete a registration process with the Police Department. This ensures all players are officially documented within the server's systems."
+        "longDescription": "For security and record-keeping, every new member must complete a registration process with the Police Department. This ensures all players are officially documented within the server's systems. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "A-011",
         "page": 1,
         "shortDescription": "No private deal shall exceed 200k offline currency, otherwise it is invalid.",
-        "longDescription": "To prevent fraud and unmonitored large transactions, any private trade or deal valued at more than 200,000 units of offline currency is automatically considered invalid and unenforceable by server law."
+        "longDescription": "To prevent fraud and unmonitored large transactions, any private trade or deal valued at more than 200,000 units of offline currency is automatically considered invalid and unenforceable by server law. Punishment: Permanent ban and confiscation of illegal assets."
       },
       {
         "code": "A-012",
         "page": 1,
         "shortDescription": "Any transaction above 200k requires government court approval.",
-        "longDescription": "For any transaction exceeding the 200k limit to be valid, it must be brought before the government court for review and approval. This creates a legal record and ensures the trade is fair."
+        "longDescription": "For any transaction exceeding the 200k limit to be valid, it must be brought before the government court for review and approval. This creates a legal record and ensures the trade is fair. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "A-013",
         "page": 1,
         "shortDescription": "Players have the right to file complaints to the Judge.",
-        "longDescription": "If a player believes they have been wronged or has witnessed a violation of server law, they have the right to file an official complaint with the Judge for review and potential action."
+        "longDescription": "If a player believes they have been wronged or has witnessed a violation of server law, they have the right to file an official complaint with the Judge for review and potential action. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "A-014",
         "page": 1,
         "shortDescription": "Players have the right to appeal against punishment.",
-        "longDescription": "If a player receives a punishment (such as a jail sentence or fine), they have the right to submit a formal appeal to the court, presenting their case for why the punishment should be reconsidered."
+        "longDescription": "If a player receives a punishment (such as a jail sentence or fine), they have the right to submit a formal appeal to the court, presenting their case for why the punishment should be reconsidered. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "A-015",
         "page": 1,
         "shortDescription": "Players cannot be jailed without Judge or Admin permission.",
-        "longDescription": "Jailing is a serious punishment that cannot be carried out by regular players or lower-level staff. Only a Judge or an Admin has the authority to issue a jail sentence after reviewing the case."
+        "longDescription": "Jailing is a serious punishment that cannot be carried out by regular players or lower-level staff. Only a Judge or an Admin has the authority to issue a jail sentence after reviewing the case. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "A-016",
         "page": 1,
         "shortDescription": "No player may be banned or muted without proper reasoning.",
-        "longDescription": "All punishments, especially severe ones like bans or mutes, must be accompanied by a clear and valid reason based on server rules. Arbitrary punishments are not permitted."
+        "longDescription": "All punishments, especially severe ones like bans or mutes, must be accompanied by a clear and valid reason based on server rules. Arbitrary punishments are not permitted. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "A-017",
         "page": 1,
         "shortDescription": "No excessive taxation beyond the 20% maximum tax rate.",
-        "longDescription": "To protect the economy and player wealth, the government is legally forbidden from setting the general tax rate higher than the maximum cap of 20%."
+        "longDescription": "To protect the economy and player wealth, the government is legally forbidden from setting the general tax rate higher than the maximum cap of 20%. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "A-018",
         "page": 1,
         "shortDescription": "GST is fixed at 12% unless modified by Admin.",
-        "longDescription": "A Goods and Services Tax (GST) of 12% is applied to all relevant transactions. This rate is fixed and can only be changed by a server Admin, not the in-game government."
+        "longDescription": "A Goods and Services Tax (GST) of 12% is applied to all relevant transactions. This rate is fixed and can only be changed by a server Admin, not the in-game government. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "A-019",
         "page": 1,
         "shortDescription": "Players have the right to create shops but must be well organized and free of illegal items.",
-        "longDescription": "Players are encouraged to open shops, but they must be kept tidy, well-organized, and are strictly prohibited from selling any items deemed illegal by server law."
+        "longDescription": "Players are encouraged to open shops, but they must be kept tidy, well-organized, and are strictly prohibited from selling any items deemed illegal by server law. Punishment: Shop closure and 200k fine."
       },
       {
         "code": "A-020",
         "page": 1,
         "shortDescription": "Black money, fraud, or illegal trading is strictly prohibited.",
-        "longDescription": "Any form of economic crime, including the use of laundered or 'black' money, fraudulent schemes, or trading in prohibited items, is illegal and will result in severe consequences."
+        "longDescription": "Any form of economic crime, including the use of laundered or 'black' money, fraudulent schemes, or trading in prohibited items, is illegal and will result in severe consequences. Punishment: Permanent ban and confiscation of illegal assets."
       }
     ]
   },
   {
-    "title": "Section B – Duties & Responsibilities (21–40)",
+    "title": "Section B \u2013 Duties & Responsibilities (21\u201340)",
     "rules": [
       {
         "code": "B-001",
         "page": 2,
         "shortDescription": "Players must respect others in chat and in-game.",
-        "longDescription": "It is the fundamental duty of every player to behave respectfully towards others at all times, both in public chat and in direct in-game interactions. This is essential for a positive community."
+        "longDescription": "It is the fundamental duty of every player to behave respectfully towards others at all times, both in public chat and in direct in-game interactions. This is essential for a positive community. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "B-002",
         "page": 2,
         "shortDescription": "Griefing is strictly forbidden.",
-        "longDescription": "Players have a duty to respect the property of others. Intentionally destroying, defacing, or stealing from another player's build (griefing) is a serious offense and is strictly forbidden."
+        "longDescription": "Players have a duty to respect the property of others. Intentionally destroying, defacing, or stealing from another player's build (griefing) is a serious offense and is strictly forbidden. Punishment: 7 days jail or permanent suspension for repeated offenses."
       },
       {
         "code": "B-003",
         "page": 2,
         "shortDescription": "Players must follow all job duties honestly.",
-        "longDescription": "When a player accepts a job, it is their duty to perform the required tasks honestly and to the best of their ability, without exploiting loopholes or being negligent."
+        "longDescription": "When a player accepts a job, it is their duty to perform the required tasks honestly and to the best of their ability, without exploiting loopholes or being negligent. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "B-004",
         "page": 2,
         "shortDescription": "All government and private job holders must serve fairly.",
-        "longDescription": "Any player holding a position of power, whether in government or a private company, has a duty to serve without bias and to treat all other players fairly."
+        "longDescription": "Any player holding a position of power, whether in government or a private company, has a duty to serve without bias and to treat all other players fairly. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "B-005",
         "page": 2,
         "shortDescription": "Government leaders must ensure tax money is used correctly for server development.",
-        "longDescription": "The elected government has a fiduciary duty to use tax revenue responsibly, directing funds towards projects that benefit the entire server community, such as infrastructure and events."
+        "longDescription": "The elected government has a fiduciary duty to use tax revenue responsibly, directing funds towards projects that benefit the entire server community, such as infrastructure and events. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "B-006",
         "page": 2,
         "shortDescription": "Jobs can be suspended by the Government with solid reasons (except Judge).",
-        "longDescription": "The government has the authority to suspend a player's job, but it must provide a valid, evidence-based reason for doing so. The role of the Judge is exempt from this rule."
+        "longDescription": "The government has the authority to suspend a player's job, but it must provide a valid, evidence-based reason for doing so. The role of the Judge is exempt from this rule. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "B-007",
         "page": 2,
         "shortDescription": "The Judge may suspend any player, including the Leader.",
-        "longDescription": "The Judge holds the ultimate authority to enforce laws and may suspend any player, including the current government Leader, if they are found to be in violation of server law."
+        "longDescription": "The Judge holds the ultimate authority to enforce laws and may suspend any player, including the current government Leader, if they are found to be in violation of server law. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "B-008",
         "page": 2,
         "shortDescription": "The Admin may suspend any authority without explanation.",
-        "longDescription": "The server Admin retains supreme authority and may suspend any player or government authority at their discretion, without the need for a public explanation, to protect server integrity."
+        "longDescription": "The server Admin retains supreme authority and may suspend any player or government authority at their discretion, without the need for a public explanation, to protect server integrity. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "B-009",
         "page": 2,
         "shortDescription": "No one may enter jail except with Judge/Admin permission.",
-        "longDescription": "The jail is a restricted area. It is the duty of all players to not enter the jail premises unless they have been sentenced by a Judge or given explicit permission by an Admin."
+        "longDescription": "The jail is a restricted area. It is the duty of all players to not enter the jail premises unless they have been sentenced by a Judge or given explicit permission by an Admin. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "B-010",
         "page": 2,
         "shortDescription": "Police must document all player details for server records.",
-        "longDescription": "The Police Department has the critical duty of documenting the details of all new players to maintain a comprehensive and accurate server census for security and administrative purposes."
+        "longDescription": "The Police Department has the critical duty of documenting the details of all new players to maintain a comprehensive and accurate server census for security and administrative purposes. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "B-011",
         "page": 2,
         "shortDescription": "Elections should be transparent and fair.",
-        "longDescription": "It is the duty of the government and any supervising bodies to ensure that all elections are conducted with full transparency and fairness, guaranteeing the integrity of the results."
+        "longDescription": "It is the duty of the government and any supervising bodies to ensure that all elections are conducted with full transparency and fairness, guaranteeing the integrity of the results. Punishment: Permanent suspension from elections and government roles."
       },
       {
         "code": "B-012",
         "page": 2,
         "shortDescription": "The government must protect all citizens.",
-        "longDescription": "The server government has a primary duty to protect all players from harm, whether from in-game threats, harassment, or unfair treatment, ensuring their safety and rights are upheld."
+        "longDescription": "The server government has a primary duty to protect all players from harm, whether from in-game threats, harassment, or unfair treatment, ensuring their safety and rights are upheld. Punishment: 7 days jail or permanent suspension for repeated offenses."
       },
       {
         "code": "B-013",
         "page": 2,
         "shortDescription": "Private companies must register under the government.",
-        "longDescription": "Any player wishing to start a private company or large-scale business has a duty to officially register it with the government, ensuring it operates within server laws."
+        "longDescription": "Any player wishing to start a private company or large-scale business has a duty to officially register it with the government, ensuring it operates within server laws. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "B-014",
         "page": 2,
         "shortDescription": "Shops must be inspected regularly to avoid illegal items.",
-        "longDescription": "It is the duty of the relevant authorities to conduct regular inspections of all player shops to ensure they are not selling illegal or prohibited items, thereby maintaining a clean market."
+        "longDescription": "It is the duty of the relevant authorities to conduct regular inspections of all player shops to ensure they are not selling illegal or prohibited items, thereby maintaining a clean market. Punishment: Shop closure and 200k fine."
       },
       {
         "code": "B-015",
         "page": 2,
         "shortDescription": "No player may kill the Ender Dragon without Admin approval.",
-        "longDescription": "The Ender Dragon is a server-wide boss. As such, it is the duty of all players to refrain from fighting or killing it until an official, Admin-approved event has been organized."
+        "longDescription": "The Ender Dragon is a server-wide boss. As such, it is the duty of all players to refrain from fighting or killing it until an official, Admin-approved event has been organized. Punishment: 7 days jail or permanent suspension for repeated offenses."
       },
       {
         "code": "B-016",
         "page": 2,
         "shortDescription": "No player may kill another player more than 5 times continuously.",
-        "longDescription": "To prevent harassment, players have a duty to not kill the same player more than five times in a continuous fashion. Repeatedly targeting a player is considered player harassment and is punishable."
+        "longDescription": "To prevent harassment, players have a duty to not kill the same player more than five times in a continuous fashion. Repeatedly targeting a player is considered player harassment and is punishable. Punishment: 7 days jail or permanent suspension for repeated offenses."
       },
       {
         "code": "B-017",
         "page": 2,
         "shortDescription": "All players must contribute to the economy fairly.",
-        "longDescription": "Every player has a duty to participate in the economy in a fair manner, avoiding exploits or unfair practices that could destabilize the market or harm other players."
+        "longDescription": "Every player has a duty to participate in the economy in a fair manner, avoiding exploits or unfair practices that could destabilize the market or harm other players. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "B-018",
         "page": 2,
         "shortDescription": "Farms must not lag the server.",
-        "longDescription": "Players have a duty to design and build their farms in a way that is efficient and does not cause significant lag, which can negatively impact the gameplay experience for everyone online."
+        "longDescription": "Players have a duty to design and build their farms in a way that is efficient and does not cause significant lag, which can negatively impact the gameplay experience for everyone online. Punishment: Farm destruction and 7 days suspension."
       },
       {
         "code": "B-019",
         "page": 2,
         "shortDescription": "All government members must attend weekly meetings.",
-        "longDescription": "It is the mandatory duty of all elected or appointed government members to attend the scheduled weekly meetings to ensure the smooth operation and governance of the server."
+        "longDescription": "It is the mandatory duty of all elected or appointed government members to attend the scheduled weekly meetings to ensure the smooth operation and governance of the server. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "B-020",
         "page": 2,
         "shortDescription": "Tax must not be stolen or misused by any authority.",
-        "longDescription": "Any player in a position of authority has a solemn duty to handle tax revenue with integrity. Stealing or misusing these public funds is a serious crime and will be punished severely."
+        "longDescription": "Any player in a position of authority has a solemn duty to handle tax revenue with integrity. Stealing or misusing these public funds is a serious crime and will be punished severely. Punishment: 200k fine or 7 days suspension."
       }
     ]
   },
   {
-    "title": "Section C – Government Rules (41–60)",
+    "title": "Section C \u2013 Government Rules (41\u201360)",
     "rules": [
       {
         "code": "C-001",
         "page": 3,
         "shortDescription": "Each Government term lasts 3 weeks (Admin selected) or 1 week (Leader selected).",
-        "longDescription": "The term length for the government is fixed. If a leader is selected by an Admin, the term is 3 weeks. If selected by a previous leader, the term is 1 week. This ensures regular rotation of power."
+        "longDescription": "The term length for the government is fixed. If a leader is selected by an Admin, the term is 3 weeks. If selected by a previous leader, the term is 1 week. This ensures regular rotation of power. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-002",
         "page": 3,
         "shortDescription": "Every 28 days, the government leader changes.",
-        "longDescription": "To ensure democratic rotation, a mandatory change in government leadership occurs every 28 days, preventing any single player from holding power indefinitely."
+        "longDescription": "To ensure democratic rotation, a mandatory change in government leadership occurs every 28 days, preventing any single player from holding power indefinitely. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-003",
         "page": 3,
         "shortDescription": "Government leaders cannot extend their term without Admin approval.",
-        "longDescription": "A government leader is strictly prohibited from extending their own term. An extension is only possible under special circumstances and requires explicit approval from a server Admin."
+        "longDescription": "A government leader is strictly prohibited from extending their own term. An extension is only possible under special circumstances and requires explicit approval from a server Admin. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-004",
         "page": 3,
         "shortDescription": "All government decisions must be written and stored.",
-        "longDescription": "For transparency and accountability, all official decisions, laws, and policies enacted by the government must be documented in writing and stored in a publicly accessible archive."
+        "longDescription": "For transparency and accountability, all official decisions, laws, and policies enacted by the government must be documented in writing and stored in a publicly accessible archive. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-005",
         "page": 3,
         "shortDescription": "A Judge cannot be removed unless found guilty by Admin.",
-        "longDescription": "To protect judicial independence, a Judge cannot be removed from their position by the government. Removal is only possible if an Admin finds them guilty of a serious offense."
+        "longDescription": "To protect judicial independence, a Judge cannot be removed from their position by the government. Removal is only possible if an Admin finds them guilty of a serious offense. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-006",
         "page": 3,
         "shortDescription": "Judges are independent and cannot be controlled by Leaders.",
-        "longDescription": "The judiciary is an independent branch of government. The Judge must not be influenced or controlled by the government Leader, ensuring impartial application of the law."
+        "longDescription": "The judiciary is an independent branch of government. The Judge must not be influenced or controlled by the government Leader, ensuring impartial application of the law. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-007",
         "page": 3,
         "shortDescription": "The Police must act neutrally and not favor any group.",
-        "longDescription": "The Police Department is required to enforce the law neutrally and without favoritism. They must not give preferential treatment to any player, group, or faction."
+        "longDescription": "The Police Department is required to enforce the law neutrally and without favoritism. They must not give preferential treatment to any player, group, or faction. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "C-008",
         "page": 3,
         "shortDescription": "Leaders must not collect personal profit from taxes.",
-        "longDescription": "Government leaders are forbidden from using their position to gain personal profit from tax revenue. All tax funds are for public use only."
+        "longDescription": "Government leaders are forbidden from using their position to gain personal profit from tax revenue. All tax funds are for public use only. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "C-009",
         "page": 3,
         "shortDescription": "Tax funds must be audited weekly.",
-        "longDescription": "To ensure transparency and prevent corruption, all government tax funds must undergo a mandatory public audit every week."
+        "longDescription": "To ensure transparency and prevent corruption, all government tax funds must undergo a mandatory public audit every week. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "C-010",
         "page": 3,
         "shortDescription": "Elections must be conducted under Judge supervision.",
-        "longDescription": "To guarantee fairness, all government elections must be conducted under the direct supervision of the independent Judge, who will ensure the process is legal and transparent."
+        "longDescription": "To guarantee fairness, all government elections must be conducted under the direct supervision of the independent Judge, who will ensure the process is legal and transparent. Punishment: Permanent suspension from elections and government roles."
       },
       {
         "code": "C-011",
         "page": 3,
         "shortDescription": "Fraud in elections is punishable by permanent suspension.",
-        "longDescription": "Any player found guilty of committing fraud during an election, such as by tampering with votes, will be punished with a permanent suspension from the server."
+        "longDescription": "Any player found guilty of committing fraud during an election, such as by tampering with votes, will be punished with a permanent suspension from the server. Punishment: Permanent ban and confiscation of illegal assets."
       },
       {
         "code": "C-012",
         "page": 3,
         "shortDescription": "Government can suspend any player job with proof.",
-        "longDescription": "The government has the authority to suspend a player from their job, but this action requires concrete proof of wrongdoing or negligence on the part of the player."
+        "longDescription": "The government has the authority to suspend a player from their job, but this action requires concrete proof of wrongdoing or negligence on the part of the player. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-013",
         "page": 3,
         "shortDescription": "Admin may dissolve the government if corruption is found.",
-        "longDescription": "If systemic corruption is discovered within the government, a server Admin has the ultimate authority to dissolve the entire government and call for new elections."
+        "longDescription": "If systemic corruption is discovered within the government, a server Admin has the ultimate authority to dissolve the entire government and call for new elections. Punishment: Permanent suspension from elections and government roles."
       },
       {
         "code": "C-014",
         "page": 3,
-        "shortDescription": "Leaders must respect Judges’ decisions.",
-        "longDescription": "The government Leader is not above the law and must respect and abide by the official rulings and decisions made by the server Judge."
+        "shortDescription": "Leaders must respect Judges\u2019 decisions.",
+        "longDescription": "The government Leader is not above the law and must respect and abide by the official rulings and decisions made by the server Judge. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-015",
         "page": 3,
         "shortDescription": "Judges may overrule leaders if the law is broken.",
-        "longDescription": "The Judge has the power of judicial review and may overrule any decision or action made by the government Leader if it is found to be in violation of server law."
+        "longDescription": "The Judge has the power of judicial review and may overrule any decision or action made by the government Leader if it is found to be in violation of server law. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-016",
         "page": 3,
         "shortDescription": "Police must arrest only with Judge/Admin orders.",
-        "longDescription": "The Police cannot arrest players on their own authority. An arrest warrant or direct order from a Judge or an Admin is required to lawfully detain a player."
+        "longDescription": "The Police cannot arrest players on their own authority. An arrest warrant or direct order from a Judge or an Admin is required to lawfully detain a player. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-017",
         "page": 3,
         "shortDescription": "Leaders must provide welfare to players through jobs/events.",
-        "longDescription": "The government is responsible for the welfare of its citizens. Leaders must actively work to provide jobs, host events, and create opportunities for all players."
+        "longDescription": "The government is responsible for the welfare of its citizens. Leaders must actively work to provide jobs, host events, and create opportunities for all players. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-018",
         "page": 3,
         "shortDescription": "All new laws must be approved by Admin.",
-        "longDescription": "While the government can propose new laws, they do not take effect until they have been reviewed and officially approved by a server Admin."
+        "longDescription": "While the government can propose new laws, they do not take effect until they have been reviewed and officially approved by a server Admin. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "C-019",
         "page": 3,
         "shortDescription": "Governments cannot increase taxes above 20% cap.",
-        "longDescription": "This reinforces the player right to fair taxation. The government is legally barred from setting any tax rate that exceeds the 20% maximum cap."
+        "longDescription": "This reinforces the player right to fair taxation. The government is legally barred from setting any tax rate that exceeds the 20% maximum cap. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "C-020",
         "page": 3,
         "shortDescription": "GST cannot be removed but only adjusted with Admin approval.",
-        "longDescription": "The 12% Goods and Services Tax is a permanent fixture of the economy. The government cannot remove it; only a server Admin can approve an adjustment to the rate."
+        "longDescription": "The 12% Goods and Services Tax is a permanent fixture of the economy. The government cannot remove it; only a server Admin can approve an adjustment to the rate. Punishment: 200k fine or 7 days suspension."
       }
     ]
   },
   {
-    "title": "Section D – Economy & Tax (61–80)",
+    "title": "Section D \u2013 Economy & Tax (61\u201380)",
     "rules": [
       {
         "code": "D-001",
         "page": 4,
         "shortDescription": "Economy must run fairly with no illegal trades.",
-        "longDescription": "The server's economy must be maintained as a fair system. All forms of illegal trade, including black market deals and fraudulent transactions, are strictly forbidden."
+        "longDescription": "The server's economy must be maintained as a fair system. All forms of illegal trade, including black market deals and fraudulent transactions, are strictly forbidden. Punishment: Permanent ban and confiscation of illegal assets."
       },
       {
         "code": "D-002",
         "page": 4,
         "shortDescription": "Taxes must be collected weekly.",
-        "longDescription": "The government is required to collect all applicable taxes on a regular, weekly schedule. This ensures a consistent and predictable flow of revenue for public projects."
+        "longDescription": "The government is required to collect all applicable taxes on a regular, weekly schedule. This ensures a consistent and predictable flow of revenue for public projects. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-003",
         "page": 4,
         "shortDescription": "Every job and business must pay tax.",
-        "longDescription": "No individual or entity is exempt from taxation. All jobs, businesses, and other forms of income are subject to the server's tax laws."
+        "longDescription": "No individual or entity is exempt from taxation. All jobs, businesses, and other forms of income are subject to the server's tax laws. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-004",
         "page": 4,
         "shortDescription": "Failure to pay tax may lead to suspension of land or jobs.",
-        "longDescription": "Tax evasion is a serious offense. Players who consistently fail to pay their taxes may face penalties, including the suspension of their job license or the temporary confiscation of their land."
+        "longDescription": "Tax evasion is a serious offense. Players who consistently fail to pay their taxes may face penalties, including the suspension of their job license or the temporary confiscation of their land. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-005",
         "page": 4,
         "shortDescription": "Maximum tax allowed: 20%.",
-        "longDescription": "This article codifies the maximum tax rate. Under no circumstances can the government levy a general tax rate that exceeds 20% of a player's income or transactions."
+        "longDescription": "This article codifies the maximum tax rate. Under no circumstances can the government levy a general tax rate that exceeds 20% of a player's income or transactions. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-006",
         "page": 4,
         "shortDescription": "GST fixed at 12% for all sales.",
-        "longDescription": "A mandatory 12% Goods and Services Tax (GST) is applied to all sales conducted through official shop systems. This rate is fixed and non-negotiable for players and the in-game government."
+        "longDescription": "A mandatory 12% Goods and Services Tax (GST) is applied to all sales conducted through official shop systems. This rate is fixed and non-negotiable for players and the in-game government. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-007",
         "page": 4,
         "shortDescription": "Court must ensure all transactions above 200k are legal.",
-        "longDescription": "It is the responsibility of the court to review and validate any transaction exceeding 200k in value. This judicial oversight ensures that large-scale trades are legal and properly documented."
+        "longDescription": "It is the responsibility of the court to review and validate any transaction exceeding 200k in value. This judicial oversight ensures that large-scale trades are legal and properly documented. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-008",
         "page": 4,
         "shortDescription": "Any illegal black money will be confiscated.",
-        "longDescription": "Any currency or assets found to be obtained through illegal means (such as exploits or fraud) will be considered 'black money' and will be immediately confiscated by the authorities."
+        "longDescription": "Any currency or assets found to be obtained through illegal means (such as exploits or fraud) will be considered 'black money' and will be immediately confiscated by the authorities. Punishment: Permanent ban and confiscation of illegal assets."
       },
       {
         "code": "D-009",
         "page": 4,
         "shortDescription": "Shops must provide receipts for all sales.",
-        "longDescription": "To ensure transparency and prevent disputes, all player-owned shops are required to have a system in place that provides customers with a receipt or log of their purchases."
+        "longDescription": "To ensure transparency and prevent disputes, all player-owned shops are required to have a system in place that provides customers with a receipt or log of their purchases. Punishment: Shop closure and 200k fine."
       },
       {
         "code": "D-010",
         "page": 4,
         "shortDescription": "Marketplaces must be government-approved.",
-        "longDescription": "Players may only set up shops in designated, government-approved marketplace areas. This prevents unregulated sprawl and ensures all shops are subject to inspection."
+        "longDescription": "Players may only set up shops in designated, government-approved marketplace areas. This prevents unregulated sprawl and ensures all shops are subject to inspection. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "D-011",
         "page": 4,
         "shortDescription": "Selling illegal or unapproved items is forbidden.",
-        "longDescription": "The sale of any item that is deemed illegal by server law (such as exploited items or Admin-only gear) is strictly forbidden and will result in the closure of the shop and punishment."
+        "longDescription": "The sale of any item that is deemed illegal by server law (such as exploited items or Admin-only gear) is strictly forbidden and will result in the closure of the shop and punishment. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "D-012",
         "page": 4,
         "shortDescription": "Tax must be used for community projects like roads, spawn, shops.",
-        "longDescription": "This law mandates that all tax revenue must be reinvested into the community. Funds should be used for public works such as roads, spawn improvements, and public shops."
+        "longDescription": "This law mandates that all tax revenue must be reinvested into the community. Funds should be used for public works such as roads, spawn improvements, and public shops. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-013",
         "page": 4,
         "shortDescription": "Players cannot avoid tax using alternate accounts.",
-        "longDescription": "Using alternate (alt) accounts to evade taxes or manipulate the economy is illegal. All accounts owned by a single player are considered one entity for tax purposes."
+        "longDescription": "Using alternate (alt) accounts to evade taxes or manipulate the economy is illegal. All accounts owned by a single player are considered one entity for tax purposes. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-014",
         "page": 4,
         "shortDescription": "Businesses must be registered with the government.",
-        "longDescription": "All player-run businesses, especially those of a large scale, must be officially registered with the government. This ensures they are operating legally and paying appropriate taxes."
+        "longDescription": "All player-run businesses, especially those of a large scale, must be officially registered with the government. This ensures they are operating legally and paying appropriate taxes. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-015",
         "page": 4,
         "shortDescription": "Unpaid tax for 3 weeks leads to land confiscation.",
-        "longDescription": "If a player fails to pay their taxes for a continuous period of three weeks, the government has the legal authority to confiscate their land as a final penalty."
+        "longDescription": "If a player fails to pay their taxes for a continuous period of three weeks, the government has the legal authority to confiscate their land as a final penalty. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-016",
         "page": 4,
         "shortDescription": "Bribery is illegal.",
-        "longDescription": "The act of offering, giving, receiving, or soliciting anything of value to influence the actions of a government official or another player is defined as bribery and is strictly illegal."
+        "longDescription": "The act of offering, giving, receiving, or soliciting anything of value to influence the actions of a government official or another player is defined as bribery and is strictly illegal. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "D-017",
         "page": 4,
         "shortDescription": "Any fraud in money handling results in permanent ban.",
-        "longDescription": "Economic crimes are taken very seriously. Any player found guilty of fraud, embezzlement, or other forms of financial misconduct will be permanently banned from the server."
+        "longDescription": "Economic crimes are taken very seriously. Any player found guilty of fraud, embezzlement, or other forms of financial misconduct will be permanently banned from the server. Punishment: Permanent ban and confiscation of illegal assets."
       },
       {
         "code": "D-018",
         "page": 4,
         "shortDescription": "Jobs that avoid paying tax will be suspended.",
-        "longDescription": "If a job or business is found to be structured in a way that intentionally avoids taxation, its license will be suspended, and the owner will be penalized."
+        "longDescription": "If a job or business is found to be structured in a way that intentionally avoids taxation, its license will be suspended, and the owner will be penalized. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-019",
         "page": 4,
         "shortDescription": "Offline deals above 200k require 100% fine payment if illegal.",
-        "longDescription": "If an offline deal exceeding 200k is conducted without court approval and is found to be illegal, the guilty parties will be fined 100% of the transaction's value."
+        "longDescription": "If an offline deal exceeding 200k is conducted without court approval and is found to be illegal, the guilty parties will be fined 100% of the transaction's value. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "D-020",
         "page": 4,
         "shortDescription": "Economy must remain balanced by Admin checks.",
-        "longDescription": "To ensure long-term stability, the server economy will be subject to periodic checks and balancing by the Admin team, who may intervene to correct inflation or other issues."
+        "longDescription": "To ensure long-term stability, the server economy will be subject to periodic checks and balancing by the Admin team, who may intervene to correct inflation or other issues. Punishment: 200k fine or 7 days suspension."
       }
     ]
   },
   {
-    "title": "Section E – Court & Punishments (81–100)",
+    "title": "Section E \u2013 Court & Punishments (81\u2013100)",
     "rules": [
       {
         "code": "E-001",
         "page": 5,
         "shortDescription": "Judges are supreme in all disputes.",
-        "longDescription": "The Judge's ruling is final and supreme in all player-to-player and player-to-government disputes. Their authority in legal matters is second only to the server Admins."
+        "longDescription": "The Judge's ruling is final and supreme in all player-to-player and player-to-government disputes. Their authority in legal matters is second only to the server Admins. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "E-002",
         "page": 5,
         "shortDescription": "Only Judges/Admins can authorize jail.",
-        "longDescription": "The power to jail a player is restricted to the highest authorities. No other player or government official has the right to authorize a jail sentence."
+        "longDescription": "The power to jail a player is restricted to the highest authorities. No other player or government official has the right to authorize a jail sentence. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "E-003",
         "page": 5,
         "shortDescription": "Players may appeal against jail or ban within 7 days.",
-        "longDescription": "A player who has been jailed or banned has a 7-day window to submit a formal appeal. After this period, the punishment is considered final and cannot be challenged."
+        "longDescription": "A player who has been jailed or banned has a 7-day window to submit a formal appeal. After this period, the punishment is considered final and cannot be challenged. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "E-004",
         "page": 5,
         "shortDescription": "Fraud cases must be handled within 3 days.",
-        "longDescription": "To ensure swift justice, all reported cases of fraud must be investigated and handled by the court and relevant authorities within a 3-day timeframe."
+        "longDescription": "To ensure swift justice, all reported cases of fraud must be investigated and handled by the court and relevant authorities within a 3-day timeframe. Punishment: Permanent ban and confiscation of illegal assets."
       },
       {
         "code": "E-005",
         "page": 5,
         "shortDescription": "All illegal farms must be destroyed.",
-        "longDescription": "Upon discovery, any farm that was built without a proper license or that violates server performance rules will be immediately and permanently destroyed by the authorities."
+        "longDescription": "Upon discovery, any farm that was built without a proper license or that violates server performance rules will be immediately and permanently destroyed by the authorities. Punishment: Farm destruction and 7 days suspension."
       },
       {
         "code": "E-006",
         "page": 5,
         "shortDescription": "Shops breaking rules must be closed.",
-        "longDescription": "Any shop found to be in violation of server laws, such as selling illegal items or engaging in fraudulent practices, will be shut down, and the owner will be punished."
+        "longDescription": "Any shop found to be in violation of server laws, such as selling illegal items or engaging in fraudulent practices, will be shut down, and the owner will be punished. Punishment: Permanent ban and confiscation of illegal assets."
       },
       {
         "code": "E-007",
         "page": 5,
         "shortDescription": "Tax stealers will be banned for minimum 1 week.",
-        "longDescription": "Any authority figure found guilty of stealing or misusing tax money will receive a minimum punishment of a 1-week ban, with the possibility of a permanent suspension for severe cases."
+        "longDescription": "Any authority figure found guilty of stealing or misusing tax money will receive a minimum punishment of a 1-week ban, with the possibility of a permanent suspension for severe cases. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "E-008",
         "page": 5,
         "shortDescription": "Election fraud leads to permanent suspension.",
-        "longDescription": "To protect the integrity of the government, any player proven to have committed election fraud will be permanently suspended from the server without the possibility of appeal."
+        "longDescription": "To protect the integrity of the government, any player proven to have committed election fraud will be permanently suspended from the server without the possibility of appeal. Punishment: Permanent ban and confiscation of illegal assets."
       },
       {
         "code": "E-009",
         "page": 5,
         "shortDescription": "Illegal land grabs will be reverted.",
-        "longDescription": "Any land that was acquired illegally, either through exploits or by building on unregistered territory, will be reverted to its original state, and the illegal structures will be removed."
+        "longDescription": "Any land that was acquired illegally, either through exploits or by building on unregistered territory, will be reverted to its original state, and the illegal structures will be removed. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "E-010",
         "page": 5,
         "shortDescription": "Killing Ender Dragon without approval = ban.",
-        "longDescription": "Violating the law against killing the Ender Dragon outside of an official event is a serious offense that will result in an immediate ban from the server."
+        "longDescription": "Violating the law against killing the Ender Dragon outside of an official event is a serious offense that will result in an immediate ban from the server. Punishment: 7 days jail or permanent suspension for repeated offenses."
       },
       {
         "code": "E-011",
         "page": 5,
         "shortDescription": "Killing a player 5 times repeatedly = jail.",
-        "longDescription": "The act of repeatedly killing the same player five or more times in a row is defined as harassment and is punishable by a jail sentence issued by a Judge."
+        "longDescription": "The act of repeatedly killing the same player five or more times in a row is defined as harassment and is punishable by a jail sentence issued by a Judge. Punishment: 7 days jail or permanent suspension for repeated offenses."
       },
       {
         "code": "E-012",
         "page": 5,
         "shortDescription": "Illegal trades will lead to double tax penalty.",
-        "longDescription": "Anyone caught engaging in illegal trades will be fined an amount equal to double the standard tax rate for the transaction's value, in addition to any other punishments."
+        "longDescription": "Anyone caught engaging in illegal trades will be fined an amount equal to double the standard tax rate for the transaction's value, in addition to any other punishments. Punishment: 200k fine or 7 days suspension."
       },
       {
         "code": "E-013",
         "page": 5,
         "shortDescription": "Government corruption will lead to government termination.",
-        "longDescription": "If the government as a whole is found to be corrupt, it will be immediately terminated by the Admin team, and a new election cycle will be initiated."
+        "longDescription": "If the government as a whole is found to be corrupt, it will be immediately terminated by the Admin team, and a new election cycle will be initiated. Punishment: Permanent suspension from elections and government roles."
       },
       {
         "code": "E-014",
         "page": 5,
         "shortDescription": "Leaders misusing power will be suspended permanently.",
-        "longDescription": "Any government leader who abuses their power for personal gain or to harass players will be removed from their position and permanently suspended from the server."
+        "longDescription": "Any government leader who abuses their power for personal gain or to harass players will be removed from their position and permanently suspended from the server. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "E-015",
         "page": 5,
         "shortDescription": "Police failing to record player details will be punished.",
-        "longDescription": "Members of the Police Department who are negligent in their duty to record new player details will face internal disciplinary action and potential punishment."
+        "longDescription": "Members of the Police Department who are negligent in their duty to record new player details will face internal disciplinary action and potential punishment. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "E-016",
         "page": 5,
         "shortDescription": "Judges may suspend leaders if laws are violated.",
-        "longDescription": "This article reaffirms the Judge's power. If a government leader is found to be in violation of server law, the Judge has the authority to suspend them from their position."
+        "longDescription": "This article reaffirms the Judge's power. If a government leader is found to be in violation of server law, the Judge has the authority to suspend them from their position. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "E-017",
         "page": 5,
         "shortDescription": "Admin may suspend any authority without trial.",
-        "longDescription": "The server Admin retains the ultimate power to suspend any authority figure, including Judges and Leaders, without a trial if it is deemed necessary for the health and safety of the server."
+        "longDescription": "The server Admin retains the ultimate power to suspend any authority figure, including Judges and Leaders, without a trial if it is deemed necessary for the health and safety of the server. Punishment: Suspension from duty and possible permanent removal."
       },
       {
         "code": "E-018",
         "page": 5,
         "shortDescription": "No illegal works shall be tolerated in server.",
-        "longDescription": "This is a zero-tolerance policy. Any and all illegal activities, as defined by server law, will not be tolerated and will be met with appropriate punishment."
+        "longDescription": "This is a zero-tolerance policy. Any and all illegal activities, as defined by server law, will not be tolerated and will be met with appropriate punishment. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "E-019",
         "page": 5,
         "shortDescription": "All players must respect others in words and actions.",
-        "longDescription": "This is a final reminder of the server's core principle. All players are expected to demonstrate respect for others through both their words in chat and their actions in the game."
+        "longDescription": "This is a final reminder of the server's core principle. All players are expected to demonstrate respect for others through both their words in chat and their actions in the game. Punishment: 7 days suspension or 200k fine."
       },
       {
         "code": "E-020",
         "page": 5,
         "shortDescription": "Laws can only be updated by Admin.",
-        "longDescription": "The official server laws are permanent and can only be amended, added to, or removed by a server Admin. The in-game government does not have the power to change the lawbook."
+        "longDescription": "The official server laws are permanent and can only be amended, added to, or removed by a server Admin. The in-game government does not have the power to change the lawbook. Punishment: Suspension from duty and possible permanent removal."
       }
     ]
   }
